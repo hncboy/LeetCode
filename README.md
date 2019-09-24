@@ -22,9 +22,11 @@
 | 19 | [删除链表的倒数第N个节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveNthNodeFromEndOfList.java) | 中等 |
 | 20 | [有效的括号](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidParentheses.java) | 简单 |
 | 21 | [合并两个有序链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MergeTwoSortedLists.java) | 简单 |
+| 26 | [删除排序数组中的重复项](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveDuplicatesFromSortedArray.java) | 简单 |
 | 27 | [移除元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveElement.java) | 简单 |
 | 29 | 两数相除 | 中等 |
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindFirstAndLastPositionOfElementInSortedArray.java) | 中等 |
+| 36 | [有效的数独](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidSudoku.java) | 中等 |
 | 38 | [报数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountAndSay.java) | 简单 |
 | 41 | [缺失的第一个正数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FirstMissingPositive.java) | 困难 |
 | 42 | 接雨水 | 困难 |
