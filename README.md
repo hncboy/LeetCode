@@ -32,6 +32,7 @@
 | 42 | 接雨水 | 困难 |
 | 46 | [全排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Permutations.java) | 中等 |
 | 48 | [旋转图像](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RotateImage.java) | 中等 |
+| 53 | [最大子序和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumSubarray.java) | 简单 |
 | 55 | [跳跃游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/JumpGame.java) | 中等 |
 | 66 | [加一](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PlusOne.java) | 简单 |
 | 69 | [x的平方根](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SqrtX.java) | 简单 |
