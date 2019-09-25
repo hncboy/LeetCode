@@ -35,6 +35,7 @@
 | 48 | [旋转图像](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RotateImage.java) | 中等 |
 | 53 | [最大子序和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumSubarray.java) | 简单 |
 | 55 | [跳跃游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/JumpGame.java) | 中等 |
+| 61 | [旋转链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RotateList.java) | 中等 |
 | 66 | [加一](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PlusOne.java) | 简单 |
 | 69 | [x的平方根](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SqrtX.java) | 简单 |
 | 70 | [爬楼梯](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ClimbingStairs.java) | 简单 |
@@ -52,6 +53,7 @@
 | 141 | [环形链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LinkedListCycle.java) | 简单 |
 | 144 | [二叉树的前序遍历](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreePreorderTraversal.java) | 中等 |
 | 145 | [二叉树的后序遍历](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreePostorderTraversal.java) | 困难 |
+| 203 | [移除链表元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveLinkedListElements.java) | 简单 |
 | 237 | [删除链表中的节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DeleteNodeInALinkedList.java) | 简单 |
 | 292 | [Nim 游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NimGame.java) | 简单 |
 | 1003 | [检查替换后的词是否有效](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfWordIsValidAfterSubstitutions.java) | 中等 |
