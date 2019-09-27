@@ -53,6 +53,7 @@
 | 141 | [环形链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LinkedListCycle.java) | 简单 |
 | 144 | [二叉树的前序遍历](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreePreorderTraversal.java) | 中等 |
 | 145 | [二叉树的后序遍历](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreePostorderTraversal.java) | 困难 |
+| 148 | [排序链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SortList.java) | 中等 |
 | 160 | [相交链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntersectionOfTwoLinkedLists.java) | 简单 |
 | 203 | [移除链表元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveLinkedListElements.java) | 简单 |
 | 206 | [反转链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseLinkedList.java) | 简单 |
