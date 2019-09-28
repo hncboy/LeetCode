@@ -36,6 +36,7 @@
 | 46 | [全排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Permutations.java) | 中等 |
 | 48 | [旋转图像](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RotateImage.java) | 中等 |
 | 53 | [最大子序和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumSubarray.java) | 简单 |
+| 54 | [螺旋矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SpiralMatrix.java) | 中等 |
 | 55 | [跳跃游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/JumpGame.java) | 中等 |
 | 61 | [旋转链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RotateList.java) | 中等 |
 | 66 | [加一](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PlusOne.java) | 简单 |
