@@ -23,6 +23,7 @@
 | 19 | [删除链表的倒数第N个节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveNthNodeFromEndOfList.java) | 中等 |
 | 20 | [有效的括号](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidParentheses.java) | 简单 |
 | 21 | [合并两个有序链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MergeTwoSortedLists.java) | 简单 |
+| 22 | [括号生成](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GenerateParentheses.java) | 中等 |
 | 26 | [删除排序数组中的重复项](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveDuplicatesFromSortedArray.java) | 简单 |
 | 27 | [移除元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveElement.java) | 简单 |
 | 29 | 两数相除 | 中等 |
