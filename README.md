@@ -1,5 +1,5 @@
 # LeetCode
-
+For
 [力扣中国](https://leetcode-cn.com) 
 
 | 序号 | 题名 | 难度 |
