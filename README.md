@@ -29,6 +29,7 @@
 | 27 | [移除元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveElement.java) | 简单 |
 | 28 | [实现 strStr()](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ImplementStrstr.java) | 简单 |
 | 29 | 两数相除 | 中等 |
+| 31 | [下一个排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NextPermutation.java) | 中等 |
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindFirstAndLastPositionOfElementInSortedArray.java) | 中等 |
 | 36 | [有效的数独](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidSudoku.java) | 中等 |
 | 38 | [报数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountAndSay.java) | 简单 |
