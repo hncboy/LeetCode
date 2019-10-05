@@ -21,8 +21,6 @@ package com.hncboy;
  */
 public class MaximumDepthOfBinaryTree {
 
-    private static int max = 0;
-
     public static void main(String[] args) {
         TreeNode node = new TreeNode(3);
         node.left = new TreeNode(9);
