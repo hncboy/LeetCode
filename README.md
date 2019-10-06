@@ -44,6 +44,7 @@ From
 | 53 | [最大子序和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumSubarray.java) | 简单 |
 | 54 | [螺旋矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SpiralMatrix.java) | 中等 |
 | 55 | [跳跃游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/JumpGame.java) | 中等 |
+| 56 | [合并区间](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MergeIntervals.java) | 中等 |
 | 61 | [旋转链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RotateList.java) | 中等 |
 | 62 | [不同路径](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UniquePaths.java) | 中等 |
 | 64 | [最小路径和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumPathSum.java) | 中等 |
@@ -80,3 +81,4 @@ From
 | 344 | [反转字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseString.java) | 简单 |
 | 1003 | [检查替换后的词是否有效](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfWordIsValidAfterSubstitutions.java) | 中等 |
 | 1114 | [按序打印](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PrintInOrder.java) | 简单 |
+
