@@ -74,6 +74,7 @@ From
 | 160 | [相交链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntersectionOfTwoLinkedLists.java) | 简单 |
 | 203 | [移除链表元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveLinkedListElements.java) | 简单 |
 | 206 | [反转链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseLinkedList.java) | 简单 |
+| 215 | [数组中的第K个最大元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KthLargestElementInAnArray.java) | 简单 |
 | 217 | [存在重复元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ContainsDuplicate.java) | 简单 |
 | 234 | [回文链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PalindromeLinkedList.java) | 简单 |
 | 237 | [删除链表中的节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DeleteNodeInALinkedList.java) | 简单 |
@@ -82,3 +83,12 @@ From
 | 1003 | [检查替换后的词是否有效](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfWordIsValidAfterSubstitutions.java) | 中等 |
 | 1114 | [按序打印](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PrintInOrder.java) | 简单 |
 
+## 第 157 场周赛
+| 5213 | [玩筹码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/weeklycontest157/PlayWithChips.java) | 简单 |
+| 5214 | [最长定差子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/weeklycontest157/LongestArithmeticSubsequenceOfGivenDifference.java) | 中等 |
+| 5215 | [黄金矿工](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/weeklycontest157/PathWithMaximumGold.java) | 中等 |
+| 5216 | [统计元音字母序列的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/weeklycontest157/CountVowelsPermutation.java) | 困难 |
+| 5213 | [玩筹码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/weeklycontest157/PlayWithChips.java) | 简单 |
+| 5214 | [最长定差子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/weeklycontest157/LongestArithmeticSubsequenceOfGivenDifference.java) | 中等 |
+| 5215 | [黄金矿工](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/weeklycontest157/PathWithMaximumGold.java) | 中等 |
+| 5216 | [统计元音字母序列的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/weeklycontest157/CountVowelsPermutation.java) | 困难 |
