@@ -83,6 +83,7 @@ From
 | 292 | [Nim 游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NimGame.java) | 简单 |
 | 326 | [3的幂](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PowerOfThree.java) | 简单 |
 | 344 | [反转字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseString.java) | 简单 |
+| 384 | [打乱数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShuffleAnArray.java) | 中等 |
 | 1003 | [检查替换后的词是否有效](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfWordIsValidAfterSubstitutions.java) | 中等 |
 | 1114 | [按序打印](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PrintInOrder.java) | 简单 |
 | 5213 | [玩筹码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/weeklycontest157/PlayWithChips.java) | 简单 |
