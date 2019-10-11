@@ -36,6 +36,7 @@ From
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindFirstAndLastPositionOfElementInSortedArray.java) | 中等 |
 | 36 | [有效的数独](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidSudoku.java) | 中等 |
 | 38 | [报数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountAndSay.java) | 简单 |
+| 39 | [组合总和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CombinationSum.java) | 中等 |
 | 41 | [缺失的第一个正数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FirstMissingPositive.java) | 困难 |
 | 42 | 接雨水 | 困难 |
 | 46 | [全排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Permutations.java) | 中等 |
