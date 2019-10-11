@@ -55,6 +55,7 @@ From
 | 70 | [爬楼梯](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ClimbingStairs.java) | 简单 |
 | 73 | [矩阵置零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SetMatrixZeroes.java) | 中等 |
 | 75 | [颜色分类](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SortColors.java) | 中等 |
+| 76 | [最小覆盖子串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumWindowSubstring.java) | 困难 |
 | 78 | [子集](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Subsets.java) | 中等 |
 | 79 | [单词搜索](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WordSearch.java) | 中等 |
 | 88 | [合并两个有序数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MergeSortedArray.java) | 简单 |
