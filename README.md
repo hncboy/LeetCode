@@ -72,6 +72,7 @@ From
 | 124 | [二叉树中的最大路径和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreeMaximumPathSum.java) | 困难 |
 | 125 | [验证回文串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidPalindrome.java) | 简单 |
 | 128 | [最长连续序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestConsecutiveSequence.java) | 困难 |
+| 131 | [分割回文串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PalindromePartitioning.java) | 中等 |
 | 136 | [只出现一次的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SingleNumber.java) | 简单 |
 | 139 | [单词拆分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WordBreak.java) | 中等 |
 | 141 | [环形链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LinkedListCycle.java) | 简单 |
