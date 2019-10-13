@@ -1,4 +1,4 @@
-package com.hncboy.weeklycontest157;
+package com.hncboy;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * @author hncboy
  * @date 2019/10/6 10:57
- * @description 5214.最长定差子序列
+ * @description 1218.最长定差子序列
  *
  * 给你一个整数数组 arr 和一个整数 difference，
  * 请你找出 arr 中所有相邻元素之间的差等于给定 difference 的等差子序列，

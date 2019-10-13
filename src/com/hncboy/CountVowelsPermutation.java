@@ -1,11 +1,11 @@
-package com.hncboy.weeklycontest157;
+package com.hncboy;
 
 import java.util.Arrays;
 
 /**
  * @author hncboy
  * @date 2019/10/6 11:12
- * @description 5216.统计元音字母序列的数目
+ * @description 1220.统计元音字母序列的数目
  *
  * 给你一个整数 n，请你帮忙统计一下我们可以按下述规则形成多少个长度为 n 的字符串：
  *

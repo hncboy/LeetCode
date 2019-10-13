@@ -1,9 +1,9 @@
-package com.hncboy.weeklycontest157;
+package com.hncboy;
 
 /**
  * @author hncboy
  * @date 2019/10/6 10:30
- * @description 5213.玩筹码
+ * @description 1217.玩筹码
  *
  * 数轴上放置了一些筹码，每个筹码的位置存在数组 chips 当中。
  * 你可以对 任何筹码 执行下面两种操作之一（不限操作次数，0 次也可以）：

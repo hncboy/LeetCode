@@ -99,7 +99,9 @@ From
 | 387 | [字符串中的第一个唯一字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FirstUniqueCharacterInAString.java) | 简单 |
 | 1003 | [检查替换后的词是否有效](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfWordIsValidAfterSubstitutions.java) | 中等 |
 | 1114 | [按序打印](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PrintInOrder.java) | 简单 |
-| 5213 | [玩筹码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/weeklycontest157/PlayWithChips.java) | 简单 |
-| 5214 | [最长定差子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/weeklycontest157/LongestArithmeticSubsequenceOfGivenDifference.java) | 中等 |
-| 5215 | [黄金矿工](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/weeklycontest157/PathWithMaximumGold.java) | 中等 |
-| 5216 | [统计元音字母序列的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/weeklycontest157/CountVowelsPermutation.java) | 困难 |
+| 1217 | [玩筹码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PlayWithChips.java) | 简单 |
+| 1218 | [最长定差子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestArithmeticSubsequenceOfGivenDifference.java) | 中等 |
+| 1219 | [黄金矿工](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PathWithMaximumGold.java) | 中等 |
+| 1220 | [统计元音字母序列的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountVowelsPermutation.java) | 困难 |
+| 5222 | [分割平衡字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SplitAStringInBalancedStrings.java) | 简单 |
+| 5223 | [可以攻击国王的皇后](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/QueensThatCanAttackTheKing.java) | 中等 |
