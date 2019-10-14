@@ -94,6 +94,7 @@ From
 | 322 | [零钱兑换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CoinChange.java) | 中等 |
 | 326 | [3的幂](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PowerOfThree.java) | 简单 |
 | 344 | [反转字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseString.java) | 简单 |
+| 350 | [两个数组的交集 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntersectionOfTwoArraysII.java) | 简单 |
 | 371 | [两整数之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfTwoIntegers.java) | 简单 |
 | 384 | [打乱数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShuffleAnArray.java) | 中等 |
 | 387 | [字符串中的第一个唯一字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FirstUniqueCharacterInAString.java) | 简单 |
