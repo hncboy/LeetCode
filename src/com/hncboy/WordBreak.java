@@ -1,7 +1,9 @@
 package com.hncboy;
 
 import java.util.Arrays;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 /**
  * @author hncboy
@@ -32,34 +34,34 @@ import java.util.List;
 public class WordBreak {
 
     public static void main(String[] args) {
-        String s = "leetcode";
-        List<String> wordDict = Arrays.asList("leet7", "code");
-        System.out.println(wordBreak(s, wordDict));
+        String s = "catsanddog";
+        List<String> wordDict = Arrays.asList("cats", "dog", "sand", "and", "cat");
+        System.out.println(new WordBreak().wordBreak(s, wordDict));
     }
 
-    private static boolean wordBreak(String s, List<String> wordDict) {
-        if (wordDict.contains(s)) {
-            return true;
-        }
-        int length = s.length();
-        boolean[] isContain = new boolean[length + 1];
-        isContain[0] = true;
+    /**
+     * 动态规划
+     *
+     * @param s
+     * @param wordDict
+     * @return
+     */
+    private boolean wordBreak(String s, List<String> wordDict) {
+        Set<String> wordDictSet = new HashSet<>(wordDict);
+        boolean[] dp = new boolean[s.length() + 1];
+        dp[0] = true;
 
-        int maxWordLength = 0; // 最大单词长度
-        for (String word : wordDict) {
-            maxWordLength = Math.max(maxWordLength, word.length());
-        }
-
-        for (int i = 1; i <= length; i++) {
-            // j 从最长的单词长度后开始计算
-            for (int j = Math.max(i - maxWordLength, 0); j < i; j++) {
-                // 判断以 j 结尾的字串是否属于 wordDict
-                if (isContain[j] && wordDict.contains(s.substring(j, i))) {
-                    isContain[i] = true;
+        for (int i = 1; i <= s.length(); i++) {
+            for (int j = 0; j < i; j++) {
+                // 当前半部分字符串满足条件且当前这部分子串满足当条那当前i下标前面的字符串都满足条件
+                if (dp[j] && wordDictSet.contains(s.substring(j, i))) {
+                    System.out.println(s.substring(j, i));
+                    dp[i] = true;
                     break;
                 }
             }
         }
-        return isContain[length];
+
+        return dp[s.length()];
     }
 }
