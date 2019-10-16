@@ -85,6 +85,7 @@ From
 | 155 | [最小栈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinStack.java) | 简单 |
 | 160 | [相交链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntersectionOfTwoLinkedLists.java) | 简单 |
 | 162 | [寻找峰值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindPeakElement.java) | 中等 |
+| 189 | [旋转数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RotateArray.java) | 简单 |
 | 203 | [移除链表元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveLinkedListElements.java) | 简单 |
 | 206 | [反转链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseLinkedList.java) | 简单 |
 | 215 | [数组中的第K个最大元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KthLargestElementInAnArray.java) | 简单 |
