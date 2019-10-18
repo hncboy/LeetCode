@@ -95,6 +95,7 @@ From
 | 234 | [回文链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PalindromeLinkedList.java) | 简单 |
 | 237 | [删除链表中的节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DeleteNodeInALinkedList.java) | 简单 |
 | 239 | [滑动窗口最大值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SlidingWindowMaximum.java) | 困难 |
+| 242 | [有效的字母异位词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidAnagram.java) | 简单 |
 | 268 | [缺失数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MissingNumber.java) | 简单 |
 | 283 | [移动零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MoveZeroes.java) | 简单 |
 | 287 | [寻找重复数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheDuplicateNumber.java) | 中等 |
