@@ -3,7 +3,7 @@ package com.hncboy;
 /**
  * @author hncboy
  * @date 2019/10/13 10:30
- * @description 5222.分割平衡字符串
+ * @description 1221.分割平衡字符串
  *
  * 在一个「平衡字符串」中，'L' 和 'R' 字符的数量是相同的。
  * 给出一个平衡字符串 s，请你将它分割成尽可能多的平衡字符串。

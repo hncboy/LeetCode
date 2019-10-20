@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * @author hncboy
  * @date 2019/10/13 10:44
- * @description 5223.可以攻击国王的皇后
+ * @description 1222.可以攻击国王的皇后
  *
  */
 public class QueensThatCanAttackTheKing {
