@@ -74,6 +74,7 @@ From
 | 118 | [杨辉三角](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PascalsTriangle.java) | 简单 |
 | 119 | [杨辉三角 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PascalsTriangleII.java) | 简单 |
 | 121 | [买卖股票的最佳时机](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BestTimeToBuyAndSellStock.java) | 简单 |
+| 122 | [买卖股票的最佳时机 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BestTimeToBuyAndSellStockII.java) | 简单 |
 | 124 | [二叉树中的最大路径和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreeMaximumPathSum.java) | 困难 |
 | 125 | [验证回文串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidPalindrome.java) | 简单 |
 | 128 | [最长连续序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestConsecutiveSequence.java) | 困难 |
@@ -119,5 +120,6 @@ From
 | 1218 | [最长定差子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestArithmeticSubsequenceOfGivenDifference.java) | 中等 |
 | 1219 | [黄金矿工](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PathWithMaximumGold.java) | 中等 |
 | 1220 | [统计元音字母序列的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountVowelsPermutation.java) | 困难 |
-| 5222 | [分割平衡字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SplitAStringInBalancedStrings.java) | 简单 |
-| 5223 | [可以攻击国王的皇后](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/QueensThatCanAttackTheKing.java) | 中等 |
+| 1221 | [分割平衡字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SplitAStringInBalancedStrings.java) | 简单 |
+| 1222 | [可以攻击国王的皇后](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/QueensThatCanAttackTheKing.java) | 中等 |
+| 5230 | [缀点成线](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfItIsAStraightLine.java) | 简单 |
