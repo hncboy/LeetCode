@@ -31,6 +31,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 28 | [实现 strStr()](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ImplementStrstr.java) | 简单 |
 | 29 | 两数相除 | 中等 |
 | 31 | [下一个排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NextPermutation.java) | 中等 |
+| 32 | [最长有效括号](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestValidParentheses.java) | 困难 |
 | 33 | [搜索旋转排序数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SearchInRotatedSortedArray.java) | 中等 |
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindFirstAndLastPositionOfElementInSortedArray.java) | 中等 |
 | 36 | [有效的数独](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidSudoku.java) | 中等 |
