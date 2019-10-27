@@ -3,7 +3,7 @@ package com.hncboy;
 /**
  * @author hncboy
  * @date 2019/10/20 10:30
- * @description 5230.缀点成线
+ * @description 1232.缀点成线
  */
 public class CheckIfItIsAStraightLine {
 
