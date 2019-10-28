@@ -35,6 +35,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 32 | [最长有效括号](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestValidParentheses.java) | 困难 |
 | 33 | [搜索旋转排序数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SearchInRotatedSortedArray.java) | 中等 |
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindFirstAndLastPositionOfElementInSortedArray.java) | 中等 |
+| 35 | [搜索插入位置](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SearchInsertPosition.java) | 简单 |
 | 36 | [有效的数独](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidSudoku.java) | 中等 |
 | 38 | [报数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountAndSay.java) | 简单 |
 | 39 | [组合总和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CombinationSum.java) | 中等 |
