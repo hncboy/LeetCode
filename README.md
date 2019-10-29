@@ -46,6 +46,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 48 | [旋转图像](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RotateImage.java) | 中等 |
 | 49 | [字母异位词分组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GroupAnagrams.java) | 中等 |
 | 50 | [Pow(x, n)](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PowxN.java) | 中等 |
+| 51 | [N皇后](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NQueens.java) | 困难 |
 | 53 | [最大子序和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumSubarray.java) | 简单 |
 | 54 | [螺旋矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SpiralMatrix.java) | 中等 |
 | 55 | [跳跃游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/JumpGame.java) | 中等 |
