@@ -41,6 +41,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 39 | [组合总和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CombinationSum.java) | 中等 |
 | 41 | [缺失的第一个正数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FirstMissingPositive.java) | 困难 |
 | 42 | 接雨水 | 困难 |
+| 43 | [字符串相乘](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MultiplyStrings.java) | 中等 |
 | 44 | [通配符匹配](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WildcardMatching.java) | 困难 |
 | 46 | [全排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Permutations.java) | 中等 |
 | 48 | [旋转图像](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RotateImage.java) | 中等 |
