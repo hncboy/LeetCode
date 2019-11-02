@@ -72,6 +72,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 80 | [删除排序数组中的重复项 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveDuplicatesFromSortedArrayII.java) | 中等 |
 | 82 | [删除排序数组中的重复项 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveDuplicatesFromSortedArrayII.java) | 中等 |
 | 83 | [删除排序链表中的重复元素 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveDuplicatesFromSortedListII.java) | 中等 |
+| 86 | [分隔链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PartitionList.java) | 中等 |
 | 88 | [合并两个有序数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MergeSortedArray.java) | 简单 |
 | 91 | [解码方法](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DecodeWays.java) | 中等 |
 | 94 | [二叉树的中序遍历](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreeInorderTraversal.java) | 中等 |
