@@ -75,6 +75,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 86 | [分隔链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PartitionList.java) | 中等 |
 | 88 | [合并两个有序数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MergeSortedArray.java) | 简单 |
 | 91 | [解码方法](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DecodeWays.java) | 中等 |
+| 92 | [反转链表 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseLinkedListII.java) | 中等 |
 | 94 | [二叉树的中序遍历](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreeInorderTraversal.java) | 中等 |
 | 96 | [不同的二叉搜索树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UniqueBinarySearchTrees.java) | 中等 |
 | 98 | [验证二叉搜索树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidateBinarySearchTree.java) | 中等 |
