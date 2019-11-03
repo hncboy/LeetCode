@@ -147,4 +147,6 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1221 | [分割平衡字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SplitAStringInBalancedStrings.java) | 简单 |
 | 1222 | [可以攻击国王的皇后](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/QueensThatCanAttackTheKing.java) | 中等 |
 | 1232 | [缀点成线](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfItIsAStraightLine.java) | 简单 |
-| 5238 | [找出给定方程的正整数解](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindPositiveIntegerSolutionForAGivenEquation.java) | 简单 |
+| 1237 | [找出给定方程的正整数解](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindPositiveIntegerSolutionForAGivenEquation.java) | 简单 |
+| 5247 | [交换字符使得字符串相同](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumSwapsToMakeStringsEqual.java) | 简单 |
+| 5248 | [统计「优美子数组」](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountNumberOfNiceSubarrays.java) | 中等 |

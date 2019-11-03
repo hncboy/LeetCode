@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * @author hncboy
  * @date 2019/10/27 10:30
- * @description 5238.找出给定方程的正整数解
+ * @description 1237.找出给定方程的正整数解
  */
 public class FindPositiveIntegerSolutionForAGivenEquation {
 
