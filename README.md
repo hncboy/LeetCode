@@ -79,7 +79,6 @@ From  [力扣中国](https://leetcode-cn.com)
 | 94 | [二叉树的中序遍历](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreeInorderTraversal.java) | 中等 |
 | 96 | [不同的二叉搜索树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UniqueBinarySearchTrees.java) | 中等 |
 | 98 | [验证二叉搜索树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidateBinarySearchTree.java) | 中等 |
-等 |
 | 100 | [相同的树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SameTree.java) | 简单 |
 | 101 | [对称二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SymmetricTree.java) | 简单 |
 | 102 | [二叉树的层次遍历](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreeLevelOrderTraversal.java) | 中等 |
@@ -132,6 +131,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 309 | [最佳买卖股票时机含冷冻期](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BestTimeToBuyAndSellStockWithCooldown.java) | 中等 |
 | 322 | [零钱兑换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CoinChange.java) | 中等 |
 | 326 | [3的幂](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PowerOfThree.java) | 简单 |
+| 328 | [奇偶链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/OddEvenLinkedList.java) | 中等 |
 | 344 | [反转字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseString.java) | 简单 |
 | 350 | [两个数组的交集 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntersectionOfTwoArraysII.java) | 简单 |
 | 371 | [两整数之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfTwoIntegers.java) | 简单 |
