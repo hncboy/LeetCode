@@ -147,6 +147,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1003 | [检查替换后的词是否有效](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfWordIsValidAfterSubstitutions.java) | 中等 |
 | 1025 | [除数博弈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DivisorGame.java) | 简单 |
 | 1114 | [按序打印](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PrintInOrder.java) | 简单 |
+| 1171 | [从链表中删去总和值为零的连续节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveZeroSumConsecutiveNodesFromLinkedList.java) | 中等 |
 | 1217 | [玩筹码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PlayWithChips.java) | 简单 |
 | 1218 | [最长定差子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestArithmeticSubsequenceOfGivenDifference.java) | 中等 |
 | 1219 | [黄金矿工](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PathWithMaximumGold.java) | 中等 |
