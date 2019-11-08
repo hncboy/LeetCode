@@ -40,6 +40,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 36 | [有效的数独](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidSudoku.java) | 中等 |
 | 38 | [报数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountAndSay.java) | 简单 |
 | 39 | [组合总和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CombinationSum.java) | 中等 |
+| 40 | [组合总和 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CombinationSumII.java) | 困难 |
 | 41 | [缺失的第一个正数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FirstMissingPositive.java) | 困难 |
 | 42 | 接雨水 | 困难 |
 | 43 | [字符串相乘](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MultiplyStrings.java) | 中等 |
