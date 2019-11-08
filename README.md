@@ -44,6 +44,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 42 | 接雨水 | 困难 |
 | 43 | [字符串相乘](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MultiplyStrings.java) | 中等 |
 | 44 | [通配符匹配](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WildcardMatching.java) | 困难 |
+| 45 | [跳跃游戏 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/JumpGameII.java) | 困难 |
 | 46 | [全排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Permutations.java) | 中等 |
 | 48 | [旋转图像](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RotateImage.java) | 中等 |
 | 49 | [字母异位词分组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GroupAnagrams.java) | 中等 |
