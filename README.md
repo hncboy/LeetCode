@@ -67,6 +67,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 70 | [爬楼梯](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ClimbingStairs.java) | 简单 |
 | 72 | [编辑距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/EditDistance.java) | 困难 |
 | 73 | [矩阵置零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SetMatrixZeroes.java) | 中等 |
+| 74 | [搜索二维矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SearchA2dMatrix.java) | 中等 |
 | 75 | [颜色分类](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SortColors.java) | 中等 |
 | 76 | [最小覆盖子串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumWindowSubstring.java) | 困难 |
 | 77 | [组合](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Combinations.java) | 中等 |
