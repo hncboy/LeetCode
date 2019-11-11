@@ -124,6 +124,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 215 | [数组中的第K个最大元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KthLargestElementInAnArray.java) | 简单 |
 | 217 | [存在重复元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ContainsDuplicate.java) | 简单 |
 | 221 | [最大正方形](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximalSquare.java) | 中等 |
+| 233 | [数字 1 的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfDigitOne.java) | 困难 |
 | 234 | [回文链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PalindromeLinkedList.java) | 简单 |
 | 237 | [删除链表中的节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DeleteNodeInALinkedList.java) | 简单 |
 | 238 | [除自身以外数组的乘积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ProductOfArrayExceptSelf.java) | 中等 |
