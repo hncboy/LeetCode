@@ -137,6 +137,8 @@ From  [力扣中国](https://leetcode-cn.com)
 | 279 | [完全平方数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PerfectSquares.java) | 中等 |
 | 283 | [移动零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MoveZeroes.java) | 简单 |
 | 287 | [寻找重复数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheDuplicateNumber.java) | 中等 |
+| 289 | [生命游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GameOfLife.java) | 中等 |
+| 292 | [Nim 游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NimGame.java) | 简单 |
 | 297 | [二叉树的序列化与反序列化](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SerializeAndDeserializeBinaryTree.java) | 困难 |
 | 292 | [Nim 游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NimGame.java) | 简单 |
 | 303 | [区域和检索 - 数组不可变](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RangeSumQueryImmutable.java) | 简单 |
