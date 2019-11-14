@@ -117,6 +117,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 160 | [相交链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntersectionOfTwoLinkedLists.java) | 简单 |
 | 162 | [寻找峰值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindPeakElement.java) | 中等 |
 | 167 | [两数之和 II - 输入有序数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TwoSumIIInputArrayIsSorted.java) | 简单 |
+| 169 | [求众数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/majorityElement1.java) | 简单 |
 | 179 | [最大数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LargestNumber.java) | 中等 |
 | 189 | [旋转数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RotateArray.java) | 简单 |
 | 198 | [打家劫舍](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/HouseRobber.java) | 简单 |
