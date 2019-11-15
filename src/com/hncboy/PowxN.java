@@ -33,7 +33,6 @@ public class PowxN {
     }
 
     private double myPow(double x, int n) {
-        // TODO
         double result = 1;
         // 折半计算
         for (int i = n; i != 0; i /= 2) {

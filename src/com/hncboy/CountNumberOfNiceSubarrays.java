@@ -3,7 +3,7 @@ package com.hncboy;
 /**
  * @author hncboy
  * @date 2019/11/3 11:01
- * @description 5248.统计「优美子数组」
+ * @description 1248.统计「优美子数组」
  *
  * 给你一个整数数组 nums 和一个整数 k。
  * 如果某个子数组中恰好有 k 个奇数数字，我们就认为这个子数组是「优美子数组」。

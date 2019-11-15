@@ -3,7 +3,7 @@ package com.hncboy;
 /**count-number-of-nice-subarrays
  * @author hncboy
  * @date 2019/11/3 10:30
- * @description 5247.交换字符使得字符串相同
+ * @description 1247.交换字符使得字符串相同
  */
 public class MinimumSwapsToMakeStringsEqual {
 

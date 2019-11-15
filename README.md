@@ -129,6 +129,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 215 | [数组中的第K个最大元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KthLargestElementInAnArray.java) | 简单 |
 | 217 | [存在重复元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ContainsDuplicate.java) | 简单 |
 | 221 | [最大正方形](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximalSquare.java) | 中等 |
+| 231 | [2的幂](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PowerOfTwo.java) | 简单 |
 | 233 | [数字 1 的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfDigitOne.java) | 困难 |
 | 234 | [回文链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PalindromeLinkedList.java) | 简单 |
 | 237 | [删除链表中的节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DeleteNodeInALinkedList.java) | 简单 |
@@ -179,5 +180,5 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1222 | [可以攻击国王的皇后](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/QueensThatCanAttackTheKing.java) | 中等 |
 | 1232 | [缀点成线](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfItIsAStraightLine.java) | 简单 |
 | 1237 | [找出给定方程的正整数解](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindPositiveIntegerSolutionForAGivenEquation.java) | 简单 |
-| 5247 | [交换字符使得字符串相同](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumSwapsToMakeStringsEqual.java) | 简单 |
-| 5248 | [统计「优美子数组」](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountNumberOfNiceSubarrays.java) | 中等 |
+| 1247 | [交换字符使得字符串相同](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumSwapsToMakeStringsEqual.java) | 简单 |
+| 1248 | [统计「优美子数组」](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountNumberOfNiceSubarrays.java) | 中等 |
