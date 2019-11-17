@@ -90,6 +90,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 107 | [二叉树的层次遍历 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreeLevelOrderTraversalII.java) | 简单 |
 | 108 | [将有序数组转换为二叉搜索树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConvertSortedArrayToBinarySearchTree.java) | 简单 |
 | 109 | [有序链表转换二叉搜索树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConvertSortedListToBinarySearchTree.java) | 中等 |
+| 110 | [平衡二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BalancedBinaryTree.java) | 简单 |
 | 111 | [二叉树的最小深度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDepthOfBinaryTree.java) | 简单 |
 | 112 | [路径总和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PathSum.java) | 简单 |
 | 113 | [路径总和 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PathSumII.java) | 中等 |
@@ -103,6 +104,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 128 | [最长连续序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestConsecutiveSequence.java) | 困难 |
 | 131 | [分割回文串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PalindromePartitioning.java) | 中等 |
 | 133 | [克隆图](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CloneGraph.java) | 中等 |
+| 134 | [加油站](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GasStation.java) | 中等 |
 | 136 | [只出现一次的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SingleNumber.java) | 简单 |
 | 139 | [单词拆分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WordBreak.java) | 中等 |
 | 140 | [单词拆分 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WordBreakII.java) | 困难 |
@@ -143,7 +145,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 289 | [生命游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GameOfLife.java) | 中等 |
 | 292 | [Nim 游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NimGame.java) | 简单 |
 | 297 | [二叉树的序列化与反序列化](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SerializeAndDeserializeBinaryTree.java) | 困难 |
-| 292 | [Nim 游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NimGame.java) | 简单 |
+| 300 | [最长上升子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestIncreasingSubsequence.java) | 中等 |
 | 303 | [区域和检索 - 数组不可变](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RangeSumQueryImmutable.java) | 简单 |
 | 309 | [最佳买卖股票时机含冷冻期](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BestTimeToBuyAndSellStockWithCooldown.java) | 中等 |
 | 322 | [零钱兑换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CoinChange.java) | 中等 |
@@ -158,6 +160,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 384 | [打乱数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShuffleAnArray.java) | 中等 |
 | 387 | [字符串中的第一个唯一字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FirstUniqueCharacterInAString.java) | 简单 |
 | 392 | [判断子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IsSubsequence.java) | 简单 |
+| 399 | [除法求值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/EvaluateDivision.java) | 中等 |
 | 412 | [Fizz Buzz](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FizzBuzz.java) | 简单 |
 | 430 | [扁平化多级双向链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FlattenAMultilevelDoublyLinkedList.java) | 中等 |
 | 445 | [两数相加 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AddTwoNumbersII.java) | 中等 |
@@ -165,10 +168,12 @@ From  [力扣中国](https://leetcode-cn.com)
 | 783 | [二叉搜索树结点最小距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDistanceBetweenBstNodes.java) | 简单 |
 | 794 | [有效的井字游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTicTacToeState.java) | 中等 |
 | 876 | [链表的中间结点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MiddleOfTheLinkedList.java) | 简单 |
+| 947 | [移除最多的同行或同列石头](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MostStonesRemovedWithSameRowOrColumn.java) | 中等 |
 | 997 | [找到小镇的法官](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheTownJudge.java) | 简单 |
 | 1003 | [检查替换后的词是否有效](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfWordIsValidAfterSubstitutions.java) | 中等 |
 | 1019 | [链表中的下一个更大节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NextGreaterNodeInLinkedList.java) | 中等 |
 | 1025 | [除数博弈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DivisorGame.java) | 简单 |
+| 1081 | [不同字符的最小子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SmallestSubsequenceOfDistinctCharacters.java) | 中等 |
 | 1114 | [按序打印](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PrintInOrder.java) | 简单 |
 | 1171 | [从链表中删去总和值为零的连续节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveZeroSumConsecutiveNodesFromLinkedList.java) | 中等 |
 | 1173 | [第 N 个泰波那契数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NThTribonacciNumber.java) | 简单 |
@@ -182,3 +187,5 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1237 | [找出给定方程的正整数解](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindPositiveIntegerSolutionForAGivenEquation.java) | 简单 |
 | 1247 | [交换字符使得字符串相同](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumSwapsToMakeStringsEqual.java) | 简单 |
 | 1248 | [统计「优美子数组」](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountNumberOfNiceSubarrays.java) | 中等 |
+| 5263 | [二维网格迁移](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Shift2dGrid.java) | 简单 |
+| 5265 | [可被三整除的最大和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GreatestSumDivisibleByThree.java) | 中等 |
