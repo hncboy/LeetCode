@@ -29,7 +29,7 @@ public class Subsets {
 
     public static void main(String[] args) {
         int[] nums = new int[]{1, 2, 3};
-        System.out.println(new Subsets().subsets2(nums));
+        System.out.println(new Subsets().subsets1(nums));
     }
 
     /**
