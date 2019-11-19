@@ -136,6 +136,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 210 | [课程表 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CourseScheduleII.java) | 中等 |
 | 213 | [打家劫舍 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/HouseRobberII.java) | 中等 |
 | 215 | [数组中的第K个最大元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KthLargestElementInAnArray.java) | 简单 |
+| 216 | [组合总和 III](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CombinationSumIII.java) | 中等 |
 | 217 | [存在重复元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ContainsDuplicate.java) | 简单 |
 | 221 | [最大正方形](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximalSquare.java) | 中等 |
 | 231 | [2的幂](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PowerOfTwo.java) | 简单 |
