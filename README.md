@@ -120,6 +120,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 148 | [排序链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SortList.java) | 中等 |
 | 152 | [乘积最大子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumProductSubarray.java) | 中等 |
 | 153 | [寻找旋转排序数组中的最小值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindMinimumInRotatedSortedArray.java) | 中等 |
+| 154 | [寻找旋转排序数组中的最小值 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindMinimumInRotatedSortedArrayII.java) | 困难 |
 | 155 | [最小栈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinStack.java) | 简单 |
 | 160 | [相交链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntersectionOfTwoLinkedLists.java) | 简单 |
 | 162 | [寻找峰值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindPeakElement.java) | 中等 |
