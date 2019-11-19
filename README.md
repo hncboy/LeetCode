@@ -138,6 +138,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 215 | [数组中的第K个最大元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KthLargestElementInAnArray.java) | 简单 |
 | 216 | [组合总和 III](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CombinationSumIII.java) | 中等 |
 | 217 | [存在重复元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ContainsDuplicate.java) | 简单 |
+| 219 | [存在重复元素 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ContainsDuplicateII.java) | 简单 |
 | 221 | [最大正方形](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximalSquare.java) | 中等 |
 | 231 | [2的幂](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PowerOfTwo.java) | 简单 |
 | 233 | [数字 1 的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfDigitOne.java) | 困难 |
