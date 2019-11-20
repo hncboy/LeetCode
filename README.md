@@ -174,6 +174,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 392 | [判断子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IsSubsequence.java) | 简单 |
 | 399 | [除法求值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/EvaluateDivision.java) | 中等 |
 | 412 | [Fizz Buzz](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FizzBuzz.java) | 简单 |
+| 414 | [第三大的数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ThirdMaximumNumber.java) | 简单 |
 | 430 | [扁平化多级双向链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FlattenAMultilevelDoublyLinkedList.java) | 中等 |
 | 445 | [两数相加 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AddTwoNumbersII.java) | 中等 |
 | 725 | [分隔链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SplitLinkedListInParts.java) | 中等 |
