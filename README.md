@@ -141,6 +141,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 217 | [存在重复元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ContainsDuplicate.java) | 简单 |
 | 219 | [存在重复元素 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ContainsDuplicateII.java) | 简单 |
 | 221 | [最大正方形](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximalSquare.java) | 中等 |
+| 228 | [汇总区间](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SummaryRanges.java) | 中等 |
 | 229 | [求众数 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MajorityElementII.java) | 中等 |
 | 231 | [2的幂](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PowerOfTwo.java) | 简单 |
 | 233 | [数字 1 的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfDigitOne.java) | 困难 |
