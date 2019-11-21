@@ -39,6 +39,12 @@ public class FindAllDuplicatesInAnArray {
         return result;
     }
 
+    /**
+     * 鸽巢原理，又名狄利克雷抽屉原理、鸽笼原理。
+     *
+     * @param nums
+     * @return
+     */
     private List<Integer> findDuplicates1(int[] nums) {
         List<Integer> result = new ArrayList<>();
 
@@ -59,6 +65,13 @@ public class FindAllDuplicatesInAnArray {
         return result;
     }
 
+    /**
+     * 异或交换
+     *
+     * @param nums
+     * @param i
+     * @param j
+     */
     private void swap(int[] nums, int i, int j) {
         if (i != j) {
             nums[i] = nums[i] ^ nums[j];
