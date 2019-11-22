@@ -189,6 +189,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 794 | [有效的井字游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTicTacToeState.java) | 中等 |
 | 876 | [链表的中间结点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MiddleOfTheLinkedList.java) | 简单 |
 | 947 | [移除最多的同行或同列石头](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MostStonesRemovedWithSameRowOrColumn.java) | 中等 |
+| 967 | [连续差相同的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumbersWithSameConsecutiveDifferences.java) | 中等 |
 | 997 | [找到小镇的法官](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheTownJudge.java) | 简单 |
 | 1003 | [检查替换后的词是否有效](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfWordIsValidAfterSubstitutions.java) | 中等 |
 | 1019 | [链表中的下一个更大节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NextGreaterNodeInLinkedList.java) | 中等 |
