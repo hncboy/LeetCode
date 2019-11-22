@@ -181,6 +181,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 448 | [找到所有数组中消失的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindAllNumbersDisappearedInAnArray.java) | 简单 |
 | 457 | [环形数组循环](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CircularArrayLoop.java) | 中等 |
 | 485 | [最大连续1的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxConsecutiveOnes.java) | 简单 |
+| 532 | [数组中的K-diff数对](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KDiffPairsInAnArray.java) | 简单 |
 | 725 | [分隔链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SplitLinkedListInParts.java) | 中等 |
 | 783 | [二叉搜索树结点最小距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDistanceBetweenBstNodes.java) | 简单 |
 | 794 | [有效的井字游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTicTacToeState.java) | 中等 |
