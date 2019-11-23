@@ -185,6 +185,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 532 | [数组中的K-diff数对](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KDiffPairsInAnArray.java) | 简单 |
 | 560 | [和为K的子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SubarraySumEqualsK.java) | 中等 |
 | 561 | [数组拆分 I](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ArrayPartitionI.java) | 简单 |
+| 565 | [数组嵌套](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ArrayNesting.java) | 中等 |
 | 725 | [分隔链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SplitLinkedListInParts.java) | 中等 |
 | 783 | [二叉搜索树结点最小距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDistanceBetweenBstNodes.java) | 简单 |
 | 794 | [有效的井字游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTicTacToeState.java) | 中等 |
