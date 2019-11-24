@@ -188,6 +188,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 565 | [数组嵌套](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ArrayNesting.java) | 中等 |
 | 566 | [重塑矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReshapeTheMatrix.java) | 简单 |
 | 581 | [最短无序连续子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShortestUnsortedOntinuousSubarray.java) | 简单 |
+| 605 | [种花问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CanPlaceFlowers.java) | 简单 |
 | 725 | [分隔链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SplitLinkedListInParts.java) | 中等 |
 | 783 | [二叉搜索树结点最小距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDistanceBetweenBstNodes.java) | 简单 |
 | 794 | [有效的井字游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTicTacToeState.java) | 中等 |
