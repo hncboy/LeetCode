@@ -182,6 +182,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 457 | [环形数组循环](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CircularArrayLoop.java) | 中等 |
 | 485 | [最大连续1的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxConsecutiveOnes.java) | 简单 |
 | 495 | [提莫攻击](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TeemoAttacking.java) | 中等 |
+| 526 | [优美的排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BeautifulArrangement.java) | 中等 |
 | 532 | [数组中的K-diff数对](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KDiffPairsInAnArray.java) | 简单 |
 | 560 | [和为K的子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SubarraySumEqualsK.java) | 中等 |
 | 561 | [数组拆分 I](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ArrayPartitionI.java) | 简单 |
