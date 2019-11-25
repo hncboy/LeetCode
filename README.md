@@ -195,6 +195,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 643 | [子数组最大平均数 I](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumAverageSubarrayI.java) | 简单 |
 | 661 | [图片平滑器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ImageSmoother.java) | 简单 |
 | 665 | [非递减数列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NonDecreasingArray.java) | 简单 |
+| 667 | [优美的排列 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BeautifulArrangementII.java) | 中等 |
 | 725 | [分隔链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SplitLinkedListInParts.java) | 中等 |
 | 783 | [二叉搜索树结点最小距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDistanceBetweenBstNodes.java) | 简单 |
 | 794 | [有效的井字游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTicTacToeState.java) | 中等 |
