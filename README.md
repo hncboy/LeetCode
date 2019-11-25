@@ -191,6 +191,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 605 | [种花问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CanPlaceFlowers.java) | 简单 |
 | 611 | [有效三角形的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTriangleNumber.java) | 中等 |
 | 628 | [三个数的最大乘积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumProductOfThreeNumbers.java) | 简单 |
+| 643 | [子数组最大平均数 I](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumAverageSubarrayI.java) | 简单 |
 | 725 | [分隔链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SplitLinkedListInParts.java) | 中等 |
 | 783 | [二叉搜索树结点最小距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDistanceBetweenBstNodes.java) | 简单 |
 | 794 | [有效的井字游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTicTacToeState.java) | 中等 |
