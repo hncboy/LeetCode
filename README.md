@@ -161,6 +161,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 300 | [最长上升子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestIncreasingSubsequence.java) | 中等 |
 | 303 | [区域和检索 - 数组不可变](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RangeSumQueryImmutable.java) | 简单 |
 | 309 | [最佳买卖股票时机含冷冻期](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BestTimeToBuyAndSellStockWithCooldown.java) | 中等 |
+| 316 | [去除重复字母](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveDuplicateLetters.java) | 困难 |
 | 322 | [零钱兑换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CoinChange.java) | 中等 |
 | 326 | [3的幂](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PowerOfThree.java) | 简单 |
 | 328 | [奇偶链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/OddEvenLinkedList.java) | 中等 |
