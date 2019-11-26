@@ -203,6 +203,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 725 | [分隔链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SplitLinkedListInParts.java) | 中等 |
 | 783 | [二叉搜索树结点最小距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDistanceBetweenBstNodes.java) | 简单 |
 | 794 | [有效的井字游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTicTacToeState.java) | 中等 |
+| 861 | [翻转矩阵后的得分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ScoreAfterFlippingMatrix.java) | 中等 |
 | 876 | [链表的中间结点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MiddleOfTheLinkedList.java) | 简单 |
 | 947 | [移除最多的同行或同列石头](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MostStonesRemovedWithSameRowOrColumn.java) | 中等 |
 | 967 | [连续差相同的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumbersWithSameConsecutiveDifferences.java) | 中等 |
