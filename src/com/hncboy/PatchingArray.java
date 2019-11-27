@@ -40,7 +40,7 @@ public class PatchingArray {
         int patches = 0;
         int i = 0;
         // miss 为缺少的数字中最小的
-        int miss = 1;
+        long miss = 1;
         // miss>n 即满足符合条件
         while (miss <= n) {
             if (i < nums.length && nums[i] <= miss) {
