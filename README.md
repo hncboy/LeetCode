@@ -202,6 +202,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 665 | [非递减数列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NonDecreasingArray.java) | 简单 |
 | 667 | [优美的排列 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BeautifulArrangementII.java) | 中等 |
 | 670 | [最大交换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumSwap.java) | 中等 |
+| 674 | [最长连续递增序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestContinuousIncreasingSubsequence.java) | 简单 |
 | 725 | [分隔链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SplitLinkedListInParts.java) | 中等 |
 | 783 | [二叉搜索树结点最小距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDistanceBetweenBstNodes.java) | 简单 |
 | 794 | [有效的井字游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTicTacToeState.java) | 中等 |
