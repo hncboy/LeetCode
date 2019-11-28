@@ -208,6 +208,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 670 | [最大交换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumSwap.java) | 中等 |
 | 674 | [最长连续递增序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestContinuousIncreasingSubsequence.java) | 简单 |
 | 697 | [数组的度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DegreeOfAnArray.java) | 简单 |
+| 717 | [1比特与2比特字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/OneBitAndTwoBitCharacters.java) | 简单 |
 | 725 | [分隔链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SplitLinkedListInParts.java) | 中等 |
 | 783 | [二叉搜索树结点最小距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDistanceBetweenBstNodes.java) | 简单 |
 | 794 | [有效的井字游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTicTacToeState.java) | 中等 |
