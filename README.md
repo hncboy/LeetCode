@@ -78,6 +78,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 81 | [搜索旋转排序数组 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SearchInRotatedSortedArrayII.java) | 中等 |
 | 82 | [删除排序链表中的重复元素 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveDuplicatesFromSortedListII.java) | 中等 |
 | 83 | [删除排序链表中的重复元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveDuplicatesFromSortedList.java) | 简单 |
+| 84 | [柱状图中最大的矩形](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LargestRectangleInHistogram.java) | 困难 |
 | 86 | [分隔链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PartitionList.java) | 中等 |
 | 88 | [合并两个有序数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MergeSortedArray.java) | 简单 |
 | 90 | [子集 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SubsetsII.java) | 中等 |
