@@ -93,6 +93,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 101 | [对称二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SymmetricTree.java) | 简单 |
 | 102 | [二叉树的层次遍历](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreeLevelOrderTraversal.java) | 中等 |
 | 104 | [二叉树的最大深度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumDepthOfBinaryTree.java) | 简单 |
+| 105 | [从前序与中序遍历序列构造二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConstructBinaryTreeFromPreorderAndInorderTraversal.java) | 中等 |
 | 107 | [二叉树的层次遍历 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreeLevelOrderTraversalII.java) | 简单 |
 | 108 | [将有序数组转换为二叉搜索树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConvertSortedArrayToBinarySearchTree.java) | 简单 |
 | 109 | [有序链表转换二叉搜索树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConvertSortedListToBinarySearchTree.java) | 中等 |
