@@ -210,6 +210,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 674 | [最长连续递增序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestContinuousIncreasingSubsequence.java) | 简单 |
 | 695 | [岛屿的最大面积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxAreaOfIsland.java) | 中等 |
 | 697 | [数组的度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DegreeOfAnArray.java) | 简单 |
+| 713 | [乘积小于K的子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SubarrayProductLessThanK.java) | 中等 |
 | 717 | [1比特与2比特字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/OneBitAndTwoBitCharacters.java) | 简单 |
 | 725 | [分隔链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SplitLinkedListInParts.java) | 中等 |
 | 783 | [二叉搜索树结点最小距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDistanceBetweenBstNodes.java) | 简单 |
