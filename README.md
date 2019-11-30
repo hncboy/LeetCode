@@ -212,6 +212,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 697 | [数组的度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DegreeOfAnArray.java) | 简单 |
 | 713 | [乘积小于K的子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SubarrayProductLessThanK.java) | 中等 |
 | 717 | [1比特与2比特字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/OneBitAndTwoBitCharacters.java) | 简单 |
+| 718 | [最长重复子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumLengthOfRepeatedSubarray.java) | 中等 |
 | 724 | [寻找数组的中心索引](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindPivotIndex.java) | 简单 |
 | 725 | [分隔链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SplitLinkedListInParts.java) | 中等 |
 | 746 | [使用最小花费爬楼梯](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinCostClimbingStairs.java) | 简单 |
