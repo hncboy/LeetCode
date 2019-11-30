@@ -215,6 +215,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 724 | [寻找数组的中心索引](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindPivotIndex.java) | 简单 |
 | 725 | [分隔链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SplitLinkedListInParts.java) | 中等 |
 | 746 | [使用最小花费爬楼梯](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinCostClimbingStairs.java) | 简单 |
+| 747 | [至少是其他数字两倍的最大数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LargestNumberAtLeastTwiceOfOthers.java) | 简单 |
 | 783 | [二叉搜索树结点最小距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDistanceBetweenBstNodes.java) | 简单 |
 | 794 | [有效的井字游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTicTacToeState.java) | 中等 |
 | 861 | [翻转矩阵后的得分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ScoreAfterFlippingMatrix.java) | 中等 |
