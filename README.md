@@ -219,6 +219,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 747 | [至少是其他数字两倍的最大数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LargestNumberAtLeastTwiceOfOthers.java) | 简单 |
 | 766 | [托普利茨矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ToeplitzMatrix.java) | 简单 |
 | 769 | [最多能完成排序的块](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxChunksToMakeSorted.java) | 中等 |
+| 775 | [全局倒置与局部倒置](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GlobalAndLocalInversions.java) | 中等 |
 | 783 | [二叉搜索树结点最小距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDistanceBetweenBstNodes.java) | 简单 |
 | 794 | [有效的井字游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTicTacToeState.java) | 中等 |
 | 861 | [翻转矩阵后的得分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ScoreAfterFlippingMatrix.java) | 中等 |
