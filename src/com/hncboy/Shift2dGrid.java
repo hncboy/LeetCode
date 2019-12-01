@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * @author hncboy
  * @date 2019/11/17 10:30
- * @description 5263.二维网格迁移
+ * @description 1260.二维网格迁移
  *
  * 给你一个 n 行 m 列的二维网格 grid 和一个整数 k。你需要将 grid 迁移 k 次。
  *

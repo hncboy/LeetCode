@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * @author hncboy
  * @date 2019/11/17 14:11
- * @description 5265.可被三整除的最大和
+ * @description 1262.可被三整除的最大和
  *
  * 给你一个整数数组 nums，请你找出并返回能被三整除的元素最大和。
  *

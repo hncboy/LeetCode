@@ -57,6 +57,7 @@ public class RegularExpressionMatching {
         System.out.println(r.isMatch2("aa", "a*"));
         System.out.println(r.isMatch2("aab", "c*a*b"));
         System.out.println(r.isMatch2("mississippi", "mis*is*p*."));
+        System.out.println(r.isMatch2("a", "a."));
     }
 
     /**
@@ -78,8 +79,8 @@ public class RegularExpressionMatching {
         // 处理 '*' 通配符
         if (p.length() >= 2 && p.charAt(1) == '*') {
             // 存在 * 通配符，0 次或 1次匹配成功都行
-            // 通配符 * 取 0 次的时候，直接从截取p第三位以后的表达式进行下一次匹配
-            // 在第一个字符匹配的条件下，截取s第二位以后的字符串进行下一次匹配
+            // 通配符 * 取 0 次的时候，直接从截取p第2位以后的表达式进行下一次匹配
+            // 通配符 * 取 1 次的时候，在第一个字符匹配的条件下，截取s第1位以后的字符串进行下一次匹配
             return (isMatch(s, p.substring(2)) || (firstMatch && isMatch(s.substring(1), p)));
         } else {
             // 没有 * 通配符的话，直接一个一个字符匹配

@@ -221,6 +221,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 769 | [最多能完成排序的块](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxChunksToMakeSorted.java) | 中等 |
 | 775 | [全局倒置与局部倒置](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GlobalAndLocalInversions.java) | 中等 |
 | 783 | [二叉搜索树结点最小距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDistanceBetweenBstNodes.java) | 简单 |
+| 792 | [匹配子序列的单词数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfMatchingSubsequences.java) | 中等 |
 | 794 | [有效的井字游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTicTacToeState.java) | 中等 |
 | 861 | [翻转矩阵后的得分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ScoreAfterFlippingMatrix.java) | 中等 |
 | 876 | [链表的中间结点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MiddleOfTheLinkedList.java) | 简单 |
@@ -245,5 +246,5 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1237 | [找出给定方程的正整数解](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindPositiveIntegerSolutionForAGivenEquation.java) | 简单 |
 | 1247 | [交换字符使得字符串相同](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumSwapsToMakeStringsEqual.java) | 简单 |
 | 1248 | [统计「优美子数组」](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountNumberOfNiceSubarrays.java) | 中等 |
-| 5263 | [二维网格迁移](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Shift2dGrid.java) | 简单 |
-| 5265 | [可被三整除的最大和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GreatestSumDivisibleByThree.java) | 中等 |
+| 1260 | [二维网格迁移](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Shift2dGrid.java) | 简单 |
+| 1262 | [可被三整除的最大和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GreatestSumDivisibleByThree.java) | 中等 |
