@@ -250,3 +250,4 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1260 | [二维网格迁移](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Shift2dGrid.java) | 简单 |
 | 1262 | [可被三整除的最大和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GreatestSumDivisibleByThree.java) | 中等 |
 | 5275 | [找出井字棋的获胜者](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindWinnerOnATicTacToeGame.java) | 简单 |
+| 5276 | [不浪费原料的汉堡制作方案](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfBurgersWithNoWasteOfIngredients.java) | 中等 |
