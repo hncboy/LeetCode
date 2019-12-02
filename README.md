@@ -32,6 +32,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 27 | [移除元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveElement.java) | 简单 |
 | 28 | [实现 strStr()](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ImplementStrstr.java) | 简单 |
 | 29 | 两数相除 | 中等 |
+| 30 | [串联所有单词的子串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SubstringWithConcatenationOfAllWords.java) | 困难 |
 | 31 | [下一个排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NextPermutation.java) | 中等 |
 | 32 | [最长有效括号](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestValidParentheses.java) | 困难 |
 | 33 | [搜索旋转排序数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SearchInRotatedSortedArray.java) | 中等 |
