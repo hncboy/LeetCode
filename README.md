@@ -226,6 +226,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 794 | [有效的井字游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTicTacToeState.java) | 中等 |
 | 795 | [区间子数组个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfSubarraysWithBoundedMaximum.java) | 中等 |
 | 825 | [适龄的朋友](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FriendsOfAppropriateAges.java) | 中等 |
+| 830 | [较大分组的位置](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PositionsOfLargeGroups.java) | 简单 |
 | 861 | [翻转矩阵后的得分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ScoreAfterFlippingMatrix.java) | 中等 |
 | 876 | [链表的中间结点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MiddleOfTheLinkedList.java) | 简单 |
 | 915 | [分割数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PartitionArrayIntoDisjointIntervals.java) | 中等 |
