@@ -1,17 +1,20 @@
 package com.hncboy;
 
 /**
- * User: hncboy
- * DateTime: 2019/8/30 9:52
- * Description:
- * <p>
- * You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order and each of their nodes contain a single digit. Add the two numbers and return it as a linked list.
- * You may assume the two numbers do not contain any leading zero, except the number 0 itself.
- * <p>
- * Example:
- * Input: (2 -> 4 -> 3) + (5 -> 6 -> 4)
- * Output: 7 -> 0 -> 8
- * Explanation: 342 + 465 = 807.
+ * @author hncboy
+ * @date 2019/8/30 9:52
+ * @description 445.两数相加 II
+ *
+ * 给定两个非空链表来代表两个非负整数。数字最高位位于链表开始位置。
+ * 它们的每个节点只存储单个数字。将这两数相加会返回一个新的链表。
+ * 你可以假设除了数字 0 之外，这两个数字都不会以零开头。
+ *
+ * 进阶:
+ * 如果输入链表不能修改该如何处理？换句话说，你不能对列表中的节点进行翻转。
+ *
+ * 示例:
+ * 输入: (7 -> 2 -> 4 -> 3) + (5 -> 6 -> 4)
+ * 输出: 7 -> 8 -> 0 -> 7
  */
 public class AddTwoNumbers {
 
