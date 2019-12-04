@@ -233,6 +233,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 840 | [矩阵中的幻方](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MagicSquaresInGrid.java) | 简单 |
 | 849 | [到最近的人的最大距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximizeDistanceToClosestPerson.java) | 简单 |
 | 861 | [翻转矩阵后的得分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ScoreAfterFlippingMatrix.java) | 中等 |
+| 867 | [转置矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TransposeMatrix.java) | 简单 |
 | 870 | [优势洗牌](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AdvantageShuffle.java) | 中等 |
 | 873 | [最长的斐波那契子序列的长度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LengthOfLongestFibonacciSubsequence.java) | 中等 |
 | 876 | [链表的中间结点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MiddleOfTheLinkedList.java) | 简单 |

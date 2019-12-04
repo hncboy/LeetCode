@@ -47,15 +47,15 @@ public class WordBreak {
      * @return
      */
     private boolean wordBreak(String s, List<String> wordDict) {
+        // 因为可以重复使用单词，所以将 wordDict 去重
         Set<String> wordDictSet = new HashSet<>(wordDict);
         boolean[] dp = new boolean[s.length() + 1];
         dp[0] = true;
 
         for (int i = 1; i <= s.length(); i++) {
             for (int j = 0; j < i; j++) {
-                // 当前半部分字符串满足条件且当前这部分子串满足当条那当前i下标前面的字符串都满足条件
+                // 当前位置 j 前面的字符串以匹配 && 当前子串匹配成功，则位置 i 前面的字符串都能匹配成功，结束循环
                 if (dp[j] && wordDictSet.contains(s.substring(j, i))) {
-                    System.out.println(s.substring(j, i));
                     dp[i] = true;
                     break;
                 }
