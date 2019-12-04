@@ -237,6 +237,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 870 | [优势洗牌](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AdvantageShuffle.java) | 中等 |
 | 873 | [最长的斐波那契子序列的长度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LengthOfLongestFibonacciSubsequence.java) | 中等 |
 | 876 | [链表的中间结点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MiddleOfTheLinkedList.java) | 简单 |
+| 888 | [公平的糖果交换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FairCandySwap.java) | 简单 |
 | 915 | [分割数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PartitionArrayIntoDisjointIntervals.java) | 中等 |
 | 947 | [移除最多的同行或同列石头](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MostStonesRemovedWithSameRowOrColumn.java) | 中等 |
 | 967 | [连续差相同的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumbersWithSameConsecutiveDifferences.java) | 中等 |
