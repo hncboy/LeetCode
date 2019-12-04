@@ -240,6 +240,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 888 | [公平的糖果交换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FairCandySwap.java) | 简单 |
 | 896 | [单调数列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MonotonicArray.java) | 简单 |
 | 900 | [RLE 迭代器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RLEIterator.java) | 中等 |
+| 905 | [按奇偶排序数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SortArrayByParity.java) | 简单 |
 | 907 | [子数组的最小值之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfSubarrayMinimums.java) | 中等 |
 | 915 | [分割数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PartitionArrayIntoDisjointIntervals.java) | 中等 |
 | 947 | [移除最多的同行或同列石头](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MostStonesRemovedWithSameRowOrColumn.java) | 中等 |
