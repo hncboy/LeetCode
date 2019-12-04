@@ -38,7 +38,7 @@ public class LargestRectangleInHistogram {
         stack.push(-1);
         int maxArea = 0;
         for (int i = 0; i < heights.length; ++i) {
-            // 当栈顶不为 -1 且栈顶的数 >= 当前的数开始弹出栈顶并计算最大面积
+            // 当栈顶不为-1 && 栈顶的数 >= 当前的数，弹出栈顶并计算最大面积
             while (stack.peek() != -1 && heights[stack.peek()] >= heights[i]) {
                 // 因为是单调递增栈，所以面积可以直接通过 heights[stack.pop()] * (i - stack.peek() - 1 计算
                 maxArea = Math.max(maxArea, heights[stack.pop()] * (i - stack.peek() - 1));
