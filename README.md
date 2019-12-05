@@ -264,6 +264,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1237 | [找出给定方程的正整数解](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindPositiveIntegerSolutionForAGivenEquation.java) | 简单 |
 | 1247 | [交换字符使得字符串相同](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumSwapsToMakeStringsEqual.java) | 简单 |
 | 1248 | [统计「优美子数组」](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountNumberOfNiceSubarrays.java) | 中等 |
+| 1252 | [奇数值单元格的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CellsWithOddValuesInAMatrix.java) | 简单 |
 | 1260 | [二维网格迁移](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Shift2dGrid.java) | 简单 |
 | 1262 | [可被三整除的最大和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GreatestSumDivisibleByThree.java) | 中等 |
 | 5275 | [找出井字棋的获胜者](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindWinnerOnATicTacToeGame.java) | 简单 |
