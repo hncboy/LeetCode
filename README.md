@@ -246,6 +246,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 914 | [卡牌分组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/XOfAKindInADeckOfCards.java) | 简单 |
 | 915 | [分割数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PartitionArrayIntoDisjointIntervals.java) | 中等 |
 | 918 | [环形子数组的最大和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumSumCircularSubarray.java) | 中等 |
+| 922 | [按奇偶排序数组 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SortArrayByParityII.java) | 简单 |
 | 947 | [移除最多的同行或同列石头](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MostStonesRemovedWithSameRowOrColumn.java) | 中等 |
 | 967 | [连续差相同的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumbersWithSameConsecutiveDifferences.java) | 中等 |
 | 997 | [找到小镇的法官](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheTownJudge.java) | 简单 |
