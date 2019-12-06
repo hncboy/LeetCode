@@ -250,6 +250,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 926 | [将字符串翻转到单调递增](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FlipStringToMonotoneIncreasing.java) | 中等 |
 | 945 | [使数组唯一的最小增量](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumIncrementToMakeArrayUnique.java) | 中等 |
 | 947 | [移除最多的同行或同列石头](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MostStonesRemovedWithSameRowOrColumn.java) | 中等 |
+| 950 | [按递增顺序显示卡牌](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RevealCardsInIncreasingOrder.java) | 中等 |
 | 961 | [重复 N 次的元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NRepeatedElementInSize2nArray.java) | 简单 |
 | 967 | [连续差相同的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumbersWithSameConsecutiveDifferences.java) | 中等 |
 | 997 | [找到小镇的法官](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheTownJudge.java) | 简单 |
