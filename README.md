@@ -254,6 +254,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 950 | [按递增顺序显示卡牌](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RevealCardsInIncreasingOrder.java) | 中等 |
 | 954 | [二倍数对数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ArrayOfDoubledPairs.java) | 中等 |
 | 961 | [重复 N 次的元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NRepeatedElementInSize2nArray.java) | 简单 |
+| 962 | [最大宽度坡](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumWidthRamp.java) | 中等 |
 | 967 | [连续差相同的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumbersWithSameConsecutiveDifferences.java) | 中等 |
 | 997 | [找到小镇的法官](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheTownJudge.java) | 简单 |
 | 1003 | [检查替换后的词是否有效](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfWordIsValidAfterSubstitutions.java) | 中等 |
