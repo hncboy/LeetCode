@@ -248,6 +248,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 918 | [环形子数组的最大和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumSumCircularSubarray.java) | 中等 |
 | 922 | [按奇偶排序数组 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SortArrayByParityII.java) | 简单 |
 | 926 | [将字符串翻转到单调递增](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FlipStringToMonotoneIncreasing.java) | 中等 |
+| 941 | [有效的山脉数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidMountainArray.java) | 简单 |
 | 945 | [使数组唯一的最小增量](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumIncrementToMakeArrayUnique.java) | 中等 |
 | 947 | [移除最多的同行或同列石头](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MostStonesRemovedWithSameRowOrColumn.java) | 中等 |
 | 950 | [按递增顺序显示卡牌](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RevealCardsInIncreasingOrder.java) | 中等 |
