@@ -67,6 +67,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 63 | [不同路径 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UniquePathsII.java) | 中等 |
 | 64 | [最小路径和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumPathSum.java) | 中等 |
 | 66 | [加一](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PlusOne.java) | 简单 |
+| 67 | [二进制求和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AddBinary.java) | 简单 |
 | 69 | [x的平方根](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SqrtX.java) | 简单 |
 | 70 | [爬楼梯](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ClimbingStairs.java) | 简单 |
 | 72 | [编辑距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/EditDistance.java) | 困难 |
