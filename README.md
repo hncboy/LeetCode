@@ -62,6 +62,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 57 | [插入区间](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/InsertInterval.java) | 困难 |
 | 58 | [最后一个单词的长度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LengthOfLastWord.java) | 简单 |
 | 59 | [螺旋矩阵 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SpiralMatrixII.java) | 中等 |
+| 60 | [第k个排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PermutationSequence.java) | 中等 |
 | 61 | [旋转链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RotateList.java) | 中等 |
 | 62 | [不同路径](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UniquePaths.java) | 中等 |
 | 63 | [不同路径 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UniquePathsII.java) | 中等 |
