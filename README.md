@@ -49,6 +49,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 44 | [通配符匹配](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WildcardMatching.java) | 困难 |
 | 45 | [跳跃游戏 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/JumpGameII.java) | 困难 |
 | 46 | [全排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Permutations.java) | 中等 |
+| 47 | [全排列 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PermutationsII.java) | 中等 |
 | 48 | [旋转图像](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RotateImage.java) | 中等 |
 | 49 | [字母异位词分组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GroupAnagrams.java) | 中等 |
 | 50 | [Pow(x, n)](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PowxN.java) | 中等 |
@@ -280,3 +281,4 @@ From  [力扣中国](https://leetcode-cn.com)
 | 5275 | [找出井字棋的获胜者](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindWinnerOnATicTacToeGame.java) | 简单 |
 | 5276 | [不浪费原料的汉堡制作方案](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfBurgersWithNoWasteOfIngredients.java) | 中等 |
 | 5277 | [统计全为 1 的正方形子矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountSquareSubmatricesWithAllOnes.java) | 中等 |
+
