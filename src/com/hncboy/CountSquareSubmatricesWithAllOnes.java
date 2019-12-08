@@ -3,7 +3,7 @@ package com.hncboy;
 /**
  * @author hncboy
  * @date 2019/12/1 11:05
- * @description 5277.统计全为 1 的正方形子矩阵
+ * @description 1277.统计全为 1 的正方形子矩阵
  *
  * 给你一个 m * n 的矩阵，矩阵中的元素不是 0 就是 1，请你统计并返回其中完全由 1 组成的 正方形 子矩阵的个数。
  *

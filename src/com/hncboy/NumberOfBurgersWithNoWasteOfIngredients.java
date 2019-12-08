@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * @author hncboy
  * @date 2019/12/1 10:45
- * @description 5276.不浪费原料的汉堡制作方案
+ * @description 1276.不浪费原料的汉堡制作方案
  *
  * 圣诞活动预热开始啦，汉堡店推出了全新的汉堡套餐。为了避免浪费原料，请你帮他们制定合适的制作计划。
  *

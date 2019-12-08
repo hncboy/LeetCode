@@ -282,7 +282,8 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1252 | [奇数值单元格的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CellsWithOddValuesInAMatrix.java) | 简单 |
 | 1260 | [二维网格迁移](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Shift2dGrid.java) | 简单 |
 | 1262 | [可被三整除的最大和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GreatestSumDivisibleByThree.java) | 中等 |
-| 5275 | [找出井字棋的获胜者](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindWinnerOnATicTacToeGame.java) | 简单 |
-| 5276 | [不浪费原料的汉堡制作方案](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfBurgersWithNoWasteOfIngredients.java) | 中等 |
-| 5277 | [统计全为 1 的正方形子矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountSquareSubmatricesWithAllOnes.java) | 中等 |
+| 1275 | [找出井字棋的获胜者](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindWinnerOnATicTacToeGame.java) | 简单 |
+| 1276 | [不浪费原料的汉堡制作方案](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfBurgersWithNoWasteOfIngredients.java) | 中等 |
+| 1277 | [统计全为 1 的正方形子矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountSquareSubmatricesWithAllOnes.java) | 中等 |
+| 5279 | [整数的各位积和之差](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SubtractTheProductAndSumOfDigitsOfAnInteger.java) | 简单 |
 

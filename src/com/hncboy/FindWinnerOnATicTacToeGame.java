@@ -3,7 +3,7 @@ package com.hncboy;
 /**
  * @author hncboy
  * @date 2019/12/1 10:30
- * @description 5275.找出井字棋的获胜者
+ * @description 1275.找出井字棋的获胜者
  *
  * A 和 B 在一个 3 x 3 的网格上玩井字棋。
  *
