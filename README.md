@@ -265,6 +265,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 967 | [连续差相同的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumbersWithSameConsecutiveDifferences.java) | 中等 |
 | 997 | [找到小镇的法官](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheTownJudge.java) | 简单 |
 | 1003 | [检查替换后的词是否有效](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfWordIsValidAfterSubstitutions.java) | 中等 |
+| 1013 | [将数组分成和相等的三个部分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PartitionArrayIntoThreePartsWithEqualSum.java) | 简单 |
 | 1019 | [链表中的下一个更大节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NextGreaterNodeInLinkedList.java) | 中等 |
 | 1025 | [除数博弈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DivisorGame.java) | 简单 |
 | 1081 | [不同字符的最小子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SmallestSubsequenceOfDistinctCharacters.java) | 中等 |
