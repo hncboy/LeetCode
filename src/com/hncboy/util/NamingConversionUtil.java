@@ -1,7 +1,6 @@
 package com.hncboy.util;
 
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+import java.util.Arrays;
 
 /**
  * @author hncboy
@@ -19,9 +18,9 @@ public class NamingConversionUtil {
      * @param str
      * @return
      */
-    public static String lineToHump(String str) {
+    private static String lineToHump(String str) {
         String[] words = str.split("-");
-        StringBuffer sb = new StringBuffer();
+        StringBuilder sb = new StringBuilder();
         for (String word : words) {
             sb.append(word.substring(0, 1).toUpperCase())
                     .append(word.substring(1).toLowerCase());
@@ -29,7 +28,18 @@ public class NamingConversionUtil {
         return sb.toString();
     }
 
+    /**
+     * 通过url获取题目的横杠命名
+     *
+     * @param str
+     * @return
+     */
+    private static String getUrlLine(String str) {
+        String[] words = str.split("/");
+        return words[4];
+    }
+
     public static void main(String[] args) {
-        System.out.println(lineToHump("subtract-the-product-and-sum-of-digits-of-an-integer"));
+        System.out.println(lineToHump(getUrlLine("https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/")));
     }
 }

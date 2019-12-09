@@ -135,6 +135,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 146 | [LRU缓存机制](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LruCache.java) | 中等 |
 | 147 | [对链表进行插入排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/InsertionSortList.java) | 中等 |
 | 148 | [排序链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SortList.java) | 中等 |
+| 150 | [逆波兰表达式求值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/EvaluateReversePolishNotation.java) | 中等 |
 | 152 | [乘积最大子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumProductSubarray.java) | 中等 |
 | 153 | [寻找旋转排序数组中的最小值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindMinimumInRotatedSortedArray.java) | 中等 |
 | 154 | [寻找旋转排序数组中的最小值 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindMinimumInRotatedSortedArrayII.java) | 困难 |
@@ -145,7 +146,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 169 | [求众数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/majorityElement1.java) | 简单 |
 | 179 | [最大数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LargestNumber.java) | 中等 |
 | 189 | [旋转数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RotateArray.java) | 简单 |
-| 190 | [[颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseBits.java) | 简单 |
+| 190 | [[颠倒二进制位](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseBits.java) | 简单 |
 | 198 | [打家劫舍](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/HouseRobber.java) | 简单 |
 | 203 | [移除链表元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveLinkedListElements.java) | 简单 |
 | 206 | [反转链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseLinkedList.java) | 简单 |
@@ -294,3 +295,4 @@ From  [力扣中国](https://leetcode-cn.com)
 | 5280 | [用户分组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java) | 中等 |
 | 5281 | [使结果不超过阈值的最小除数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheSmallestDivisorGivenAThreshold.java) | 中等 |
 
+ 
