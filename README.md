@@ -119,6 +119,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 126 | [单词接龙 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WordLadderII.java) | 困难 |
 | 127 | [单词接龙](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WordLadder.java) | 中等 |
 | 128 | [最长连续序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestConsecutiveSequence.java) | 困难 |
+| 130 | [被围绕的区域](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SurroundedRegions.java) | 中等 |
 | 131 | [分割回文串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PalindromePartitioning.java) | 中等 |
 | 133 | [克隆图](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CloneGraph.java) | 中等 |
 | 134 | [加油站](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GasStation.java) | 中等 |
@@ -286,4 +287,6 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1276 | [不浪费原料的汉堡制作方案](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfBurgersWithNoWasteOfIngredients.java) | 中等 |
 | 1277 | [统计全为 1 的正方形子矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountSquareSubmatricesWithAllOnes.java) | 中等 |
 | 5279 | [整数的各位积和之差](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SubtractTheProductAndSumOfDigitsOfAnInteger.java) | 简单 |
+| 5280 | [用户分组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java) | 中等 |
+| 5281 | [使结果不超过阈值的最小除数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheSmallestDivisorGivenAThreshold.java) | 中等 |
 

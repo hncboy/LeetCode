@@ -47,7 +47,7 @@ public class GroupThePeopleGivenTheGroupSizeTheyBelongTo {
             // 将用户 id 放入对应的用户组
             List<Integer> sub = map.get(groupSizes[i]);
             sub.add(i);
-            map.put(groupSizes[i], sub);
+            //map.put(groupSizes[i], sub);
             // 当该用户组中的数量满了时，放入 result 集合，并清空 sub
             if (sub.size() == groupSizes[i]) {
                 result.add(new ArrayList<>(sub));
