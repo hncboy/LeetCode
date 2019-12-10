@@ -1,7 +1,5 @@
 package com.hncboy.util;
 
-import java.util.Arrays;
-
 /**
  * @author hncboy
  * @date 2019/12/8 12:16
@@ -40,6 +38,6 @@ public class NamingConversionUtil {
     }
 
     public static void main(String[] args) {
-        System.out.println(lineToHump(getUrlLine("https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/")));
+        System.out.println(lineToHump(getUrlLine("")));
     }
 }

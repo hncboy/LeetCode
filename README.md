@@ -1,4 +1,5 @@
 # LeetCode
+
 From  [力扣中国](https://leetcode-cn.com) 
 
 | 序号 | 题名 | 难度 |
@@ -27,7 +28,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 22 | [括号生成](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GenerateParentheses.java) | 中等 |
 | 23 | [合并K个排序链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MergeKSortedLists.java) | 困难 |
 | 24 | [两两交换链表中的节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SwapNodesInPairs.java) | 中等 |
-| 25 | [25.K 个一组翻转链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseNodesInKGroup.java) | 困难 |
+| 25 | [K 个一组翻转链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseNodesInKGroup.java) | 困难 |
 | 26 | [删除排序数组中的重复项](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveDuplicatesFromSortedArray.java) | 简单 |
 | 27 | [移除元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveElement.java) | 简单 |
 | 28 | [实现 strStr()](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ImplementStrstr.java) | 简单 |
@@ -135,6 +136,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 146 | [LRU缓存机制](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LruCache.java) | 中等 |
 | 147 | [对链表进行插入排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/InsertionSortList.java) | 中等 |
 | 148 | [排序链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SortList.java) | 中等 |
+| 149 | [直线上最多的点数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxPointsOnALine.java) | 困难 |
 | 150 | [逆波兰表达式求值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/EvaluateReversePolishNotation.java) | 中等 |
 | 152 | [乘积最大子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumProductSubarray.java) | 中等 |
 | 153 | [寻找旋转排序数组中的最小值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindMinimumInRotatedSortedArray.java) | 中等 |
@@ -144,6 +146,8 @@ From  [力扣中国](https://leetcode-cn.com)
 | 162 | [寻找峰值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindPeakElement.java) | 中等 |
 | 167 | [两数之和 II - 输入有序数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TwoSumIIInputArrayIsSorted.java) | 简单 |
 | 169 | [求众数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/majorityElement1.java) | 简单 |
+| 171 | [Excel表列序号](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ExcelSheetColumnNumber.java) | 简单 |
+| 172 | [阶乘后的零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FactorialTrailingZeroes.java) | 简单 |
 | 179 | [最大数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LargestNumber.java) | 中等 |
 | 189 | [旋转数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RotateArray.java) | 简单 |
 | 190 | [[颠倒二进制位](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseBits.java) | 简单 |
@@ -266,6 +270,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 961 | [重复 N 次的元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NRepeatedElementInSize2nArray.java) | 简单 |
 | 962 | [最大宽度坡](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumWidthRamp.java) | 中等 |
 | 967 | [连续差相同的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumbersWithSameConsecutiveDifferences.java) | 中等 |
+| 969 | [煎饼排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PancakeSorting.java) | 中等 |
 | 997 | [找到小镇的法官](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheTownJudge.java) | 简单 |
 | 1003 | [检查替换后的词是否有效](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfWordIsValidAfterSubstitutions.java) | 中等 |
 | 1013 | [将数组分成和相等的三个部分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PartitionArrayIntoThreePartsWithEqualSum.java) | 简单 |
