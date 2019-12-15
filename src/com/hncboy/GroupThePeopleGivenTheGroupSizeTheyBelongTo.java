@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @author hncboy
  * @date 2019/12/8 10:33
- * @description 5280.用户分组
+ * @description 1282.用户分组
  *
  * 有 n 位用户参加活动，他们的 ID 从 0 到 n - 1，每位用户都 恰好 属于某一用户组。
  * 给你一个长度为 n 的数组 groupSizes，其中包含每位用户所处的用户组的大小，

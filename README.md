@@ -302,7 +302,9 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1276 | [不浪费原料的汉堡制作方案](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfBurgersWithNoWasteOfIngredients.java) | 中等 |
 | 1277 | [统计全为 1 的正方形子矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountSquareSubmatricesWithAllOnes.java) | 中等 |
 | 5279 | [整数的各位积和之差](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SubtractTheProductAndSumOfDigitsOfAnInteger.java) | 简单 |
-| 5280 | [用户分组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java) | 中等 |
-| 5281 | [使结果不超过阈值的最小除数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheSmallestDivisorGivenAThreshold.java) | 中等 |
+| 1282 | [用户分组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java) | 中等 |
+| 1283 | [使结果不超过阈值的最小除数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheSmallestDivisorGivenAThreshold.java) | 中等 |
+| 5124 | [顺次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SequentialDigits.java) | 中等 |
+| 5283 | [二进制链表转整数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConvertBinaryNumberInALinkedListToInteger.java) | 简单 |
 
  

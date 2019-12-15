@@ -3,7 +3,7 @@ package com.hncboy;
 /**
  * @author hncboy
  * @date 2019/12/8 10:46
- * @description 5281.使结果不超过阈值的最小除数
+ * @description 1283.使结果不超过阈值的最小除数
  *
  * 给你一个整数数组 nums 和一个正整数 threshold ，你需要选择一个正整数作为除数，
  * 然后将数组里每个数都除以它，并对除法结果求和。
