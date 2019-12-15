@@ -226,6 +226,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 667 | [优美的排列 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BeautifulArrangementII.java) | 中等 |
 | 670 | [最大交换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumSwap.java) | 中等 |
 | 674 | [最长连续递增序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestContinuousIncreasingSubsequence.java) | 简单 |
+| 693 | [交替位二进制数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryNumberWithAlternatingBits.java) | 简单 |
 | 695 | [岛屿的最大面积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxAreaOfIsland.java) | 中等 |
 | 697 | [数组的度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DegreeOfAnArray.java) | 简单 |
 | 713 | [乘积小于K的子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SubarrayProductLessThanK.java) | 中等 |
