@@ -43,7 +43,6 @@ public class LinkedListCycle {
         // slow 移动一步 fast 移动两步 如果有环一定会相遇
         ListNode slowNode = head;
         ListNode fastNode = head;
-        Set<ListNode> nodeSet = new HashSet<>();
         while (fastNode != null && fastNode.next != null) {
             slowNode = slowNode.next;
             fastNode = fastNode.next.next;

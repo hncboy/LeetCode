@@ -164,6 +164,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 217 | [存在重复元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ContainsDuplicate.java) | 简单 |
 | 219 | [存在重复元素 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ContainsDuplicateII.java) | 简单 |
 | 221 | [最大正方形](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximalSquare.java) | 中等 |
+| 225 | [用队列实现栈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ImplementStackUsingQueues.java) | 简单 |
 | 228 | [汇总区间](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SummaryRanges.java) | 中等 |
 | 229 | [求众数 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MajorityElementII.java) | 中等 |
 | 231 | [2的幂](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PowerOfTwo.java) | 简单 |
@@ -274,12 +275,16 @@ From  [力扣中国](https://leetcode-cn.com)
 | 962 | [最大宽度坡](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumWidthRamp.java) | 中等 |
 | 967 | [连续差相同的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumbersWithSameConsecutiveDifferences.java) | 中等 |
 | 969 | [煎饼排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PancakeSorting.java) | 中等 |
+| 974 | [和可被 K 整除的子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SubarraySumsDivisibleByK.java) | 中等 |
 | 977 | [有序数组的平方](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SquaresOfASortedArray.java) | 简单 |
 | 978 | [最长湍流子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestTurbulentSubarray.java) | 中等 |
 | 985 | [查询后的偶数和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfEvenNumbersAfterQueries.java) | 简单 |
 | 989 | [数组形式的整数加法](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AddToArrayFormOfInteger.java) | 简单 |
 | 997 | [找到小镇的法官](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheTownJudge.java) | 简单 |
+| 1002 | [查找常用字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindCommonCharacters.java) | 简单 |
 | 1003 | [检查替换后的词是否有效](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfWordIsValidAfterSubstitutions.java) | 中等 |
+| 1007 | [行相等的最少多米诺旋转](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDominoRotationsForEqualRow.java) | 中等 |
+| 1010 | [总持续时间可被 60 整除的歌曲](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PairsOfSongsWithTotalDurationsDivisibleBy60.java) | 简单 |
 | 1013 | [将数组分成和相等的三个部分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PartitionArrayIntoThreePartsWithEqualSum.java) | 简单 |
 | 1019 | [链表中的下一个更大节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NextGreaterNodeInLinkedList.java) | 中等 |
 | 1025 | [除数博弈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DivisorGame.java) | 简单 |
