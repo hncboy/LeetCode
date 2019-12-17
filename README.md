@@ -277,6 +277,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 977 | [有序数组的平方](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SquaresOfASortedArray.java) | 简单 |
 | 978 | [最长湍流子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestTurbulentSubarray.java) | 中等 |
 | 985 | [查询后的偶数和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfEvenNumbersAfterQueries.java) | 简单 |
+| 989 | [数组形式的整数加法](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AddToArrayFormOfInteger.java) | 简单 |
 | 997 | [找到小镇的法官](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheTownJudge.java) | 简单 |
 | 1003 | [检查替换后的词是否有效](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfWordIsValidAfterSubstitutions.java) | 中等 |
 | 1013 | [将数组分成和相等的三个部分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PartitionArrayIntoThreePartsWithEqualSum.java) | 简单 |
