@@ -285,10 +285,13 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1003 | [检查替换后的词是否有效](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfWordIsValidAfterSubstitutions.java) | 中等 |
 | 1007 | [行相等的最少多米诺旋转](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDominoRotationsForEqualRow.java) | 中等 |
 | 1010 | [总持续时间可被 60 整除的歌曲](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PairsOfSongsWithTotalDurationsDivisibleBy60.java) | 简单 |
-|  | [在 D 天内送达包裹的能力](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CapacityToShipPackagesWithinDDays.java) | 中断 |
+| 1011 | [在 D 天内送达包裹的能力](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CapacityToShipPackagesWithinDDays.java) | 中等 |
 | 1013 | [将数组分成和相等的三个部分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PartitionArrayIntoThreePartsWithEqualSum.java) | 简单 |
+| 1014 | [最佳观光组合](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BestSightseeingPair.java) | 中等 |
+| 1018 | [可被 5 整除的二进制前缀](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryPrefixDivisibleBy5.java) | 简单 |
 | 1019 | [链表中的下一个更大节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NextGreaterNodeInLinkedList.java) | 中等 |
 | 1025 | [除数博弈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DivisorGame.java) | 简单 |
+| 1035 | [不相交的线](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UncrossedLines.java) | 中等 |
 | 1081 | [不同字符的最小子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SmallestSubsequenceOfDistinctCharacters.java) | 中等 |
 | 1114 | [按序打印](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PrintInOrder.java) | 简单 |
 | 1171 | [从链表中删去总和值为零的连续节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveZeroSumConsecutiveNodesFromLinkedList.java) | 中等 |
