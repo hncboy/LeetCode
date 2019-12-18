@@ -294,6 +294,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1035 | [不相交的线](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UncrossedLines.java) | 中等 |
 | 1081 | [不同字符的最小子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SmallestSubsequenceOfDistinctCharacters.java) | 中等 |
 | 1114 | [按序打印](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PrintInOrder.java) | 简单 |
+| 1160 | [拼写单词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindWordsThatCanBeFormedByCharacters.java) | 简单 |
 | 1171 | [从链表中删去总和值为零的连续节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveZeroSumConsecutiveNodesFromLinkedList.java) | 中等 |
 | 1173 | [第 N 个泰波那契数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NThTribonacciNumber.java) | 简单 |
 | 1217 | [玩筹码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PlayWithChips.java) | 简单 |
