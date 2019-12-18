@@ -285,6 +285,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1003 | [检查替换后的词是否有效](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfWordIsValidAfterSubstitutions.java) | 中等 |
 | 1007 | [行相等的最少多米诺旋转](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDominoRotationsForEqualRow.java) | 中等 |
 | 1010 | [总持续时间可被 60 整除的歌曲](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PairsOfSongsWithTotalDurationsDivisibleBy60.java) | 简单 |
+|  | [在 D 天内送达包裹的能力](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CapacityToShipPackagesWithinDDays.java) | 中断 |
 | 1013 | [将数组分成和相等的三个部分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PartitionArrayIntoThreePartsWithEqualSum.java) | 简单 |
 | 1019 | [链表中的下一个更大节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NextGreaterNodeInLinkedList.java) | 中等 |
 | 1025 | [除数博弈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DivisorGame.java) | 简单 |
