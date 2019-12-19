@@ -19,21 +19,20 @@ public class BestTimeToBuyAndSellStockWithCooldown {
 
     public static void main(String[] args) {
         BestTimeToBuyAndSellStockWithCooldown b = new BestTimeToBuyAndSellStockWithCooldown();
-        int[] prices = new int[]{1, 2, 3, 0, 2};
-        System.out.println(b.maxProfit(prices));
+        System.out.println(b.maxProfit(new int[]{1, 2, 3, 0, 2}));
     }
 
     private int maxProfit(int[] prices) {
-        int noStock = 0;
-        int preNoStock = 0;
-        int hasStock = Integer.MIN_VALUE;
-
+        int dp_i_0 = 0;
+        int dp_i_1 = Integer.MIN_VALUE;
+        int dp_pre = 0;
         for (int price : prices) {
-            int temp = noStock;
-            noStock = Math.max(noStock, hasStock + price);
-            hasStock = Math.max(hasStock, preNoStock - price);
-            preNoStock = temp;
+            int temp = dp_i_0;
+            dp_i_0 = Math.max(dp_i_0, dp_i_1 + price);
+            // 买入的状态转移从上一天未持有股票的情况转移
+            dp_i_1 = Math.max(dp_i_1, dp_pre - price);
+            dp_pre = temp;
         }
-        return noStock;
+        return dp_i_0;
     }
 }
