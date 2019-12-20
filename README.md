@@ -296,6 +296,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1019 | [链表中的下一个更大节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NextGreaterNodeInLinkedList.java) | 中等 |
 | 1025 | [除数博弈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DivisorGame.java) | 简单 |
 | 1035 | [不相交的线](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UncrossedLines.java) | 中等 |
+| 1051 | [高度检查器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/HeightChecker.java) | 简单 |
 | 1081 | [不同字符的最小子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SmallestSubsequenceOfDistinctCharacters.java) | 中等 |
 | 1114 | [按序打印](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PrintInOrder.java) | 简单 |
 | 1160 | [拼写单词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindWordsThatCanBeFormedByCharacters.java) | 简单 |
