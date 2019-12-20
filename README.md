@@ -115,7 +115,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 120 | [三角形最小路径和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Triangle.java) | 中等 |
 | 121 | [买卖股票的最佳时机](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BestTimeToBuyAndSellStock.java) | 简单 |
 | 122 | [买卖股票的最佳时机 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BestTimeToBuyAndSellStockII.java) | 简单 |
-|  | [买卖股票的最佳时机 III](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BestTimeToBuyAndSellStockIII.java) | 困难 |
+| 123 | [买卖股票的最佳时机 III](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BestTimeToBuyAndSellStockIII.java) | 困难 |
 | 124 | [二叉树中的最大路径和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreeMaximumPathSum.java) | 困难 |
 | 125 | [验证回文串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidPalindrome.java) | 简单 |
 | 126 | [单词接龙 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WordLadderII.java) | 困难 |
@@ -297,7 +297,8 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1025 | [除数博弈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DivisorGame.java) | 简单 |
 | 1035 | [不相交的线](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UncrossedLines.java) | 中等 |
 | 1051 | [高度检查器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/HeightChecker.java) | 简单 |
-|  | [爱生气的书店老板](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GrumpyBookstoreOwner.java) | 中等 |
+| 1052 | [爱生气的书店老板](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GrumpyBookstoreOwner.java) | 中等 |
+|  | [交换一次的先前排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PreviousPermutationWithOneSwap.java) | 中等 |
 | 1081 | [不同字符的最小子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SmallestSubsequenceOfDistinctCharacters.java) | 中等 |
 | 1114 | [按序打印](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PrintInOrder.java) | 简单 |
 | 1160 | [拼写单词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindWordsThatCanBeFormedByCharacters.java) | 简单 |
