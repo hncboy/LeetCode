@@ -197,6 +197,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 365 | [水壶问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WaterAndJugProblem.java) | 中等 |
 | 371 | [两整数之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfTwoIntegers.java) | 简单 |
 | 380 | [常数时间插入、删除和获取随机元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/InsertDeleteGetrandomO1.java) | 中等 |
+| 381 | [O(1) 时间插入、删除和获取随机元素 - 允许重复](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/InsertDeleteGetrandomO1DuplicatesAllowed.java) | 困难 |
 | 384 | [打乱数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShuffleAnArray.java) | 中等 |
 | 387 | [字符串中的第一个唯一字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FirstUniqueCharacterInAString.java) | 简单 |
 | 392 | [判断子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IsSubsequence.java) | 简单 |
