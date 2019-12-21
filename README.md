@@ -326,5 +326,6 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1281 | [整数的各位积和之差](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SubtractTheProductAndSumOfDigitsOfAnInteger.java) | 简单 |
 | 1282 | [用户分组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java) | 中等 |
 | 1283 | [使结果不超过阈值的最小除数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheSmallestDivisorGivenAThreshold.java) | 中等 |
+| 1287 | [有序数组中出现次数超过25%的元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ElementAppearingMoreThan25InSortedArray.java) | 简单 |
 | 1290 | [二进制链表转整数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConvertBinaryNumberInALinkedListToInteger.java) | 简单 |
 | 1291 | [顺次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SequentialDigits.java) | 中等 |
