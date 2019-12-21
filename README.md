@@ -301,6 +301,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1053 | [交换一次的先前排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PreviousPermutationWithOneSwap.java) | 中等 |
 | 1081 | [不同字符的最小子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SmallestSubsequenceOfDistinctCharacters.java) | 中等 |
 | 1089 | [复写零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DuplicateZeros.java) | 简单 |
+| 1109 | [航班预订统计](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CorporateFlightBookings.java) | 中等 |
 | 1114 | [按序打印](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PrintInOrder.java) | 简单 |
 | 1160 | [拼写单词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindWordsThatCanBeFormedByCharacters.java) | 简单 |
 | 1171 | [从链表中删去总和值为零的连续节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveZeroSumConsecutiveNodesFromLinkedList.java) | 中等 |
@@ -321,10 +322,8 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1275 | [找出井字棋的获胜者](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindWinnerOnATicTacToeGame.java) | 简单 |
 | 1276 | [不浪费原料的汉堡制作方案](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfBurgersWithNoWasteOfIngredients.java) | 中等 |
 | 1277 | [统计全为 1 的正方形子矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountSquareSubmatricesWithAllOnes.java) | 中等 |
-| 5279 | [整数的各位积和之差](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SubtractTheProductAndSumOfDigitsOfAnInteger.java) | 简单 |
+| 1281 | [整数的各位积和之差](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SubtractTheProductAndSumOfDigitsOfAnInteger.java) | 简单 |
 | 1282 | [用户分组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GroupThePeopleGivenTheGroupSizeTheyBelongTo.java) | 中等 |
 | 1283 | [使结果不超过阈值的最小除数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheSmallestDivisorGivenAThreshold.java) | 中等 |
-| 5124 | [顺次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SequentialDigits.java) | 中等 |
-| 5283 | [二进制链表转整数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConvertBinaryNumberInALinkedListToInteger.java) | 简单 |
-
- 
+| 1290 | [二进制链表转整数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConvertBinaryNumberInALinkedListToInteger.java) | 简单 |
+| 1291 | [顺次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SequentialDigits.java) | 中等 |

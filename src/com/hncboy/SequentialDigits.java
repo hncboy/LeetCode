@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 /**
  * @author hncboy
  * @date 2019/12/15 10:40
- * @description 5124.顺次数
+ * @description 1291.顺次数
  *
  * 我们定义「顺次数」为：每一位上的数字都比前一位上的数字大 1 的整数。
  * 请你返回由 [low, high] 范围内所有顺次数组成的 有序 列表（从小到大排序）。
