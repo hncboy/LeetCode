@@ -38,6 +38,6 @@ public class NamingConversionUtil {
     }
 
     public static void main(String[] args) {
-        System.out.println(lineToHump(getUrlLine("https://leetcode-cn.com/problems/binary-number-with-alternating-bits/")));
+        System.out.println(lineToHump(getUrlLine("")));
     }
 }

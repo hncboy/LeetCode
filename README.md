@@ -176,6 +176,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 238 | [除自身以外数组的乘积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ProductOfArrayExceptSelf.java) | 中等 |
 | 239 | [滑动窗口最大值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SlidingWindowMaximum.java) | 困难 |
 | 242 | [有效的字母异位词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidAnagram.java) | 简单 |
+| 258 | [各位相加](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AddDigits.java) | 简单 |
 | 268 | [缺失数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MissingNumber.java) | 简单 |
 | 279 | [完全平方数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PerfectSquares.java) | 中等 |
 | 283 | [移动零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MoveZeroes.java) | 简单 |
