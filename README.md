@@ -330,5 +330,6 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1290 | [二进制链表转整数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConvertBinaryNumberInALinkedListToInteger.java) | 简单 |
 | 1291 | [顺次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SequentialDigits.java) | 中等 |
 | 5291 | [统计位数为偶数的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindNumbersWithEvenNumberOfDigits.java) | 简单 |
-|  | [划分数组为连续数字的集合](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DivideArrayInSetsOfKConsecutiveNumbers.java) | 中等 |
-|  | [你能从盒子里获得的最大糖果数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumCandiesYouCanGetFromBoxes.java) | 困难 |
+| 5292 | [划分数组为连续数字的集合](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DivideArrayInSetsOfKConsecutiveNumbers.java) | 中等 |
+| 5293 | [子串的最大出现次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNumberOfOccurrencesOfASubstring.java) | 中等 |
+| 5294 | [你能从盒子里获得的最大糖果数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumCandiesYouCanGetFromBoxes.java) | 困难 |
