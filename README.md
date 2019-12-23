@@ -304,6 +304,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1089 | [复写零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DuplicateZeros.java) | 简单 |
 | 1109 | [航班预订统计](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CorporateFlightBookings.java) | 中等 |
 | 1114 | [按序打印](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PrintInOrder.java) | 简单 |
+|  | [等价多米诺骨牌对的数量](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfEquivalentDominoPairs.java) | 简单 |
 | 1160 | [拼写单词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindWordsThatCanBeFormedByCharacters.java) | 简单 |
 | 1171 | [从链表中删去总和值为零的连续节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveZeroSumConsecutiveNodesFromLinkedList.java) | 中等 |
 | 1173 | [第 N 个泰波那契数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NThTribonacciNumber.java) | 简单 |
