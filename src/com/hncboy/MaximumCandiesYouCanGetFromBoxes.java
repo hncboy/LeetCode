@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @author hncboy
  * @date 2019/12/22 11:09
- * @description 5294.你能从盒子里获得的最大糖果数
+ * @description 1298.你能从盒子里获得的最大糖果数
  *
  * 给你 n 个盒子，每个盒子的格式为 [status, candies, keys, containedBoxes] ，其中：
  *

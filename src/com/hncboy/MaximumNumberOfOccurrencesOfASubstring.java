@@ -8,7 +8,7 @@ import java.util.Set;
 /**
  * @author hncboy
  * @date 2019/12/23 1:18
- * @description 5293.子串的最大出现次数
+ * @description 1297.子串的最大出现次数
  *
  * 给你一个字符串 s ，请你返回满足以下条件且出现次数最大的 任意 子串的出现次数：
  * 子串中不同字母的数目必须小于等于 maxLetters 。

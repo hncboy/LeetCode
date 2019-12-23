@@ -7,7 +7,7 @@ import java.util.TreeMap;
 /**
  * @author hncboy
  * @date 2019/12/22 10:10
- * @description 5292.划分数组为连续数字的集合
+ * @description 1296.划分数组为连续数字的集合
  *
  * 给你一个整数数组 nums 和一个正整数 k，请你判断是否可以把这个数组划分成一些由 k 个连续数字组成的集合。
  * 如果可以，请返回 True；否则，返回 False。
