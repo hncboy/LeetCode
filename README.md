@@ -131,6 +131,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 139 | [单词拆分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WordBreak.java) | 中等 |
 | 140 | [单词拆分 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WordBreakII.java) | 困难 |
 | 141 | [环形链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LinkedListCycle.java) | 简单 |
+| 142 | [环形链表 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LinkedListCycleII.java) | 中等 |
 | 143 | [重排链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReorderList.java) | 中等 |
 | 144 | [二叉树的前序遍历](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreePreorderTraversal.java) | 中等 |
 | 145 | [二叉树的后序遍历](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreePostorderTraversal.java) | 困难 |
