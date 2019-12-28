@@ -180,6 +180,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 242 | [有效的字母异位词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidAnagram.java) | 简单 |
 | 258 | [各位相加](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AddDigits.java) | 简单 |
 | 263 | [丑数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UglyNumber.java) | 简单 |
+| 264 | [丑数 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UglyNumberII.java) | 中等 |
 | 268 | [缺失数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MissingNumber.java) | 简单 |
 | 279 | [完全平方数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PerfectSquares.java) | 中等 |
 | 283 | [移动零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MoveZeroes.java) | 简单 |
@@ -190,6 +191,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 300 | [最长上升子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestIncreasingSubsequence.java) | 中等 |
 | 303 | [区域和检索 - 数组不可变](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RangeSumQueryImmutable.java) | 简单 |
 | 309 | [最佳买卖股票时机含冷冻期](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BestTimeToBuyAndSellStockWithCooldown.java) | 中等 |
+| 313 | [超级丑数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SuperUglyNumber.java) | 中等 |
 | 316 | [去除重复字母](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveDuplicateLetters.java) | 困难 |
 | 322 | [零钱兑换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CoinChange.java) | 中等 |
 | 326 | [3的幂](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PowerOfThree.java) | 简单 |
