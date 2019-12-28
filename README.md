@@ -157,6 +157,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 191 | [位1的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOf1Bits.java) | 简单 |
 | 198 | [打家劫舍](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/HouseRobber.java) | 简单 |
 | 203 | [移除链表元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveLinkedListElements.java) | 简单 |
+| 204 | [计数质数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountPrimes.java) | 简单 |
 | 206 | [反转链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseLinkedList.java) | 简单 |
 | 207 | [课程表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CourseSchedule.java) | 中等 |
 | 209 | [长度最小的子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumSizeSubarraySum.java) | 中等 |
@@ -178,6 +179,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 239 | [滑动窗口最大值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SlidingWindowMaximum.java) | 困难 |
 | 242 | [有效的字母异位词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidAnagram.java) | 简单 |
 | 258 | [各位相加](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AddDigits.java) | 简单 |
+| 263 | [丑数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UglyNumber.java) | 简单 |
 | 268 | [缺失数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MissingNumber.java) | 简单 |
 | 279 | [完全平方数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PerfectSquares.java) | 中等 |
 | 283 | [移动零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MoveZeroes.java) | 简单 |
@@ -200,6 +202,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 371 | [两整数之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfTwoIntegers.java) | 简单 |
 | 380 | [常数时间插入、删除和获取随机元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/InsertDeleteGetrandomO1.java) | 中等 |
 | 381 | [O(1) 时间插入、删除和获取随机元素 - 允许重复](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/InsertDeleteGetrandomO1DuplicatesAllowed.java) | 困难 |
+| 382 | [链表随机节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LinkedListRandomNode.java) | 中等 |
 | 384 | [打乱数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShuffleAnArray.java) | 中等 |
 | 387 | [字符串中的第一个唯一字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FirstUniqueCharacterInAString.java) | 简单 |
 | 392 | [判断子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IsSubsequence.java) | 简单 |
