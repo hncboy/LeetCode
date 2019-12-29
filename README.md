@@ -343,3 +343,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1296 | [划分数组为连续数字的集合](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DivideArrayInSetsOfKConsecutiveNumbers.java) | 中等 |
 | 1297 | [子串的最大出现次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNumberOfOccurrencesOfASubstring.java) | 中等 |
 | 1298 | [你能从盒子里获得的最大糖果数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumCandiesYouCanGetFromBoxes.java) | 困难 |
+| 5925 | [和为零的N个唯一整数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindNUniqueIntegersSumUpToZero.java) | 简单 |
+| 5926 | [两棵二叉搜索树中的所有元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AllElementsInTwoBinarySearchTrees.java) | 中等 |
+| 5927 | [跳跃游戏 III](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/JumpGameIII.java) | 中等 |
+| 5928 | [口算难题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/VerbalArithmeticPuzzle.java) | 困难 |
