@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @author hncboy
  * @date 2019/12/29 10:29
- * @description 5296.两棵二叉搜索树中的所有元素
+ * @description 1305.两棵二叉搜索树中的所有元素
  *
  * 给你root1 和 root2这两棵二叉搜索树。
  * 请你返回一个列表，其中包含两棵树中的所有整数并按 升序 排序。.

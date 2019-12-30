@@ -3,7 +3,7 @@ package com.hncboy;
 /**
  * @author hncboy
  * @date 2019/12/29 10:29
- * @description 5297.跳跃游戏 III
+ * @description 1306.跳跃游戏 III
  *
  * 这里有一个非负整数数组arr，你最开始位于该数组的起始下标start处。
  * 当你位于下标i处时，你可以跳到i + arr[i] 或者 i - arr[i]。

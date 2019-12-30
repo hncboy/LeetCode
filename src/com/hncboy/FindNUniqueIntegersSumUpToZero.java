@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @author hncboy
  * @date 2019/12/29 10:28
- * @description 5295.和为零的N个唯一整数
+ * @description 1304.和为零的N个唯一整数
  *
  * 给你一个整数n，请你返回 任意一个由 n个 各不相同的整数组成的数组，并且这 n 个数相加和为 0 。
  *

@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @author hncboy
  * @date 2019/12/29 10:29
- * @description 5298.口算难题
+ * @description 1307.口算难题
  * 
  * 给你一个方程，左边用words表示，右边用result 表示。
  * 你需要根据以下规则检查方程是否可解：
