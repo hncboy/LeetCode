@@ -182,6 +182,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 263 | [丑数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UglyNumber.java) | 简单 |
 | 264 | [丑数 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UglyNumberII.java) | 中等 |
 | 268 | [缺失数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MissingNumber.java) | 简单 |
+|  | [第一个错误的版本](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FirstBadVersion.java) | 简单 |
 | 279 | [完全平方数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PerfectSquares.java) | 中等 |
 | 283 | [移动零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MoveZeroes.java) | 简单 |
 | 287 | [寻找重复数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheDuplicateNumber.java) | 中等 |
@@ -199,6 +200,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 330 | [按要求补齐数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PatchingArray.java) | 困难 |
 | 332 | [重新安排行程](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReconstructItinerary.java) | 中等 |
 | 344 | [反转字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseString.java) | 简单 |
+| 349 | [两个数组的交集](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntersectionOfTwoArrays.java) | 简单 |
 | 350 | [两个数组的交集 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntersectionOfTwoArraysII.java) | 简单 |
 | 365 | [水壶问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WaterAndJugProblem.java) | 中等 |
 | 371 | [两整数之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfTwoIntegers.java) | 简单 |
@@ -346,6 +348,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1297 | [子串的最大出现次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNumberOfOccurrencesOfASubstring.java) | 中等 |
 | 1298 | [你能从盒子里获得的最大糖果数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumCandiesYouCanGetFromBoxes.java) | 困难 |
 | 1299 | [将每个元素替换为右侧最大元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReplaceElementsWithGreatestElementOnRightSide.java) | 简单 |
+| 1300 | [转变数组后最接近目标值的数组和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfMutatedArrayClosestToTarget.java) | 中等 |
 | 1302 | [层数最深叶子节点的和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DeepestLeavesSum.java) | 中等 |
 | 1304 | [和为零的N个唯一整数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindNUniqueIntegersSumUpToZero.java) | 简单 |
 | 1305 | [两棵二叉搜索树中的所有元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AllElementsInTwoBinarySearchTrees.java) | 中等 |
