@@ -182,7 +182,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 263 | [丑数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UglyNumber.java) | 简单 |
 | 264 | [丑数 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UglyNumberII.java) | 中等 |
 | 268 | [缺失数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MissingNumber.java) | 简单 |
-|  | [第一个错误的版本](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FirstBadVersion.java) | 简单 |
+| 278 | [第一个错误的版本](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FirstBadVersion.java) | 简单 |
 | 279 | [完全平方数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PerfectSquares.java) | 中等 |
 | 283 | [移动零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MoveZeroes.java) | 简单 |
 | 287 | [寻找重复数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheDuplicateNumber.java) | 中等 |
@@ -203,7 +203,9 @@ From  [力扣中国](https://leetcode-cn.com)
 | 349 | [两个数组的交集](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntersectionOfTwoArrays.java) | 简单 |
 | 350 | [两个数组的交集 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntersectionOfTwoArraysII.java) | 简单 |
 | 365 | [水壶问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WaterAndJugProblem.java) | 中等 |
+| 367 | [有效的完全平方数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidPerfectSquare.java) | 简单 |
 | 371 | [两整数之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfTwoIntegers.java) | 简单 |
+| 374 | [猜数字大小](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GuessNumberHigherOrLower.java) | 简单 |
 | 380 | [常数时间插入、删除和获取随机元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/InsertDeleteGetrandomO1.java) | 中等 |
 | 381 | [O(1) 时间插入、删除和获取随机元素 - 允许重复](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/InsertDeleteGetrandomO1DuplicatesAllowed.java) | 困难 |
 | 382 | [链表随机节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LinkedListRandomNode.java) | 中等 |
@@ -215,6 +217,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 412 | [Fizz Buzz](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FizzBuzz.java) | 简单 |
 | 414 | [第三大的数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ThirdMaximumNumber.java) | 简单 |
 | 430 | [扁平化多级双向链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FlattenAMultilevelDoublyLinkedList.java) | 中等 |
+| 441 | [排列硬币](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ArrangingCoins.java) | 简单 |
 | 442 | [数组中重复的数据](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindAllDuplicatesInAnArray.java) | 中等 |
 | 445 | [两数相加 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AddTwoNumbersII.java) | 中等 |
 | 448 | [找到所有数组中消失的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindAllNumbersDisappearedInAnArray.java) | 简单 |
