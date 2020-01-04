@@ -253,6 +253,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 724 | [寻找数组的中心索引](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindPivotIndex.java) | 简单 |
 | 725 | [分隔链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SplitLinkedListInParts.java) | 中等 |
 | 743 | [网络延迟时间](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NetworkDelayTime.java) | 中等 |
+| 744 | [寻找比目标字母大的最小字母](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindSmallestLetterGreaterThanTarget.java) | 简单 |
 | 746 | [使用最小花费爬楼梯](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinCostClimbingStairs.java) | 简单 |
 | 747 | [至少是其他数字两倍的最大数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LargestNumberAtLeastTwiceOfOthers.java) | 简单 |
 | 766 | [托普利茨矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ToeplitzMatrix.java) | 简单 |
