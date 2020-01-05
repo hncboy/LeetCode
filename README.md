@@ -359,3 +359,5 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1305 | [两棵二叉搜索树中的所有元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AllElementsInTwoBinarySearchTrees.java) | 中等 |
 | 1306 | [跳跃游戏 III](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/JumpGameIII.java) | 中等 |
 | 1307 | [口算难题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/VerbalArithmeticPuzzle.java) | 困难 |
+| 5303 | [解码字母到整数映射](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DecryptStringFromAlphabetToIntegerMapping.java) | 简单 |
+| 5304 | [子数组异或查询](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/XorQueriesOfASubarray.java) | 中等 |
