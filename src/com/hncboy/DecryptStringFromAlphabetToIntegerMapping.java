@@ -3,7 +3,7 @@ package com.hncboy;
 /**
  * @author hncboy
  * @date 2020/1/5 10:22
- * @description 5303.解码字母到整数映射
+ * @description 1309.解码字母到整数映射
  *
  * 给你一个字符串 s，它由数字（'0' - '9'）和 '#' 组成。我们希望按下述规则将 s 映射为一些小写英文字符：
  * 字符（'a' - 'i'）分别用（'1' - '9'）表示。
@@ -43,7 +43,7 @@ public class DecryptStringFromAlphabetToIntegerMapping {
         System.out.println(d.freqAlphabets("12345678910#11#12#13#14#15#16#17#18#19#20#21#22#23#24#25#26#"));
     }
 
-    public String freqAlphabets(String s) {
+    private String freqAlphabets(String s) {
         StringBuilder sb = new StringBuilder();
         int i = 0;
         while (i < s.length()) {

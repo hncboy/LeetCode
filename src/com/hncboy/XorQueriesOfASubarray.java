@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @author hncboy
  * @date 2020/1/5 10:22
- * @description 5304.子数组异或查询
+ * @description 1310.子数组异或查询
  *
  * 有一个正整数数组 arr，现给你一个对应的查询数组 queries，其中 queries[i] = [Li, Ri]。
  * 对于每个查询 i，请你计算从 Li 到 Ri 的 XOR 值
@@ -50,7 +50,7 @@ public class XorQueriesOfASubarray {
         System.out.println(Arrays.toString(x.xorQueries(arr2, queries2)));
     }
 
-    public int[] xorQueries(int[] arr, int[][] queries) {
+    private int[] xorQueries(int[] arr, int[][] queries) {
         int[] dp = new int[arr.length + 1];
         for (int i = 0; i < arr.length; i++) {
             dp[i + 1] = dp[i] ^ arr[i];
