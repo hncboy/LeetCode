@@ -183,6 +183,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 264 | [丑数 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UglyNumberII.java) | 中等 |
 | 268 | [缺失数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MissingNumber.java) | 简单 |
 | 274 | [H指数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/HIndex.java) | 中等 |
+| 275 | [H指数 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/HIndexII.java) | 中等 |
 | 278 | [第一个错误的版本](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FirstBadVersion.java) | 简单 |
 | 279 | [完全平方数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PerfectSquares.java) | 中等 |
 | 283 | [移动零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MoveZeroes.java) | 简单 |
