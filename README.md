@@ -365,3 +365,4 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1309 | [解码字母到整数映射](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DecryptStringFromAlphabetToIntegerMapping.java) | 简单 |
 | 1310 | [子数组异或查询](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/XorQueriesOfASubarray.java) | 中等 |
 | 1311 | [获取你好友已观看的视频](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GetWatchedVideosByYourFriends.java) | 中等 |
+| 5143 | [解压缩编码列表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DecompressRunLengthEncodedList.java) | 简单 |
