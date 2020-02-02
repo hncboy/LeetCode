@@ -7,7 +7,7 @@ import java.util.List;
 /**
  * @author hncboy
  * @date 2020/1/11 22:25
- * @description 5143.解压缩编码列表
+ * @description 1313.解压缩编码列表
  *
  * 给你一个以行程长度编码压缩的整数列表 nums 。
  * 考虑每相邻两个元素 [a, b] = [nums[2*i], nums[2*i+1]] （其中 i >= 0 ），
