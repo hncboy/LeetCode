@@ -7,7 +7,7 @@ import java.util.Map;
 /**
  * @author hncboy
  * @date 2020/2/2 10:53
- * @description 5329.数组大小减半
+ * @description 1342.数组大小减半
  *
  * 给你一个整数数组 arr。你可以从中选出一个整数集合，并删除这些整数在数组中的每次出现。
  * 返回 至少 能删除数组中的一半整数的整数集合的最小大小。

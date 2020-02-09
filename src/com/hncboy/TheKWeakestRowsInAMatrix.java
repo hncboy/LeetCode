@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @author hncboy
  * @date 2020/2/2 10:31
- * @description 5328.方阵中战斗力最弱的 K 行
+ * @description 1341.方阵中战斗力最弱的 K 行
  *
  * 给你一个大小为 m * n 的方阵 mat，方阵由若干军人和平民组成，分别用 0 和 1 表示。
  * 请你返回方阵中战斗力最弱的 k 行的索引，按从最弱到最强排序。

@@ -368,6 +368,9 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1313 | [解压缩编码列表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DecompressRunLengthEncodedList.java) | 简单 |
 | 1314 | [矩阵区域和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConvertIntegerToTheSumOfTwoNoZeroIntegers.java) | 中等 |
 | 1315 | [祖父节点值为偶数的节点和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfNodesWithEvenValuedGrandparent.java) | 中等 |
-| 5328 | [方阵中战斗力最弱的 K 行](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TheKWeakestRowsInAMatrix.java) | 简单 |
-| 5329 | [数组大小减半](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReduceArraySizeToTheHalf.java) | 中等 |
-| 5330 | [分裂二叉树的最大乘积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumProductOfSplittedBinaryTree.java) | 中等 |
+| 1339 | [分裂二叉树的最大乘积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumProductOfSplittedBinaryTree.java) | 中等 |
+| 1341 | [方阵中战斗力最弱的 K 行](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TheKWeakestRowsInAMatrix.java) | 简单 |
+| 1342 | [数组大小减半](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReduceArraySizeToTheHalf.java) | 中等 |
+| 5311 | [将数字变成 0 的操作次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfStepsToReduceANumberToZero.java) | 简单 |
+| 5312 | [大小为 K 且平均值大于等于阈值的子数组数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold.java) | 中等 |
+| 5313 | [时钟指针的夹角](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AngleBetweenHandsOfAClock.java) | 中等 |
