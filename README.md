@@ -147,6 +147,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 160 | [相交链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntersectionOfTwoLinkedLists.java) | 简单 |
 | 162 | [寻找峰值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindPeakElement.java) | 中等 |
 | 167 | [两数之和 II - 输入有序数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TwoSumIIInputArrayIsSorted.java) | 简单 |
+| 168 | [Excel表列名称](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ExcelSheetColumnTitle.java) | 简单 |
 | 169 | [求众数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/majorityElement1.java) | 简单 |
 | 171 | [Excel表列序号](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ExcelSheetColumnNumber.java) | 简单 |
 | 172 | [阶乘后的零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FactorialTrailingZeroes.java) | 简单 |
@@ -158,6 +159,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 198 | [打家劫舍](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/HouseRobber.java) | 简单 |
 | 203 | [移除链表元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveLinkedListElements.java) | 简单 |
 | 204 | [计数质数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountPrimes.java) | 简单 |
+| 205 | [同构字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IsomorphicStrings.java) | 简单 |
 | 206 | [反转链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseLinkedList.java) | 简单 |
 | 207 | [课程表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CourseSchedule.java) | 中等 |
 | 209 | [长度最小的子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumSizeSubarraySum.java) | 中等 |
@@ -211,6 +213,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 380 | [常数时间插入、删除和获取随机元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/InsertDeleteGetrandomO1.java) | 中等 |
 | 381 | [O(1) 时间插入、删除和获取随机元素 - 允许重复](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/InsertDeleteGetrandomO1DuplicatesAllowed.java) | 困难 |
 | 382 | [链表随机节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LinkedListRandomNode.java) | 中等 |
+| 383 | [赎金信](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RansomNote.java) | 简单 |
 | 384 | [打乱数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShuffleAnArray.java) | 中等 |
 | 387 | [字符串中的第一个唯一字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FirstUniqueCharacterInAString.java) | 简单 |
 | 392 | [判断子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IsSubsequence.java) | 简单 |
@@ -273,6 +276,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 835 | [图像重叠](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ImageOverlap.java) | 中等 |
 | 840 | [矩阵中的幻方](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MagicSquaresInGrid.java) | 简单 |
 | 849 | [到最近的人的最大距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximizeDistanceToClosestPerson.java) | 简单 |
+| 852 | [山脉数组的峰顶索引](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PeakIndexInAMountainArray.java) | 简单 |
 | 861 | [翻转矩阵后的得分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ScoreAfterFlippingMatrix.java) | 中等 |
 | 867 | [转置矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TransposeMatrix.java) | 简单 |
 | 870 | [优势洗牌](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AdvantageShuffle.java) | 中等 |
