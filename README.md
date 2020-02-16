@@ -392,4 +392,8 @@
 | [面试题04](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [二维数组中的查找](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question04.java) | 简单 |
 | [面试题05](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [替换空格](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question05.java) | 简单 |
 | [面试题06](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [从尾到头打印链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question06.java) | 简单 |
+| [面试题09](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [用两个栈实现队列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question09.java) | 简单 |
+| [面试题10-I](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [斐波那契数列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question10_I.java) | 简单 |
+| [面试题10-II](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | [青蛙跳台阶问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question10_II.java) | 简单 |
+| [面试题11](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [旋转数组的最小数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question11.java) | 简单 |
 
