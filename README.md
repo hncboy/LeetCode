@@ -1,8 +1,8 @@
 # [LeetCode](https://leetcode-cn.com)
 
-| [算法](#pencil-算法) | 数据库  | Shell            | 多线程              | 程序员面试金典 | [剑指 Offer](fountain_pen-剑指 Offer) |
-| -------------------- | ------- | ---------------- | ------------------- | -------------- | ------------------------------------- |
-| :pencil:             | :eagle: | :aerial_tramway: | :currency_exchange: | :hot_pepper:   | :fountain_pen:                        |
+| [算法](#pencil算法) | 数据库  | Shell            | 多线程              | 程序员面试金典 | [剑指 Offer](fountain_pen剑指-offer) |
+| ------------------- | ------- | ---------------- | ------------------- | -------------- | ------------------------------------ |
+| :pencil:            | :eagle: | :aerial_tramway: | :currency_exchange: | :hot_pepper:   | :fountain_pen:                       |
 
 ## :pencil:算法
 
@@ -386,8 +386,9 @@
 
 ## :fountain_pen:剑指 Offer
 
-| 序号     | 题名             | 难度 |
-| -------- | ---------------- | ---- |
-| 面试题03 | 数组中重复的数字 | 简单 |
-| 面试题04 | 二维数组中的查找 | 简单 |
+| 序号     | 题名                                                         | 难度 |
+| -------- | ------------------------------------------------------------ | ---- |
+| 面试题03 | [数组中重复的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question03.java) | 简单 |
+| 面试题04 | [二维数组中的查找](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question04.java) | 简单 |
+| 面试题05 | [替换空格](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question05.java) | 简单 |
 
