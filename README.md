@@ -1,6 +1,10 @@
-# dLeetCode
+# [LeetCode](https://leetcode-cn.com)
 
-From  [力扣中国](https://leetcode-cn.com) 
+| [算法](#pencil-算法) | 数据库  | Shell            | 多线程              | 程序员面试金典 | [剑指 Offer](fountain_pen-剑指 Offer) |
+| -------------------- | ------- | ---------------- | ------------------- | -------------- | ------------------------------------- |
+| :pencil:             | :eagle: | :aerial_tramway: | :currency_exchange: | :hot_pepper:   | :fountain_pen:                        |
+
+## :pencil:算法
 
 | 序号 | 题名 | 难度 |
 | -- | -- | -- |
@@ -179,6 +183,7 @@ From  [力扣中国](https://leetcode-cn.com)
 | 237 | [删除链表中的节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DeleteNodeInALinkedList.java) | 简单 |
 | 238 | [除自身以外数组的乘积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ProductOfArrayExceptSelf.java) | 中等 |
 | 239 | [滑动窗口最大值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SlidingWindowMaximum.java) | 困难 |
+| 240 | [搜索二维矩阵 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SearchA2dMatrixII.java) | 中等 |
 | 242 | [有效的字母异位词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidAnagram.java) | 简单 |
 | 258 | [各位相加](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AddDigits.java) | 简单 |
 | 263 | [丑数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UglyNumber.java) | 简单 |
@@ -375,6 +380,14 @@ From  [力扣中国](https://leetcode-cn.com)
 | 1339 | [分裂二叉树的最大乘积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumProductOfSplittedBinaryTree.java) | 中等 |
 | 1341 | [方阵中战斗力最弱的 K 行](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TheKWeakestRowsInAMatrix.java) | 简单 |
 | 1342 | [数组大小减半](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReduceArraySizeToTheHalf.java) | 中等 |
-| 5311 | [将数字变成 0 的操作次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfStepsToReduceANumberToZero.java) | 简单 |
-| 5312 | [大小为 K 且平均值大于等于阈值的子数组数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold.java) | 中等 |
-| 5313 | [时钟指针的夹角](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AngleBetweenHandsOfAClock.java) | 中等 |
+| 1342 | [将数字变成 0 的操作次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfStepsToReduceANumberToZero.java) | 简单 |
+| 1343 | [大小为 K 且平均值大于等于阈值的子数组数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold.java) | 中等 |
+| 1344 | [时钟指针的夹角](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AngleBetweenHandsOfAClock.java) | 中等 |
+
+## :fountain_pen:剑指 Offer
+
+| 序号     | 题名             | 难度 |
+| -------- | ---------------- | ---- |
+| 面试题03 | 数组中重复的数字 | 简单 |
+| 面试题04 | 二维数组中的查找 | 简单 |
+
