@@ -1,8 +1,8 @@
 # [LeetCode](https://leetcode-cn.com)
 
-| [算法](#pencil算法) | 数据库  | Shell            | 多线程              | 程序员面试金典 | [剑指 Offer](#fountain_pen剑指-offer) |
-| ------------------- | ------- | ---------------- | ------------------- | -------------- | ------------------------------------- |
-| :pencil:            | :eagle: | :aerial_tramway: | :currency_exchange: | :hot_pepper:   | :fountain_pen:                        |
+| [算法](#pencil算法) | 数据库  | Shell            | [多线程](#currency_exchangedd多线程) | 程序员面试金典 | [剑指 Offer](#fountain_pen剑指-offer) |
+| ------------------- | ------- | ---------------- | ------------------------------------ | -------------- | ------------------------------------- |
+| :pencil:            | :eagle: | :aerial_tramway: | :currency_exchange:                  | :hot_pepper:   | :fountain_pen:                        |
 
 ## :pencil:算法
 
@@ -330,7 +330,6 @@
 | 1081 | [不同字符的最小子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SmallestSubsequenceOfDistinctCharacters.java) | 中等 |
 | 1089 | [复写零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DuplicateZeros.java) | 简单 |
 | 1109 | [航班预订统计](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CorporateFlightBookings.java) | 中等 |
-| 1114 | [按序打印](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PrintInOrder.java) | 简单 |
 | 1122 | [数组的相对排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RelativeSortArray.java) | 简单 |
 | 1128 | [等价多米诺骨牌对的数量](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfEquivalentDominoPairs.java) | 简单 |
 | 1144 | [递减元素使数组呈锯齿状](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DecreaseElementsToMakeArrayZigzag.java) | 中等 |
@@ -390,6 +389,13 @@
 | 5323 | [根据数字二进制下 1 的数目排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SortIntegersByTheNumberOf1Bits.java) | 简单 |
 | 5325 | [包含所有三种字符的子字符串数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfSubstringsContainingAllThreeCharacters.java) | 中等 |
 | 5326 | [有效的快递序列数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountAllValidPickupAndDeliveryOptions.java) | 困难 |
+
+## :currency_exchange:多线程
+
+| 序号                                                         | 题名                                                         | 难度 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [1114](https://leetcode-cn.com/problems/print-in-order/)     | [按序打印](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/multithread/PrintInOrder.java) | 简单 |
+| [1115](https://leetcode-cn.com/problems/print-foobar-alternately/) | [交替打印FooBar](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/multithread/PrintFoobarAlternately.java) | 中等 |
 
 ## :fountain_pen:剑指 Offer
 
