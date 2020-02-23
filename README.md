@@ -383,6 +383,13 @@
 | 1342 | [将数字变成 0 的操作次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfStepsToReduceANumberToZero.java) | 简单 |
 | 1343 | [大小为 K 且平均值大于等于阈值的子数组数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold.java) | 中等 |
 | 1344 | [时钟指针的夹角](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AngleBetweenHandsOfAClock.java) | 中等 |
+| 1357 | [每隔 n 个顾客打折](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ApplyDiscountEveryNOrders.java) | 中等 |
+| 5169 | [日期之间隔几天](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfDaysBetweenTwoDates.java) | 简单 |
+| 5170 | [验证二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidateBinaryTreeNodes.java) | 中等 |
+| 5171 | [最接近的因数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ClosestDivisors.java) | 中等 |
+| 5323 | [根据数字二进制下 1 的数目排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SortIntegersByTheNumberOf1Bits.java) | 简单 |
+| 5325 | [包含所有三种字符的子字符串数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfSubstringsContainingAllThreeCharacters.java) | 中等 |
+| 5326 | [有效的快递序列数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountAllValidPickupAndDeliveryOptions.java) | 困难 |
 
 ## :fountain_pen:剑指 Offer
 
