@@ -1,8 +1,8 @@
 # [LeetCode](https://leetcode-cn.com)
 
-| [算法](#pencil算法) | 数据库  | Shell            | [多线程](#currency_exchangedd多线程) | 程序员面试金典 | [剑指 Offer](#fountain_pen剑指-offer) |
-| ------------------- | ------- | ---------------- | ------------------------------------ | -------------- | ------------------------------------- |
-| :pencil:            | :eagle: | :aerial_tramway: | :currency_exchange:                  | :hot_pepper:   | :fountain_pen:                        |
+| [算法](#pencil算法) | 数据库  | Shell            | [多线程](#currency_exchange多线程) | 程序员面试金典 | [剑指 Offer](#fountain_pen剑指-offer) |
+| ------------------- | ------- | ---------------- | ---------------------------------- | -------------- | ------------------------------------- |
+| :pencil:            | :eagle: | :aerial_tramway: | :currency_exchange:                | :hot_pepper:   | :fountain_pen:                        |
 
 ## :pencil:算法
 
@@ -409,4 +409,11 @@
 | [面试题10-I](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [斐波那契数列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question10_I.java) | 简单 |
 | [面试题10-II](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | [青蛙跳台阶问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question10_II.java) | 简单 |
 | [面试题11](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [旋转数组的最小数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question11.java) | 简单 |
+| [面试题15](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [二进制中1的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question15.java) | 简单 |
+| [面试题18](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [删除链表的节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question18.java) | 简单 |
+| [面试题21](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [调整数组顺序使奇数位于偶数前面](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question21.java) | 简单 |
+| [面试题22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | [链表中倒数第k个节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question22.java) | 简单 |
+| [面试题24](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | [反转链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question24.java) | 简单 |
+| [面试题25](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | [合并两个排序的链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question25.java) | 简单 |
+| [面试题27](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | [二叉树的镜像](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question27.java) | 简单 |
 
