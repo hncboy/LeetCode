@@ -1,8 +1,8 @@
 # [LeetCode](https://leetcode-cn.com)
 
-| [算法](#pencil算法) | 数据库  | Shell            | [多线程](#currency_exchange多线程) | 程序员面试金典 | [剑指 Offer](#fountain_pen剑指-offer) |
-| ------------------- | ------- | ---------------- | ---------------------------------- | -------------- | ------------------------------------- |
-| :pencil:            | :eagle: | :aerial_tramway: | :currency_exchange:                | :hot_pepper:   | :fountain_pen:                        |
+| [算法](#pencil算法) | 数据库  | Shell            | [多线程](#currency_exchange多线程) | [程序员面试金典](#hot_pepper程序员面试金典) | [剑指 Offer](#fountain_pen剑指-offer) |
+| ------------------- | ------- | ---------------- | ---------------------------------- | ------------------------------------------- | ------------------------------------- |
+| :pencil:            | :eagle: | :aerial_tramway: | :currency_exchange:                | :hot_pepper:                                | :fountain_pen:                        |
 
 ## :pencil:算法
 
@@ -397,6 +397,12 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | [1114](https://leetcode-cn.com/problems/print-in-order/)     | [按序打印](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/multithread/PrintInOrder.java) | 简单 |
 | [1115](https://leetcode-cn.com/problems/print-foobar-alternately/) | [交替打印FooBar](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/multithread/PrintFoobarAlternately.java) | 中等 |
+
+## :hot_pepper:程序员面试金典
+
+| 序号                                                         | 题名                                                         | 难度 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [面试题 10.01](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [合并排序的数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/lcci/SortedMergeLcci.java) | 简单 |
 
 ## :fountain_pen:剑指 Offer
 
