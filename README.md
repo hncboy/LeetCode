@@ -244,6 +244,7 @@
 | 561 | [数组拆分 I](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ArrayPartitionI.java) | 简单 |
 | 565 | [数组嵌套](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ArrayNesting.java) | 中等 |
 | 566 | [重塑矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReshapeTheMatrix.java) | 简单 |
+| 575 | [分糖果](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DistributeCandies.java) | 简单 |
 | 581 | [最短无序连续子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShortestUnsortedOntinuousSubarray.java) | 简单 |
 | 605 | [种花问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CanPlaceFlowers.java) | 简单 |
 | 611 | [有效三角形的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTriangleNumber.java) | 中等 |
@@ -330,6 +331,7 @@
 | 1053 | [交换一次的先前排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PreviousPermutationWithOneSwap.java) | 中等 |
 | 1081 | [不同字符的最小子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SmallestSubsequenceOfDistinctCharacters.java) | 中等 |
 | 1089 | [复写零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DuplicateZeros.java) | 简单 |
+| 1103 | [分糖果 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DistributeCandiesToPeople.java) | 简单 |
 | 1109 | [航班预订统计](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CorporateFlightBookings.java) | 中等 |
 | 1122 | [数组的相对排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RelativeSortArray.java) | 简单 |
 | 1128 | [等价多米诺骨牌对的数量](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfEquivalentDominoPairs.java) | 简单 |
@@ -383,13 +385,13 @@
 | 1342 | [将数字变成 0 的操作次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfStepsToReduceANumberToZero.java) | 简单 |
 | 1343 | [大小为 K 且平均值大于等于阈值的子数组数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold.java) | 中等 |
 | 1344 | [时钟指针的夹角](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AngleBetweenHandsOfAClock.java) | 中等 |
+| 1356 | [根据数字二进制下 1 的数目排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SortIntegersByTheNumberOf1Bits.java) | 简单 |
 | 1357 | [每隔 n 个顾客打折](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ApplyDiscountEveryNOrders.java) | 中等 |
-| 5169 | [日期之间隔几天](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfDaysBetweenTwoDates.java) | 简单 |
-| 5170 | [验证二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidateBinaryTreeNodes.java) | 中等 |
-| 5171 | [最接近的因数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ClosestDivisors.java) | 中等 |
-| 5323 | [根据数字二进制下 1 的数目排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SortIntegersByTheNumberOf1Bits.java) | 简单 |
-| 5325 | [包含所有三种字符的子字符串数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfSubstringsContainingAllThreeCharacters.java) | 中等 |
-| 5326 | [有效的快递序列数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountAllValidPickupAndDeliveryOptions.java) | 困难 |
+| 1358 | [包含所有三种字符的子字符串数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfSubstringsContainingAllThreeCharacters.java) | 中等 |
+| 1359 | [有效的快递序列数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountAllValidPickupAndDeliveryOptions.java) | 困难 |
+| 1360 | [日期之间隔几天](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfDaysBetweenTwoDates.java) | 简单 |
+| 1361 | [验证二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidateBinaryTreeNodes.java) | 中等 |
+| 1362 | [最接近的因数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ClosestDivisors.java) | 中等 |
 
 ## :currency_exchange:多线程
 

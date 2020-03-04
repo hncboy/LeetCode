@@ -3,7 +3,7 @@ package com.hncboy;
 /**
  * @author hncboy
  * @date 2020/2/23 10:26
- * @description 5170.验证二叉树
+ * @description 1361.验证二叉树
  *
  * 二叉树上有 n 个节点，按从 0 到 n - 1 编号，其中节点 i 的两个子节点分别是 leftChild[i] 和 rightChild[i]。
  * 只有 所有 节点能够形成且 只 形成 一颗 有效的二叉树时，返回 true；否则返回 false。

@@ -8,7 +8,7 @@ import java.time.temporal.ChronoUnit;
 /**
  * @author hncboy
  * @date 2020/2/23 10:26
- * @description 5169.日期之间隔几天
+ * @description 1360.日期之间隔几天
  *
  * 请你编写一个程序来计算两个日期之间隔了多少天。
  * 日期以字符串形式给出，格式为 YYYY-MM-DD，如示例所示。

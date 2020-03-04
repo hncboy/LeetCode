@@ -38,6 +38,6 @@ public class NamingConversionUtil {
     }
 
     public static void main(String[] args) {
-        System.out.println(lineToHump(getUrlLine("https://leetcode-cn.com/contest/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/")));
+        System.out.println(lineToHump(getUrlLine("https://leetcode-cn.com/problems/distribute-candies-to-people/")));
     }
 }
