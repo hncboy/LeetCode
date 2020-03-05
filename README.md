@@ -426,4 +426,5 @@
 | [面试题25](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | [合并两个排序的链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question25.java) | 简单 |
 | [面试题27](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | [二叉树的镜像](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question27.java) | 简单 |
 | [面试题28](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | [对称的二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question28.java) | 简单 |
+| [面试题57-II](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [和为s的连续正数序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question57_II.java) | 简单 |
 
