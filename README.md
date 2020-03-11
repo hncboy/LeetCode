@@ -330,6 +330,7 @@
 | 1051 | [高度检查器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/HeightChecker.java) | 简单 |
 | 1052 | [爱生气的书店老板](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GrumpyBookstoreOwner.java) | 中等 |
 | 1053 | [交换一次的先前排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PreviousPermutationWithOneSwap.java) | 中等 |
+| 1071 | [字符串的最大公因子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GreatestCommonDivisorOfStrings.java) | 简单 |
 | 1081 | [不同字符的最小子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SmallestSubsequenceOfDistinctCharacters.java) | 中等 |
 | 1089 | [复写零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DuplicateZeros.java) | 简单 |
 | 1103 | [分糖果 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DistributeCandiesToPeople.java) | 简单 |
