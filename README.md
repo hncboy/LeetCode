@@ -406,6 +406,7 @@
 
 | 序号                                                         | 题名                                                         | 难度 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [面试题 01.06](https://leetcode-cn.com/problems/compress-string-lcci/) | [字符串压缩](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/lcci/CompressStringLcci.java) | 简单 |
 | [面试题 10.01](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [合并排序的数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/lcci/SortedMergeLcci.java) | 简单 |
 
 ## :fountain_pen:剑指 Offer
