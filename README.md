@@ -282,6 +282,7 @@
 | 830 | [较大分组的位置](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PositionsOfLargeGroups.java) | 简单 |
 | 832 | [翻转图像](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FlippingAnImage.java) | 简单 |
 | 835 | [图像重叠](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ImageOverlap.java) | 中等 |
+| 836 | [矩形重叠](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RectangleOverlap.java) | 简单 |
 | 840 | [矩阵中的幻方](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MagicSquaresInGrid.java) | 简单 |
 | 849 | [到最近的人的最大距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximizeDistanceToClosestPerson.java) | 简单 |
 | 852 | [山脉数组的峰顶索引](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PeakIndexInAMountainArray.java) | 简单 |
