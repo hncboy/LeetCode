@@ -319,6 +319,7 @@
 | 989 | [数组形式的整数加法](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AddToArrayFormOfInteger.java) | 简单 |
 | 994 | [腐烂的橘子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RottingOranges.java) | 简单 |
 | 997 | [找到小镇的法官](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheTownJudge.java) | 简单 |
+| 999 | [车的可用捕获量](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AvailableCapturesForRook.java) | 简单 |
 | 1002 | [查找常用字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindCommonCharacters.java) | 简单 |
 | 1003 | [检查替换后的词是否有效](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfWordIsValidAfterSubstitutions.java) | 中等 |
 | 1007 | [行相等的最少多米诺旋转](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDominoRotationsForEqualRow.java) | 中等 |
