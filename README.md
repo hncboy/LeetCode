@@ -431,6 +431,7 @@
 | [面试题10-I](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [斐波那契数列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question10_I.java) | 简单 |
 | [面试题10-II](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | [青蛙跳台阶问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question10_II.java) | 简单 |
 | [面试题11](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [旋转数组的最小数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question11.java) | 简单 |
+| [面试题13](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [机器人的运动范围](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question13.java) | 中等 |
 | [面试题15](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [二进制中1的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question15.java) | 简单 |
 | [面试题18](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [删除链表的节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question18.java) | 简单 |
 | [面试题21](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [调整数组顺序使奇数位于偶数前面](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question21.java) | 简单 |
