@@ -210,6 +210,7 @@
 | 328 | [奇偶链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/OddEvenLinkedList.java) | 中等 |
 | 330 | [按要求补齐数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PatchingArray.java) | 困难 |
 | 332 | [重新安排行程](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReconstructItinerary.java) | 中等 |
+| 343 | [整数拆分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntegerBreak.java) | 中等 |
 | 344 | [反转字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseString.java) | 简单 |
 | 349 | [两个数组的交集](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntersectionOfTwoArrays.java) | 简单 |
 | 350 | [两个数组的交集 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntersectionOfTwoArraysII.java) | 简单 |
@@ -425,27 +426,29 @@
 
 | 序号                                                         | 题名                                                         | 难度 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
-| [面试题03](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [数组中重复的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question03.java) | 简单 |
-| [面试题04](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [二维数组中的查找](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question04.java) | 简单 |
-| [面试题05](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [替换空格](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question05.java) | 简单 |
-| [面试题06](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [从尾到头打印链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question06.java) | 简单 |
-| [面试题09](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [用两个栈实现队列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question09.java) | 简单 |
-| [面试题10-I](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [斐波那契数列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question10_I.java) | 简单 |
-| [面试题10-II](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | [青蛙跳台阶问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question10_II.java) | 简单 |
-| [面试题11](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [旋转数组的最小数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question11.java) | 简单 |
-| [面试题13](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [机器人的运动范围](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question13.java) | 中等 |
-| [面试题15](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [二进制中1的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question15.java) | 简单 |
-| [面试题18](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [删除链表的节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question18.java) | 简单 |
-| [面试题21](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [调整数组顺序使奇数位于偶数前面](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question21.java) | 简单 |
-| [面试题22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | [链表中倒数第k个节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question22.java) | 简单 |
-| [面试题24](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | [反转链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question24.java) | 简单 |
-| [面试题25](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | [合并两个排序的链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question25.java) | 简单 |
-| [面试题27](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | [二叉树的镜像](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question27.java) | 简单 |
-| [面试题28](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | [对称的二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question28.java) | 简单 |
-| [面试题29](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [顺时针打印矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question29.java) | 简单 |
-| [面试题30](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) | [包含min函数的栈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question30.java) | 简单 |
-| [面试题40](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [最小的k个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question40.java) | 简单 |
-| [面试题57-II](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [和为s的连续正数序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question57_II.java) | 简单 |
-| [面试题59-II](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [队列的最大值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question59_II.java) | 中等 |
-| [面试题62](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | [圆圈中最后剩下的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question62.java) | 简单 |
+| [剑指 Offer 03](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/) | [数组中重复的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question03.java) | 简单 |
+| [剑指 Offer 04](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [二维数组中的查找](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question04.java) | 简单 |
+| [剑指 Offer 05](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [替换空格](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question05.java) | 简单 |
+| [剑指 Offer 06](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [从尾到头打印链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question06.java) | 简单 |
+| [剑指 Offer 09](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [用两个栈实现队列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question09.java) | 简单 |
+| [剑指 Offer 10-I](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [斐波那契数列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question10_I.java) | 简单 |
+| [剑指 Offer 10-II](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | [青蛙跳台阶问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question10_II.java) | 简单 |
+| [剑指 Offer 11](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/) | [旋转数组的最小数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question11.java) | 简单 |
+| [剑指 Offer 12](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/) | [矩阵中的路径](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question12.java) | 中等 |
+| [剑指 Offer 14-I](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [剪绳子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question14_I.java) | 中等 |
+| [剑指 Offer 13](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/) | [机器人的运动范围](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question13.java) | 中等 |
+| [剑指 Offer 15](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [二进制中1的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question15.java) | 简单 |
+| [剑指 Offer 18](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [删除链表的节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question18.java) | 简单 |
+| [剑指 Offer 21](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/) | [调整数组顺序使奇数位于偶数前面](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question21.java) | 简单 |
+| [剑指 Offer 22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | [链表中倒数第k个节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question22.java) | 简单 |
+| [剑指 Offer 24](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | [反转链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question24.java) | 简单 |
+| [剑指 Offer 25](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | [合并两个排序的链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question25.java) | 简单 |
+| [剑指 Offer 27](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | [二叉树的镜像](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question27.java) | 简单 |
+| [剑指 Offer 28](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | [对称的二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question28.java) | 简单 |
+| [剑指 Offer 29](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [顺时针打印矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question29.java) | 简单 |
+| [剑指 Offer30](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) | [包含min函数的栈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question30.java) | 简单 |
+| [剑指 Offer 40](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [最小的k个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question40.java) | 简单 |
+| [剑指 Offer 57-II](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [和为s的连续正数序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question57_II.java) | 简单 |
+| [剑指 Offer 59-II](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [队列的最大值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question59_II.java) | 中等 |
+| [剑指 Offer 62](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | [圆圈中最后剩下的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question62.java) | 简单 |
 
