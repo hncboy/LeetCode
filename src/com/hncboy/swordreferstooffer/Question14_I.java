@@ -27,7 +27,7 @@ package com.hncboy.swordreferstooffer;
  */
 public class Question14_I {
 
-    public int cuttingRope1(int n) {
+    public int cuttingRope(int n) {
         int[] dp = new int[n + 1];
         dp[2] = 1;
         for (int i = 3; i <= n; i++) {
