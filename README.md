@@ -250,6 +250,7 @@
 | 566 | [重塑矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReshapeTheMatrix.java) | 简单 |
 | 575 | [分糖果](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DistributeCandies.java) | 简单 |
 | 581 | [最短无序连续子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShortestUnsortedOntinuousSubarray.java) | 简单 |
+| 583 | [两个字符串的删除操作](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DeleteOperationForTwoStrings.java) | 中等 |
 | 605 | [种花问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CanPlaceFlowers.java) | 简单 |
 | 611 | [有效三角形的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTriangleNumber.java) | 中等 |
 | 628 | [三个数的最大乘积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumProductOfThreeNumbers.java) | 简单 |
