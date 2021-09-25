@@ -347,6 +347,7 @@
 | 1111 | [有效括号的嵌套深度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNestingDepthOfTwoValidParenthesesStrings.java) | 中等 |
 | 1122 | [数组的相对排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RelativeSortArray.java) | 简单 |
 | 1128 | [等价多米诺骨牌对的数量](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfEquivalentDominoPairs.java) | 简单 |
+| 1143 | [最长公共子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestCommonSubsequence.java) | 中等 |
 | 1144 | [递减元素使数组呈锯齿状](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DecreaseElementsToMakeArrayZigzag.java) | 中等 |
 | 1160 | [拼写单词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindWordsThatCanBeFormedByCharacters.java) | 简单 |
 | 1162 | [地图分析](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AsFarFromLandAsPossible.java) | 中等 |
