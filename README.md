@@ -432,6 +432,7 @@
 | [剑指 Offer 04](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) | [二维数组中的查找](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question04.java) | 简单 |
 | [剑指 Offer 05](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) | [替换空格](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question05.java) | 简单 |
 | [剑指 Offer 06](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/) | [从尾到头打印链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question06.java) | 简单 |
+| [剑指 Offer 07](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof/) | [重建二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question07.java) | 中等 |
 | [剑指 Offer 09](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof/) | [用两个栈实现队列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question09.java) | 简单 |
 | [剑指 Offer 10-I](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/) | [斐波那契数列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question10_I.java) | 简单 |
 | [剑指 Offer 10-II](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/) | [青蛙跳台阶问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question10_II.java) | 简单 |
