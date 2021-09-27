@@ -254,6 +254,7 @@
 | 605 | [种花问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CanPlaceFlowers.java) | 简单 |
 | 611 | [有效三角形的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTriangleNumber.java) | 中等 |
 | 628 | [三个数的最大乘积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumProductOfThreeNumbers.java) | 简单 |
+| 639 | [解码方法 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DecodeWaysIi.java) | 困难 |
 | 643 | [子数组最大平均数 I](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumAverageSubarrayI.java) | 简单 |
 | 661 | [图片平滑器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ImageSmoother.java) | 简单 |
 | 665 | [非递减数列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NonDecreasingArray.java) | 简单 |
