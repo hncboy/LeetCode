@@ -449,6 +449,7 @@
 | [剑指 Offer 22](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/) | [链表中倒数第k个节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question22.java) | 简单 |
 | [剑指 Offer 24](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) | [反转链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question24.java) | 简单 |
 | [剑指 Offer 25](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/) | [合并两个排序的链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question25.java) | 简单 |
+| [剑指 Offer 26](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) | [树的子结构](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question26.java) | 中等 |
 | [剑指 Offer 27](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | [二叉树的镜像](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question27.java) | 简单 |
 | [剑指 Offer 28](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | [对称的二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question28.java) | 简单 |
 | [剑指 Offer 29](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [顺时针打印矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question29.java) | 简单 |
