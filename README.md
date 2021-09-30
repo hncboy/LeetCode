@@ -1,6 +1,6 @@
 # [LeetCode](https://leetcode-cn.com)
 
-| [算法](#pencil算法) | 数据库  | Shell            | [多线程](#currency_exchange多线程) | [程序员面试金典](#hot_pepper程序员面试金典) | [剑指 Offer](#fountain_pen剑指-offer) |
+| [算法](#pencil算法) | 数据库  | Shell            | [多线程](#currency_exchange多线程) | [程序员面试金典](#hot_pepper程序员面试金典) | [剑指 Offer（第 2 版）](#fountain_pen剑指 Offer（第 2 版）) |
 | ------------------- | ------- | ---------------- | ---------------------------------- | ------------------------------------------- | ------------------------------------- |
 | :pencil:            | :eagle: | :aerial_tramway: | :currency_exchange:                | :hot_pepper:                                | :fountain_pen:                        |
 
@@ -428,7 +428,7 @@
 | [面试题 10.01](https://leetcode-cn.com/problems/sorted-merge-lcci/) | [合并排序的数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/lcci/SortedMergeLcci.java) | 简单 |
 | [面试题 17.16](https://leetcode-cn.com/problems/the-masseuse-lcci/) | [按摩师](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/lcci/TheMasseuseLcci.java) | 简单 |
 
-## :fountain_pen:剑指 Offer
+## :fountain_pen:剑指 Offer（第 2 版）
 
 | 序号                                                         | 题名                                                         | 难度 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
@@ -457,7 +457,8 @@
 | [剑指 Offer 27](https://leetcode-cn.com/problems/er-cha-shu-de-jing-xiang-lcof/) | [二叉树的镜像](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question27.java) | 简单 |
 | [剑指 Offer 28](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | [对称的二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question28.java) | 简单 |
 | [剑指 Offer 29](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [顺时针打印矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question29.java) | 简单 |
-| [剑指 Offer30](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) | [包含min函数的栈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question30.java) | 简单 |
+| [剑指 Offer 30](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) | [包含min函数的栈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question30.java) | 简单 |
+| [剑指 Offer 39](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [数组中出现次数超过一半的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question39.java) | 简单 |
 | [剑指 Offer 40](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [最小的k个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question40.java) | 简单 |
 | [剑指 Offer 57-II](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [和为s的连续正数序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question57_II.java) | 简单 |
 | [剑指 Offer 59-II](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [队列的最大值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question59_II.java) | 中等 |
