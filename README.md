@@ -1,8 +1,8 @@
 # [LeetCode](https://leetcode-cn.com)
 
-| [算法](#pencil算法) | 数据库  | Shell            | [多线程](#currency_exchange多线程) | [程序员面试金典](#hot_pepper程序员面试金典) | [剑指 Offer（第 2 版）](#fountain_pen剑指 Offer（第 2 版）) |
-| ------------------- | ------- | ---------------- | ---------------------------------- | ------------------------------------------- | ------------------------------------- |
-| :pencil:            | :eagle: | :aerial_tramway: | :currency_exchange:                | :hot_pepper:                                | :fountain_pen:                        |
+| [算法](#pencil算法) | 数据库  | Shell            | [多线程](#currency_exchange多线程) | [程序员面试金典](#hot_pepper程序员面试金典) | [剑指 Offer（第 2 版）](#fountain_pen剑指-offer第-2-版) |
+| ------------------- | ------- | ---------------- | ---------------------------------- | ------------------------------------------- | ------------------------------------------------------- |
+| :pencil:            | :eagle: | :aerial_tramway: | :currency_exchange:                | :hot_pepper:                                | :fountain_pen:                                          |
 
 ## :pencil:算法
 
