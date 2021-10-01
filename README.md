@@ -448,6 +448,7 @@
 | [剑指 Offer 14-I](https://leetcode-cn.com/problems/jian-sheng-zi-lcof/) | [剪绳子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question14_I.java) | 中等 |
 | [剑指 Offer 14-II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/) | [剪绳子 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question14_II.java) | 中等 |
 | [剑指 Offer 15](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/) | [二进制中1的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question15.java) | 简单 |
+| [剑指 Offer 16](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/) | [值的整数次方](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question16.java) | 中等 |
 | [剑指 Offer 17](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/) | [打印从1到最大的n位数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question17.java) | 简单 |
 | [剑指 Offer 18](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) | [删除链表的节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question18.java) | 简单 |
 | [剑指 Offer 20](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/) | [表示数值的字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question18.java) | 中等 |
