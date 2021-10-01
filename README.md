@@ -419,6 +419,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | [1114](https://leetcode-cn.com/problems/print-in-order/)     | [按序打印](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/multithread/PrintInOrder.java) | 简单 |
 | [1115](https://leetcode-cn.com/problems/print-foobar-alternately/) | [交替打印FooBar](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/multithread/PrintFoobarAlternately.java) | 中等 |
+| [1116](https://leetcode-cn.com/problems/print-zero-even-odd/) | [打印零与奇偶数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/multithread/PrintZeroEvenOdd.java) | 中等 |
 
 ## :hot_pepper:程序员面试金典
 
