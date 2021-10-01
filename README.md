@@ -1,8 +1,8 @@
 # [LeetCode](https://leetcode-cn.com)
 
-| [算法](#pencil算法) | 数据库  | Shell            | [多线程](#currency_exchange多线程) | [程序员面试金典](#hot_pepper程序员面试金典) | [剑指 Offer（第 2 版）](#fountain_pen剑指 Offer（第 2 版）) |
-| ------------------- | ------- | ---------------- | ---------------------------------- | ------------------------------------------- | ------------------------------------- |
-| :pencil:            | :eagle: | :aerial_tramway: | :currency_exchange:                | :hot_pepper:                                | :fountain_pen:                        |
+| [算法](#pencil算法) | 数据库  | Shell            | [多线程](#currency_exchange多线程) | [程序员面试金典](#hot_pepper程序员面试金典) | [剑指 Offer（第 2 版）](#fountain_pen剑指-offer第-2-版) |
+| ------------------- | ------- | ---------------- | ---------------------------------- | ------------------------------------------- | ------------------------------------------------------- |
+| :pencil:            | :eagle: | :aerial_tramway: | :currency_exchange:                | :hot_pepper:                                | :fountain_pen:                                          |
 
 ## :pencil:算法
 
@@ -410,6 +410,7 @@
 | 1360 | [日期之间隔几天](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfDaysBetweenTwoDates.java) | 简单 |
 | 1361 | [验证二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidateBinaryTreeNodes.java) | 中等 |
 | 1362 | [最接近的因数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ClosestDivisors.java) | 中等 |
+| [1436](https://leetcode-cn.com/problems/destination-city/) | [旅行终点站](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DestinationCity.java) | 简单 |
 | 1588 | [所有奇数长度子数组的和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfAllOddLengthSubarrays.java) | 简单 |
 
 ## :currency_exchange:多线程
