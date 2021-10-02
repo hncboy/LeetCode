@@ -227,6 +227,7 @@
 | 387 | [字符串中的第一个唯一字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FirstUniqueCharacterInAString.java) | 简单 |
 | 392 | [判断子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IsSubsequence.java) | 简单 |
 | 399 | [除法求值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/EvaluateDivision.java) | 中等 |
+| [405](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/) | [数字转换为十六进制数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConvertANumberToHexadecimal.java) | 简单 |
 | 406 | [根据身高重建队列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/QueueReconstructionByHeight.java) | 中等 |
 | 409 | [最长回文串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestPalindrome.java) | 简单 |
 | 412 | [Fizz Buzz](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FizzBuzz.java) | 简单 |
