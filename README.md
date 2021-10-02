@@ -462,6 +462,7 @@
 | [剑指 Offer 28](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | [对称的二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question28.java) | 简单 |
 | [剑指 Offer 29](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [顺时针打印矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question29.java) | 简单 |
 | [剑指 Offer 30](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) | [包含min函数的栈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question30.java) | 简单 |
+| [剑指 Offer 38](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [字符串的排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question38.java) | 中等 |
 | [剑指 Offer 39](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [数组中出现次数超过一半的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question39.java) | 简单 |
 | [剑指 Offer 40](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [最小的k个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question40.java) | 简单 |
 | [剑指 Offer 57-II](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/) | [和为s的连续正数序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question57_II.java) | 简单 |
