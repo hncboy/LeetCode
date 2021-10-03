@@ -151,6 +151,7 @@
 | 155 | [最小栈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinStack.java) | 简单 |
 | 160 | [相交链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntersectionOfTwoLinkedLists.java) | 简单 |
 | 162 | [寻找峰值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindPeakElement.java) | 中等 |
+| [166](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/) | [分数到小数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindPeakElement.java) | 中等 |
 | 167 | [两数之和 II - 输入有序数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TwoSumIIInputArrayIsSorted.java) | 简单 |
 | 168 | [Excel表列名称](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ExcelSheetColumnTitle.java) | 简单 |
 | 169 | [求众数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/majorityElement1.java) | 简单 |
