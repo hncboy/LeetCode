@@ -39,7 +39,7 @@ public class Question32_I {
         System.out.println(Arrays.toString(q.levelOrder(root)));
     }
 
-    public int[] levelOrder(TreeNode root) {
+    private int[] levelOrder(TreeNode root) {
         if (root == null) {
             return new int[0];
         }
