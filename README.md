@@ -198,6 +198,7 @@
 | 278 | [第一个错误的版本](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FirstBadVersion.java) | 简单 |
 | 279 | [完全平方数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PerfectSquares.java) | 中等 |
 | 283 | [移动零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MoveZeroes.java) | 简单 |
+| [284](https://leetcode-cn.com/problems/peeking-iterator/) | [顶端迭代器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PeekingIterator.java) | 中等 |
 | 287 | [寻找重复数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheDuplicateNumber.java) | 中等 |
 | 289 | [生命游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GameOfLife.java) | 中等 |
 | 292 | [Nim 游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NimGame.java) | 简单 |
