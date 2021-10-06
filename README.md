@@ -318,6 +318,7 @@
 | 926 | [将字符串翻转到单调递增](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FlipStringToMonotoneIncreasing.java) | 中等 |
 | 941 | [有效的山脉数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidMountainArray.java) | 简单 |
 | 945 | [使数组唯一的最小增量](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumIncrementToMakeArrayUnique.java) | 中等 |
+| [946](https://leetcode-cn.com/problems/validate-stack-sequences/) | [验证栈序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidateStackSequences.java) | 中等 |
 | 947 | [移除最多的同行或同列石头](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MostStonesRemovedWithSameRowOrColumn.java) | 中等 |
 | 950 | [按递增顺序显示卡牌](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RevealCardsInIncreasingOrder.java) | 中等 |
 | 954 | [二倍数对数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ArrayOfDoubledPairs.java) | 中等 |
