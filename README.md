@@ -468,6 +468,7 @@
 | [剑指 Offer 28](https://leetcode-cn.com/problems/dui-cheng-de-er-cha-shu-lcof/) | [对称的二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question28.java) | 简单 |
 | [剑指 Offer 29](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) | [顺时针打印矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question29.java) | 简单 |
 | [剑指 Offer 30](https://leetcode-cn.com/problems/bao-han-minhan-shu-de-zhan-lcof/) | [包含min函数的栈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question30.java) | 简单 |
+| [剑指 Offer 31](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/) | [栈的压入、弹出序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question31.java) | 中等 |
 | [剑指 Offer 32-I](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-lcof/) | [从上到下打印二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question32_I.java) | 中等 |
 | [剑指 Offer 32-II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [从上到下打印二叉树 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question32_II.java) | 简单 |
 | [剑指 Offer 35](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | [复杂链表的复制](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question35.java) | 中等 |
