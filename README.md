@@ -158,6 +158,7 @@
 | 171 | [Excel表列序号](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ExcelSheetColumnNumber.java) | 简单 |
 | 172 | [阶乘后的零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FactorialTrailingZeroes.java) | 简单 |
 | 179 | [最大数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LargestNumber.java) | 中等 |
+| [187](https://leetcode-cn.com/problems/repeated-dna-sequences/) | [重复的DNA序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RepeatedDnaSequences.java) | 中等 |
 | 188 | [买卖股票的最佳时机 IV](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BestTimeToBuyAndSellStockIV.java) | 困难 |
 | 189 | [旋转数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RotateArray.java) | 简单 |
 | 190 | [[颠倒二进制位](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseBits.java) | 简单 |
