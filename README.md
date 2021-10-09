@@ -218,6 +218,7 @@
 | 344 | [反转字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseString.java) | 简单 |
 | 349 | [两个数组的交集](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntersectionOfTwoArrays.java) | 简单 |
 | 350 | [两个数组的交集 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntersectionOfTwoArraysII.java) | 简单 |
+| [352](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/) | [将数据流变为多个不相交区间](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DataStreamAsDisjointIntervals.java) | 困难 |
 | 365 | [水壶问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WaterAndJugProblem.java) | 中等 |
 | 367 | [有效的完全平方数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidPerfectSquare.java) | 简单 |
 | 371 | [两整数之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfTwoIntegers.java) | 简单 |
