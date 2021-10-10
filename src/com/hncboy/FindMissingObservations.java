@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @author hncboy
  * @date 2021/10/3 9:46
- * @description 5891.找出缺失的观测数据
+ * @description 2028.找出缺失的观测数据
  * 现有一份 n + m 次投掷单个 六面 骰子的观测数据，骰子的每个面从 1 到 6 编号。观测数据中缺失了 n 份，你手上只拿到剩余 m 次投掷的数据。
  * 幸好你有之前计算过的这 n + m 次投掷数据的 平均值 。
  * 给你一个长度为 m 的整数数组 rolls ，其中 rolls[i] 是第 i 次观测的值。同时给你两个整数 mean 和 n 。
