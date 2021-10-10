@@ -423,6 +423,7 @@
 | [2027](https://leetcode-cn.com/problems/minimum-moves-to-convert-string/) | [转换字符串的最少操作次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumMovesToConvertString.java) | 简单 |
 | [2028](https://leetcode-cn.com/problems/find-missing-observations/) | [找出缺失的观测数据](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindMissingObservations.java) | 中等 |
 | [5894](https://leetcode-cn.com/problems/two-out-of-three/) | [至少在两个数组中出现的值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TwoOutOfThree.java) | 简单 |
+| [5895](https://leetcode-cn.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [获取单值网格的最小操作数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumOperationsToMakeAUniValueGrid.java) | 中等 |
 | [5896](https://leetcode-cn.com/problems/stock-price-fluctuation/) | [股票价格波动](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/StockPriceFluctuation.java) | 中等 |
 
 ## :currency_exchange:多线程
