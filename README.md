@@ -487,6 +487,7 @@
 | [剑指 Offer 43](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/) | [1～n 整数中 1 出现的次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question43.java) | 困难 |
 | [剑指 Offer 50](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | [第一个只出现一次的字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question50.java) | 简单 |
 | [剑指 Offer 52](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | [两个链表的第一个公共节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question52.java) | 简单 |
+| [剑指 Offer 53-I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | [在排序数组中查找数字 I](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question53_I.java) | 简单 |
 | [剑指 Offer 55-I](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) | [二叉树的深度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question55_I.java) | 简单 |
 | [剑指 Offer 56-I](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) | [数组中数字出现的次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question56_I.java) | 中等 |
 | [剑指 Offer 56-II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) | [数组中数字出现的次数 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question56_II.java) | 中等 |
