@@ -1,11 +1,14 @@
-package com.hncboy;
+package com.hncboy.swordreferstooffer;
+
 
 /**
  * @author hncboy
- * @date 2020/4/10 22:06
- * @description 151.翻转字符串里的单词
+ * @date 2021/10/12 8:44
+ * @description 剑指 Offer 58-I.翻转单词顺序
+ * {@link com.hncboy.ReverseWordsInAString}
  *
- * 给定一个字符串，逐个翻转字符串中的每个单词。
+ * 输入一个英文句子，翻转句子中单词的顺序，但单词内字符的顺序不变。为简单起见，标点符号和普通字母一样处理。
+ * 例如输入字符串"I am a student. "，则输出"student. a am I"。
  *
  * 示例 1：
  * 输入: "the sky is blue"
@@ -25,22 +28,21 @@ package com.hncboy;
  * 无空格字符构成一个单词。
  * 输入字符串可以在前面或者后面包含多余的空格，但是反转后的字符不能包括。
  * 如果两个单词间有多余的空格，将反转后单词间的空格减少到只含一个。
+ * 注意：本题与主站 151 题相同：https://leetcode-cn.com/problems/reverse-words-in-a-string/
  *
- * 进阶：
- * 请选用 C 语言的用户尝试使用 O(1) 额外空间复杂度的原地解法。
+ * 来源：力扣（LeetCode）
+ * 链接：https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof
+ * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class ReverseWordsInAString {
+public class Question58_I {
 
-    public static void main(String[] args) {
-        ReverseWordsInAString r = new ReverseWordsInAString();
-        System.out.println(r.reverseWords("the sky is blue"));
-        System.out.println(r.reverseWords("  hello world  "));
-        System.out.println(r.reverseWords("a good   example"));
-        System.out.println(r.reverseWords("  Bob    Loves  Alice   "));
-        System.out.println(r.reverseWords("Alice does not even like bob"));
-    }
-
-    private String reverseWords(String s) {
+    /**
+     * 双指针
+     *
+     * @param s s
+     * @return result
+     */
+    public String reverseWords(String s) {
         // 去除字符串空格
         s = s.trim();
         // 单词的左右边界
