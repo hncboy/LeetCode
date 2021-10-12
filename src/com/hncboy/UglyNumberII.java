@@ -1,8 +1,5 @@
 package com.hncboy;
 
-import java.util.PriorityQueue;
-import java.util.Queue;
-
 /**
  * @author hncboy
  * @date 2019/12/28 11:06
@@ -24,35 +21,7 @@ public class UglyNumberII {
 
     public static void main(String[] args) {
         UglyNumberII u = new UglyNumberII();
-        System.out.println(u.nthUglyNumber2(10));
-    }
-
-    /**
-     * 最小堆
-     *
-     * @param n
-     * @return
-     */
-    private int nthUglyNumber2(int n) {
-        Queue<Long> queue = new PriorityQueue<>();
-        Long[] result = new Long[n];
-        result[0] = 1L;
-
-        for (int i = 0; i < n - 1; i++) {
-            if (!queue.contains(result[i] * 2)) {
-                queue.add(result[i] * 2);
-            }
-
-            if (!queue.contains(result[i] * 3)) {
-                queue.add(result[i] * 3);
-            }
-
-            if (!queue.contains(result[i] * 5)) {
-                queue.add(result[i] * 5);
-            }
-            result[i + 1] = queue.poll();
-        }
-        return Math.toIntExact(result[n - 1]);
+        System.out.println(u.nthUglyNumber(10));
     }
 
     /**
@@ -62,27 +31,35 @@ public class UglyNumberII {
      * @param n
      * @return
      */
-    private int nthUglyNumber1(int n) {
+    private int nthUglyNumber(int n) {
+        // 按顺序存放丑数
         int[] dp = new int[n];
+        // 存放第一个丑数
         dp[0] = 1;
-        int t2 = 0;
-        int t3 = 0;
-        int t5 = 0;
+        // 存放对应质数上一次用于计算丑数的下标
+        int a = 0;
+        int b = 0;
+        int c = 0;
 
         for (int i = 1; i < n; i++) {
-            int min = Math.min(dp[t2] * 2, Math.min(dp[t3] * 3, dp[t5] * 5));
-            if (min == dp[t2] * 2) {
-                t2++;
-            }
-            if (min == dp[t3] * 3) {
-                t3++;
-            }
-            if (min == dp[t5] * 5) {
-                t5++;
-            }
-            dp[i] = min;
-        }
+            // 第a丑数个数需要通过乘2来得到下个丑数，第b丑数个数需要通过乘2来得到下个丑数，同理第c个数
+            int n2 = dp[a] * 2;
+            int n3 = dp[b] * 3;
+            int n5 = dp[c] * 5;
 
+            // 存放下一个最小的丑数，取三种质数得出乘积最小的一种，使得丑数按顺序排列
+            dp[i] = Math.min(Math.min(n2, n3), n5);
+            // 判断用的是哪个质数得出的最小丑数，然后将其对应的丑数下标+1，存在几个丑数重复的情况，此时丑数下标都会+1
+            if (dp[i] == n2) {
+                a++;
+            }
+            if (dp[i] == n3) {
+                b++;
+            }
+            if (dp[i] == n5) {
+                c++;
+            }
+        }
         return dp[n - 1];
     }
 }
