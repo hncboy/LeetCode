@@ -491,6 +491,7 @@
 | [剑指 Offer 52](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | [两个链表的第一个公共节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question52.java) | 简单 |
 | [剑指 Offer 53-I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | [在排序数组中查找数字 I](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question53_I.java) | 简单 |
 | [剑指 Offer 53-II](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | [0～n-1中缺失的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question53_II.java) | 简单 |
+| [剑指 Offer 54](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof/) | [二叉搜索树的第k大节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question54.java) | 简单 |
 | [剑指 Offer 55-I](https://leetcode-cn.com/problems/er-cha-shu-de-shen-du-lcof/) | [二叉树的深度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question55_I.java) | 简单 |
 | [剑指 Offer 56-I](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/) | [数组中数字出现的次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question56_I.java) | 中等 |
 | [剑指 Offer 56-II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/) | [数组中数字出现的次数 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question56_II.java) | 中等 |
