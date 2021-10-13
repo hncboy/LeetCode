@@ -480,6 +480,7 @@
 | [剑指 Offer 32-II](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-ii-lcof/) | [从上到下打印二叉树 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question32_II.java) | 简单 |
 | [剑指 Offer 32-III](https://leetcode-cn.com/problems/cong-shang-dao-xia-da-yin-er-cha-shu-iii-lcof/) | [从上到下打印二叉树 III](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question32_III.java) | 简单 |
 | [剑指 Offer 33](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) | [二叉搜索树的后序遍历序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question33.java) | 中等 |
+| [剑指 Offer 34](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | [二叉树中和为某一值的路径](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question34.java) | 中等 |
 | [剑指 Offer 35](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | [复杂链表的复制](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question35.java) | 中等 |
 | [剑指 Offer 36](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | [二叉搜索树与双向链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question36.java) | 中等 |
 | [剑指 Offer 38](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [字符串的排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question38.java) | 中等 |
