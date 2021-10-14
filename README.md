@@ -1,8 +1,8 @@
 # [LeetCode](https://leetcode-cn.com)
 
-| [算法](#pencil算法) | 数据库  | Shell            | [多线程](#currency_exchange多线程) | [程序员面试金典](#hot_pepper程序员面试金典) | [剑指 Offer（第 2 版）](#fountain_pen剑指-offer第-2-版) |
-| ------------------- | ------- | ---------------- | ---------------------------------- | ------------------------------------------- | ------------------------------------------------------- |
-| :pencil:            | :eagle: | :aerial_tramway: | :currency_exchange:                | :hot_pepper:                                | :fountain_pen:                                          |
+| [算法](#pencil算法) | 数据库  | Shell            | [多线程](#currency_exchange多线程) | [程序员面试金典](#hot_pepper程序员面试金典) | [剑指 Offer（第 2 版）](#fountain_pen剑指-offer第-2-版) | 剑指 Offer（专项突击版） |
+| ------------------- | ------- | ---------------- | ---------------------------------- | ------------------------------------------- | ------------------------------------------------------- | ------------------------ |
+| :pencil:            | :eagle: | :aerial_tramway: | :currency_exchange:                | :hot_pepper:                                | :fountain_pen:                                          | 🚢                        |
 
 ## :pencil:算法
 
@@ -503,3 +503,8 @@
 | [剑指 Offer 59-II](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [队列的最大值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question59_II.java) | 中等 |
 | [剑指 Offer 62](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | [圆圈中最后剩下的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question62.java) | 简单 |
 
+## 🚢剑指 Offer（专项突击版）
+
+| 序号                                                         | 题名                                                         | 难度 |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
+| [剑指 Offer II 069](https://leetcode-cn.com/problems/B1IidL/) | [山峰数组的顶部](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question69.java) | 简单 |
