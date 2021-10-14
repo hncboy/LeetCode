@@ -487,6 +487,7 @@
 | [剑指 Offer 39](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [数组中出现次数超过一半的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question39.java) | 简单 |
 | [剑指 Offer 40](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [最小的k个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question40.java) | 简单 |
 | [剑指 Offer 43](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/) | [1～n 整数中 1 出现的次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question43.java) | 困难 |
+| [剑指 Offer 44](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/) | [数字序列中某一位的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question44.java) | 中等 |
 | [剑指 Offer 49](https://leetcode-cn.com/problems/chou-shu-lcof/) | [丑数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question49.java) | 中等 |
 | [剑指 Offer 50](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | [第一个只出现一次的字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question50.java) | 简单 |
 | [剑指 Offer 52](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | [两个链表的第一个公共节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question52.java) | 简单 |
