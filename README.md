@@ -489,6 +489,7 @@
 | [剑指 Offer 40](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [最小的k个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question40.java) | 简单 |
 | [剑指 Offer 43](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/) | [1～n 整数中 1 出现的次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question43.java) | 困难 |
 | [剑指 Offer 44](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/) | [数字序列中某一位的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question44.java) | 中等 |
+| [剑指 Offer 45](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | [把数组排成最小的数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question45.java) | 中等 |
 | [剑指 Offer 46](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) | [把数字翻译成字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question46.java) | 中等 |
 | [剑指 Offer 47](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) | [礼物的最大价值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question47.java) | 中等 |
 | [剑指 Offer 49](https://leetcode-cn.com/problems/chou-shu-lcof/) | [丑数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question49.java) | 中等 |
