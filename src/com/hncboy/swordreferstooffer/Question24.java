@@ -3,7 +3,7 @@ package com.hncboy.swordreferstooffer;
 /**
  * @author hncboy
  * @date 2020/3/1 20:16
- * @description 面试题24.反转链表
+ * @description 剑指 Offer 24.反转链表
  *
  * 定义一个函数，输入一个链表的头节点，反转该链表并输出反转后链表的头节点。
  *
@@ -13,6 +13,12 @@ package com.hncboy.swordreferstooffer;
  *
  * 限制：
  * 0 <= 节点个数 <= 5000
+ *
+ * 注意：本题与主站 206 题 {@link com.hncboy.ReverseLinkedList} 相同：https://leetcode-cn.com/problems/reverse-linked-list/
+ *
+ * 来源：力扣（LeetCode）
+ * 链接：https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof
+ * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
 public class Question24 {
 
@@ -25,30 +31,24 @@ public class Question24 {
         head.next.next.next.next = new ListNode(5);
         System.out.println(q.reverseList(head));
     }
-    
+
     /**
-     * 方法 1
-     *
-     * @param head
-     * @return
+     * 递归
      */
     private ListNode reverseList(ListNode head) {
         if (head == null || head.next == null) {
             return head;
         }
         ListNode node = reverseList(head.next);
-        // node 为 head.next，node.next = head，反转
+        // 将 head 指向 head.next.next 此时会循环出现 head 和 head.next 节点，而 node 节点则时逆序的循环
         head.next.next = head;
-        // 移除 head 后面的节点
+        // 将 head.next 置为空，则会出现 node 节点逆序
         head.next = null;
         return node;
     }
 
     /**
-     * 方法 2
-     *
-     * @param head
-     * @return
+     * 迭代
      */
     private ListNode reverseList2(ListNode head) {
         ListNode prev = null;
