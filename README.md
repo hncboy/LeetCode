@@ -199,6 +199,7 @@
 | 275 | [H指数 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/HIndexII.java) | 中等 |
 | 278 | [第一个错误的版本](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FirstBadVersion.java) | 简单 |
 | 279 | [完全平方数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PerfectSquares.java) | 中等 |
+| [282](https://leetcode-cn.com/problems/expression-add-operators/) | [给表达式添加运算符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ExpressionAddOperators.java) | 困难 |
 | 283 | [移动零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MoveZeroes.java) | 简单 |
 | [284](https://leetcode-cn.com/problems/peeking-iterator/) | [顶端迭代器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PeekingIterator.java) | 中等 |
 | 287 | [寻找重复数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheDuplicateNumber.java) | 中等 |
