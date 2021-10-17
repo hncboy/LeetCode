@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @author hncboy
  * @date 2021/10/10 12:43
- * @description 5896.股票价格波动
+ * @description 2034.股票价格波动
  * 
  * 给你一支股票价格的数据流。数据流中每一条记录包含一个 时间戳 和该时间点股票对应的 价格 。
  *

@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @author hncboy
  * @date 2021/10/10 13:14
- * @description 5895.获取单值网格的最小操作数
+ * @description 2033.获取单值网格的最小操作数
  * 
  * 给你一个大小为 m x n 的二维整数网格 grid 和一个整数 x 。每一次操作，你可以对 grid 中的任一元素 加 x 或 减 x 。
  * 单值网格 是全部元素都相等的网格。

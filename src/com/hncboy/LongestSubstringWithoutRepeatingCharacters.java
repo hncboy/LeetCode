@@ -1,31 +1,39 @@
 package com.hncboy;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
-
 /**
  * @author hncboy
  * @date 2019/8/30 14:36
  * @description 3.无重复字符的最长子串
  *
- * 给定一个字符串，请你找出其中不含有重复字符的 最长子串 的长度。
+ * 给定一个字符串 s ，请你找出其中不含有重复字符的 最长子串 的长度。
  *
- * 示例 1:
- * 输入: "abcabcbb"
- * 输出: 3
+ * 示例 1:
+ * 输入: s = "abcabcbb"
+ * 输出: 3 
  * 解释: 因为无重复字符的最长子串是 "abc"，所以其长度为 3。
  *
  * 示例 2:
- * 输入: "bbbbb"
+ * 输入: s = "bbbbb"
  * 输出: 1
  * 解释: 因为无重复字符的最长子串是 "b"，所以其长度为 1。
  *
  * 示例 3:
- * 输入: "pwwkew"
+ * 输入: s = "pwwkew"
  * 输出: 3
- * 解释: 因为无重复字符的最长子串是 "wke"，所以其长度为 3。
- *      请注意，你的答案必须是 子串 的长度，"pwke" 是一个子序列，不是子串。
+ * 解释: 因为无重复字符的最长子串是 "wke"，所以其长度为 3。
+ *      请注意，你的答案必须是 子串 的长度，"pwke" 是一个子序列，不是子串。
+ *
+ * 示例 4:
+ * 输入: s = ""
+ * 输出: 0
+ *
+ * 提示：
+ * 0 <= s.length <= 5 * 104
+ * s 由英文字母、数字、符号和空格组成
+ *
+ * 来源：力扣（LeetCode）
+ * 链接：https://leetcode-cn.com/problems/longest-substring-without-repeating-characters
+ * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
 public class LongestSubstringWithoutRepeatingCharacters {
 
@@ -34,26 +42,21 @@ public class LongestSubstringWithoutRepeatingCharacters {
     }
 
     public static int lengthOfLongestSubstring(String s) {
-        int[] seen = new int[256]; // 最多 256 个不重复字符
-        Arrays.fill(seen, -1); // 每个字符赋值为 -1，表示未出现过
+        // 存放字符上次出现的位置，s 由英文字母、数字、符号和空格组成
+        int[] last = new int[128];
 
-        int currentStart = 0; // 当前子串的起始位置
-        int current = 0;    // 当前统计的字串长度
-        int max = 0;        // 最大的字串长度
-
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
-            // 当前字符如果未出现过或出现在当前子串的起始位置之前
-            if (seen[c] == -1 || seen[c] < currentStart) {
-                current++;
-                max = Math.max(current, max); // 取最大子串的长度
-            } else {
-                // 当前字符出现过的话
-                current = i - seen[c]; // 当前子串的长度重新计算
-                currentStart = seen[c] + 1; // 当前子串的计算起始位置从最近出现过的位置 + 1 后开始计算
-            }
-            seen[c] = i; // 当前字符最近出现过的位置
+        int result = 0;
+        for (int left = 0, right = 0; right < s.length(); right++) {
+            // 取出当前字符对应的整数值
+            int index = s.charAt(right);
+            // 取最大的右边界
+            left = Math.max(left, last[index]);
+            // 重新计算区间内不重复的最大子串长度
+            result = Math.max(result, right - left + 1);
+            // 更新字符对应下标
+            last[index] = right + 1;
         }
-        return max;
+
+        return result;
     }
 }
