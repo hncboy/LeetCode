@@ -4,7 +4,6 @@ package com.hncboy.swordreferstooffer;
  * @author hncboy
  * @date 2021/10/11 8:35
  * @description 剑指 Offer 53-I.在排序数组中查找数字 I
- * {@link com.hncboy.FindFirstAndLastPositionOfElementInSortedArray}
  *
  * 统计一个数字在排序数组中出现的次数。
  *
@@ -22,7 +21,8 @@ package com.hncboy.swordreferstooffer;
  * nums 是一个非递减数组
  * -109 <= target <= 109
  *
- * 注意：本题与主站 34 题相同（仅返回值不同）：https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/
+ * 注意：本题与主站 34 题 {@link com.hncboy.FindFirstAndLastPositionOfElementInSortedArray}
+ * 相同（仅返回值不同）：https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/
  *
  * 来源：力扣（LeetCode）
  * 链接：https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof
