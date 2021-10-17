@@ -182,6 +182,7 @@
 | 226 | [翻转二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/InvertBinaryTree.java) | 简单 |
 | 228 | [汇总区间](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SummaryRanges.java) | 中等 |
 | 229 | [求众数 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MajorityElementII.java) | 中等 |
+| [230](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) | [二叉搜索树中第K小的元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KthSmallestElementInABst.java) | 中等 |
 | 231 | [2的幂](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PowerOfTwo.java) | 简单 |
 | 233 | [数字 1 的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfDigitOne.java) | 困难 |
 | 234 | [回文链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PalindromeLinkedList.java) | 简单 |
