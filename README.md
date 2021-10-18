@@ -513,6 +513,7 @@
 | [剑指 Offer 58-I](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) | [翻转单词顺序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question58_I.java) | 简单 |
 | [剑指 Offer 58-II](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | [左旋转字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question58_II.java) | 简单 |
 | [剑指 Offer 59-II](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [队列的最大值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question59_II.java) | 中等 |
+| [剑指 Offer 61](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [扑克牌中的顺子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question61.java) | 简单 |
 | [剑指 Offer 62](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | [圆圈中最后剩下的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question62.java) | 简单 |
 | [剑指 Offer 68-I](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | [二叉搜索树的最近公共祖先](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question68_I.java) | 简单 |
 
