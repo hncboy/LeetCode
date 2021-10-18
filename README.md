@@ -250,6 +250,7 @@
 | 448 | [找到所有数组中消失的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindAllNumbersDisappearedInAnArray.java) | 简单 |
 | 455 | [分发饼干](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AssignCookies.java) | 简单 |
 | 457 | [环形数组循环](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CircularArrayLoop.java) | 中等 |
+| [476](https://leetcode-cn.com/problems/number-complement/) | [数字的补数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberComplement.java) | 简单 |
 | [482](https://leetcode-cn.com/problems/license-key-formatting/) | [密钥格式化](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LicenseKeyFormatting.java) | 简单 |
 | 485 | [最大连续1的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxConsecutiveOnes.java) | 简单 |
 | 495 | [提莫攻击](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TeemoAttacking.java) | 中等 |
