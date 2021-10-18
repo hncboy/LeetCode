@@ -346,6 +346,7 @@
 | 1002 | [查找常用字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindCommonCharacters.java) | 简单 |
 | 1003 | [检查替换后的词是否有效](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfWordIsValidAfterSubstitutions.java) | 中等 |
 | 1007 | [行相等的最少多米诺旋转](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDominoRotationsForEqualRow.java) | 中等 |
+| [1009](https://leetcode-cn.com/problems/complement-of-base-10-integer/) | [十进制整数的反码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ComplementOfBase10Integer.java) | 简单 |
 | 1010 | [总持续时间可被 60 整除的歌曲](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PairsOfSongsWithTotalDurationsDivisibleBy60.java) | 简单 |
 | 1011 | [在 D 天内送达包裹的能力](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CapacityToShipPackagesWithinDDays.java) | 中等 |
 | 1013 | [将数组分成和相等的三个部分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PartitionArrayIntoThreePartsWithEqualSum.java) | 简单 |
