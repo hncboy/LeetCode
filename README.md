@@ -517,6 +517,7 @@
 | [剑指 Offer 61](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [扑克牌中的顺子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question61.java) | 简单 |
 | [剑指 Offer 62](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | [圆圈中最后剩下的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question62.java) | 简单 |
 | [剑指 Offer 68-I](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | [二叉搜索树的最近公共祖先](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question68_I.java) | 简单 |
+| [剑指 Offer 68-II](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | [二叉树的最近公共祖先](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question68_II.java) | 简单 |
 
 ## 🚢剑指 Offer（专项突击版）
 

@@ -29,17 +29,7 @@ import java.util.*;
  */
 public class Question32_I {
 
-    public static void main(String[] args) {
-        Question32_I q = new Question32_I();
-        TreeNode root = new TreeNode(3);
-        root.left = new TreeNode(9);
-        root.right = new TreeNode(20);
-        root.right.left = new TreeNode(15);
-        root.right.right = new TreeNode(7);
-        System.out.println(Arrays.toString(q.levelOrder(root)));
-    }
-
-    private int[] levelOrder(TreeNode root) {
+    public int[] levelOrder(TreeNode root) {
         if (root == null) {
             return new int[0];
         }
