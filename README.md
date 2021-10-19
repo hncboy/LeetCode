@@ -188,6 +188,7 @@
 | 233 | [数字 1 的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfDigitOne.java) | 困难 |
 | 234 | [回文链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PalindromeLinkedList.java) | 简单 |
 | [235](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [二叉搜索树的最近公共祖先](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LowestCommonAncestorOfABinarySearchTree.java) | 简单 |
+| [236](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) | [二叉树的最近公共祖先](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LowestCommonAncestorOfABinaryTree.java) | 中等 |
 | 237 | [删除链表中的节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DeleteNodeInALinkedList.java) | 简单 |
 | 238 | [除自身以外数组的乘积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ProductOfArrayExceptSelf.java) | 中等 |
 | 239 | [滑动窗口最大值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SlidingWindowMaximum.java) | 困难 |
