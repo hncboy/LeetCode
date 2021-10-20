@@ -31,6 +31,22 @@ import java.util.Queue;
  */
 public class InvertBinaryTree {
 
+    public static void main(String[] args) {
+        TreeNode root = new TreeNode(4);
+        root.left = new TreeNode(2);
+        root.left.left = new TreeNode(1);
+        root.left.right = new TreeNode(3);
+        root.right = new TreeNode(7);
+        root.right.left = new TreeNode(6);
+        root.right.right = new TreeNode(9);
+
+        InvertBinaryTree i = new InvertBinaryTree();
+        System.out.println(i.invertTree(root));
+    }
+
+    /**
+     * BFS
+     */
     private TreeNode invertTree2(TreeNode root) {
         if (root == null) {
             return null;
@@ -55,23 +71,22 @@ public class InvertBinaryTree {
         return root;
     }
 
+    /**
+     * 递归
+     */
     private TreeNode invertTree(TreeNode root) {
         if (root == null) {
             return null;
         }
-        // 交换左右子树
-        TreeNode temp = root.right;
-        root.right = root.left;
-        root.left = temp;
 
-        // 将左子树中的节点递归交换
-        invertTree(root.left);
-        //将右子树中的节点递归交换
-        invertTree(root.right);
+        TreeNode temp = root.left;
+        root.left = invertTree(root.right);
+        root.right = invertTree(temp);
+
         return root;
     }
 
-    private class TreeNode {
+    private static class TreeNode {
         int val;
         TreeNode left;
         TreeNode right;

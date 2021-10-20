@@ -9,14 +9,14 @@ import java.util.Queue;
  * @description 101.对称二叉树
  *
  * 给定一个二叉树，检查它是否是镜像对称的。
- * 例如，二叉树 [1,2,2,3,4,4,3] 是对称的。
+ * 例如，二叉树 [1,2,2,3,4,4,3] 是对称的。
  *
  *     1
  *    / \
  *   2   2
  *  / \ / \
  * 3  4 4  3
- * 但是下面这个 [1,2,2,null,3,null,3] 则不是镜像对称的:
+ * 但是下面这个 [1,2,2,null,3,null,3] 则不是镜像对称的:
  *
  *     1
  *    / \
@@ -31,7 +31,6 @@ public class SymmetricTree {
     public static void main(String[] args) {
         TreeNode node1 = new TreeNode(1);
         node1.left = new TreeNode(2);
-        node1.right = new TreeNode(2);
         node1.left.left = new TreeNode(3);
         node1.left.right = new TreeNode(4);
         node1.right = new TreeNode(2);
@@ -51,9 +50,6 @@ public class SymmetricTree {
 
     /**
      * 迭代
-     *
-     * @param root
-     * @return
      */
     private boolean isSymmetric2(TreeNode root) {
         Queue<TreeNode> queue = new LinkedList<>();
@@ -83,15 +79,12 @@ public class SymmetricTree {
 
     /**
      * 递归
-     *
-     * @param root
-     * @return
      */
-    private boolean isSymmetric1(TreeNode root) {
-        return isSymmetric1(root, root);
+    private boolean isSymmetric(TreeNode root) {
+        return isSymmetric(root, root);
     }
 
-    private boolean isSymmetric1(TreeNode root1, TreeNode root2) {
+    private boolean isSymmetric(TreeNode root1, TreeNode root2) {
         if (root1 == null && root2 == null) {
             return true;
         }
@@ -99,8 +92,8 @@ public class SymmetricTree {
             return false;
         }
         return (root1.val == root2.val)
-                && isSymmetric1(root1.left, root2.right)
-                && isSymmetric1(root1.right, root2.left);
+                && isSymmetric(root1.left, root2.right)
+                && isSymmetric(root1.right, root2.left);
     }
 
     private static class TreeNode {
