@@ -209,6 +209,7 @@
 | 287 | [寻找重复数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheDuplicateNumber.java) | 中等 |
 | 289 | [生命游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GameOfLife.java) | 中等 |
 | 292 | [Nim 游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NimGame.java) | 简单 |
+| [295](https://leetcode-cn.com/problems/find-median-from-data-stream/) | [数据流的中位数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindMedianFromDataStream.java) | 困难 |
 | 297 | [二叉树的序列化与反序列化](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SerializeAndDeserializeBinaryTree.java) | 困难 |
 | 300 | [最长上升子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestIncreasingSubsequence.java) | 中等 |
 | 303 | [区域和检索 - 数组不可变](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RangeSumQueryImmutable.java) | 简单 |
