@@ -497,6 +497,7 @@
 | [剑指 Offer 39](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [数组中出现次数超过一半的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question39.java) | 简单 |
 | [剑指 Offer 40](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [最小的k个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question40.java) | 简单 |
 | [剑指 Offer 41](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/) | [数据流中的中位数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question41.java) | 困难 |
+| [剑指 Offer 42](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) | [连续子数组的最大和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question42.java) | 简单 |
 | [剑指 Offer 43](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/) | [1～n 整数中 1 出现的次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question43.java) | 困难 |
 | [剑指 Offer 44](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/) | [数字序列中某一位的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question44.java) | 中等 |
 | [剑指 Offer 45](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) | [把数组排成最小的数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question45.java) | 中等 |
