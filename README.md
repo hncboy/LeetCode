@@ -521,6 +521,7 @@
 | [剑指 Offer 58-II](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/) | [左旋转字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question58_II.java) | 简单 |
 | [剑指 Offer 59 - I](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof/) | [滑动窗口的最大值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question59_I.java) | 困难 |
 | [剑指 Offer 59-II](https://leetcode-cn.com/problems/dui-lie-de-zui-da-zhi-lcof/) | [队列的最大值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question59_II.java) | 中等 |
+| [剑指 Offer 60](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof/) | [n个骰子的点数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question60.java) | 中等 |
 | [剑指 Offer 61](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/) | [扑克牌中的顺子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question61.java) | 简单 |
 | [剑指 Offer 62](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | [圆圈中最后剩下的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question62.java) | 简单 |
 | [剑指 Offer 63](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/) | [股票的最大利润](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question63.java) | 中等 |
