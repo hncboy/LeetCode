@@ -495,6 +495,7 @@
 | [剑指 Offer 34](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) | [二叉树中和为某一值的路径](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question34.java) | 中等 |
 | [剑指 Offer 35](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) | [复杂链表的复制](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question35.java) | 中等 |
 | [剑指 Offer 36](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) | [二叉搜索树与双向链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question36.java) | 中等 |
+| [剑指 Offer 37](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof/) | [序列化二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question37.java) | 困难 |
 | [剑指 Offer 38](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/) | [字符串的排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question38.java) | 中等 |
 | [剑指 Offer 39](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/) | [数组中出现次数超过一半的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question39.java) | 简单 |
 | [剑指 Offer 40](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) | [最小的k个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question40.java) | 简单 |
