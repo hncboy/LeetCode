@@ -257,6 +257,7 @@
 | [476](https://leetcode-cn.com/problems/number-complement/) | [数字的补数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberComplement.java) | 简单 |
 | [482](https://leetcode-cn.com/problems/license-key-formatting/) | [密钥格式化](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LicenseKeyFormatting.java) | 简单 |
 | 485 | [最大连续1的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxConsecutiveOnes.java) | 简单 |
+| [492](https://leetcode-cn.com/problems/construct-the-rectangle/) | [构造矩形](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConstructTheRectangle.java) | 简单 |
 | 495 | [提莫攻击](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TeemoAttacking.java) | 中等 |
 | 509 | [斐波那契数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FibonacciNumber.java) | 简单 |
 | 517 | [超级洗衣机](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SuperWashingMachines.java) | 困难 |
