@@ -529,6 +529,7 @@
 | [剑指 Offer 62](https://leetcode-cn.com/problems/yuan-quan-zhong-zui-hou-sheng-xia-de-shu-zi-lcof/) | [圆圈中最后剩下的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question62.java) | 简单 |
 | [剑指 Offer 63](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/) | [股票的最大利润](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question63.java) | 中等 |
 | [剑指 Offer 64](https://leetcode-cn.com/problems/qiu-12n-lcof/) | [求1+2+…+n](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question64.java) | 中等 |
+| [剑指 Offer 65](https://leetcode-cn.com/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/) | [不用加减乘除做加法](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question65.java) | 简单 |
 | [剑指 Offer 66](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/) | [构建乘积数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question66.java) | 中等 |
 | [剑指 Offer 67](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/) | [把字符串转换成整数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question67.java) | 中等 |
 | [剑指 Offer 68-I](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof/) | [二叉搜索树的最近公共祖先](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question68_I.java) | 简单 |
