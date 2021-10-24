@@ -510,6 +510,7 @@
 | [剑指 Offer 48](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) | [最长不含重复字符的子字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question48.java) | 中等 |
 | [剑指 Offer 49](https://leetcode-cn.com/problems/chou-shu-lcof/) | [丑数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question49.java) | 中等 |
 | [剑指 Offer 50](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) | [第一个只出现一次的字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question50.java) | 简单 |
+| [剑指 Offer 51](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | [数组中的逆序对](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question51.java) | 困难 |
 | [剑指 Offer 52](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/) | [两个链表的第一个公共节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question52.java) | 简单 |
 | [剑指 Offer 53-I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/) | [在排序数组中查找数字 I](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question53_I.java) | 简单 |
 | [剑指 Offer 53-II](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/) | [0～n-1中缺失的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstooffer/Question53_II.java) | 简单 |
