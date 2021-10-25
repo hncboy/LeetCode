@@ -3,7 +3,7 @@ package com.hncboy.swordreferstooffer;
 /**
  * @author hncboy
  * @date 2020/3/1 20:58
- * @description 面试题25.合并两个排序的链表
+ * @description 剑指 Offer 25.合并两个排序的链表
  *
  * 输入两个递增排序的链表，合并这两个链表并使新链表中的节点仍然是递增排序的。
  *
@@ -13,10 +13,16 @@ package com.hncboy.swordreferstooffer;
  *
  * 限制：
  * 0 <= 链表长度 <= 1000
+ * 注意：本题与主站 21 题 {@link com.hncboy.MergeTwoSortedLists}
+ * 相同：https://leetcode-cn.com/problems/merge-two-sorted-lists/
+ *
+ * 来源：力扣（LeetCode）
+ * 链接：https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof
+ * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
 public class Question25 {
 
-    private ListNode mergeTwoLists2(ListNode l1, ListNode l2) {
+    public ListNode mergeTwoLists2(ListNode l1, ListNode l2) {
         ListNode dummy = new ListNode(0);
         ListNode p = dummy;
 
@@ -40,18 +46,21 @@ public class Question25 {
         return dummy.next;
     }
 
-    private ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+    public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if (l1 == null) {
             return l2;
-        } else if (l2 == null) {
+        }
+
+        if (l2 == null) {
             return l1;
-        } else if (l1.val < l2.val) {
+        }
+
+        if (l1.val < l2.val) {
             l1.next = mergeTwoLists(l1.next, l2);
             return l1;
-        } else {
-            l2.next = mergeTwoLists(l1, l2.next);
-            return l2;
         }
+        l2.next = mergeTwoLists(l1, l2.next);
+        return l2;
     }
 
 

@@ -4,7 +4,6 @@ package com.hncboy.swordreferstooffer;
  * @author hncboy
  * @date 2021/10/9 9:08
  * @description 剑指 Offer 52.两个链表的第一个公共节点
- * {@link com.hncboy.IntersectionOfTwoLinkedLists}
  *
  * 输入两个链表，找出它们的第一个公共节点。
  * 如下面的两个链表：
@@ -32,7 +31,9 @@ package com.hncboy.swordreferstooffer;
  * 在返回结果后，两个链表仍须保持原有的结构。
  * 可假定整个链表结构中没有循环。
  * 程序尽量满足 O(n) 时间复杂度，且仅用 O(1) 内存。
- * 本题与主站 160 题相同：https://leetcode-cn.com/problems/intersection-of-two-linked-lists/
+ * 
+ * 本题与主站 160 题 {@link com.hncboy.IntersectionOfTwoLinkedLists}
+ * 相同：https://leetcode-cn.com/problems/intersection-of-two-linked-lists/
  *
  * 来源：力扣（LeetCode）
  * 链接：https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof
