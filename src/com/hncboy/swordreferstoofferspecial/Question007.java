@@ -1,15 +1,15 @@
-package com.hncboy;
+package com.hncboy.swordreferstoofferspecial;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
 
 /**
  * @author hncboy
- * @date 2019/9/6 8:24
- * @description 15.三数之和
+ * @date 2021/10/25 9:14
+ * @description 剑指 Offer II 007.数组中和为 0 的三个数
  * 
- * 给你一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？请你找出所有和为 0 且不重复的三元组。
- *
- * 注意：答案中不可以包含重复的三元组。
+ * 给定一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a ，b ，c ，使得 a + b + c = 0 ？请找出所有和为 0 且 不重复 的三元组。
  *
  * 示例 1：
  * 输入：nums = [-1,0,1,2,-1,-4]
@@ -27,15 +27,13 @@ import java.util.*;
  * 0 <= nums.length <= 3000
  * -105 <= nums[i] <= 105
  *
+ * 注意：本题与主站 15 题 {@link com.hncboy.ThreeSum} 相同：https://leetcode-cn.com/problems/3sum/
+ *
  * 来源：力扣（LeetCode）
- * 链接：https://leetcode-cn.com/problems/3sum
+ * 链接：https://leetcode-cn.com/problems/1fGaJU
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class ThreeSum {
-
-    public static void main(String[] args) {
-        System.out.println(threeSum(new int[]{-1, 0, 1, 2, -1, -4}));
-    }
+public class Question007 {
 
     public static List<List<Integer>> threeSum(int[] nums) {
         // 先排序
