@@ -4,7 +4,6 @@ package com.hncboy.swordreferstoofferspecial;
  * @author hncboy
  * @date 2021/10/14 8:16
  * @description 剑指 Offer II 069.山峰数组的顶部
- * {@link com.hncboy.PeakIndexInAMountainArray}
  *
  * 符合下列属性的数组 arr 称为 山峰数组（山脉数组） ：
  *
@@ -41,13 +40,14 @@ package com.hncboy.swordreferstoofferspecial;
  * 题目数据保证 arr 是一个山脉数组
  *
  * 进阶：很容易想到时间复杂度 O(n) 的解决方案，你可以设计一个 O(log(n)) 的解决方案吗？
- * 注意：本题与主站 852 题相同：https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/
+ * 注意：本题与主站 852 题 {@link com.hncboy.PeakIndexInAMountainArray}
+ * 相同：https://leetcode-cn.com/problems/peak-index-in-a-mountain-array/
  *
  * 来源：力扣（LeetCode）
  * 链接：https://leetcode-cn.com/problems/B1IidL
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class Question69 {
+public class Question069 {
 
     /**
      * 二分查找
