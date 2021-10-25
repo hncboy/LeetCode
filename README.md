@@ -541,4 +541,5 @@
 | 序号                                                         | 题名                                                         | 难度 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---- |
 | [剑指 Offer II 001](https://leetcode-cn.com/problems/xoh6Oh/) | [整数除法](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question001.java) | 简单 |
+| [剑指 Offer II 002](https://leetcode-cn.com/problems/JFETK5/) | [二进制加法](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question002.java) | 简单 |
 | [剑指 Offer II 069](https://leetcode-cn.com/problems/B1IidL/) | [山峰数组的顶部](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question069.java) | 简单 |
