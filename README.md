@@ -221,6 +221,7 @@
 | 328 | [奇偶链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/OddEvenLinkedList.java) | 中等 |
 | 330 | [按要求补齐数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PatchingArray.java) | 困难 |
 | 332 | [重新安排行程](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReconstructItinerary.java) | 中等 |
+| [338](https://leetcode-cn.com/problems/counting-bits/) | [比特位计数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountingBits.java) | 简单 |
 | 343 | [整数拆分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntegerBreak.java) | 中等 |
 | 344 | [反转字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseString.java) | 简单 |
 | 349 | [两个数组的交集](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntersectionOfTwoArrays.java) | 简单 |
