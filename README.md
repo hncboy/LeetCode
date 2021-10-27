@@ -546,5 +546,6 @@
 | [剑指 Offer II 001](https://leetcode-cn.com/problems/xoh6Oh/) | [整数除法](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question001.java) | 简单 |
 | [剑指 Offer II 002](https://leetcode-cn.com/problems/JFETK5/) | [二进制加法](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question002.java) | 简单 |
 | [剑指 Offer II 003](https://leetcode-cn.com/problems/w3tCBm/) | [前 n 个数字二进制中 1 的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question003.java) | 简单 |
+| [剑指 Offer II 004](https://leetcode-cn.com/problems/WGki4K/) | [只出现一次的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question004.java) | 中等 |
 | [剑指 Offer II 007](https://leetcode-cn.com/problems/1fGaJU/) | [数组中和为 0 的三个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question007.java) | 中等 |
 | [剑指 Offer II 069](https://leetcode-cn.com/problems/B1IidL/) | [山峰数组的顶部](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question069.java) | 简单 |
