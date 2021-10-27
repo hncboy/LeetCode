@@ -212,6 +212,7 @@
 | [295](https://leetcode-cn.com/problems/find-median-from-data-stream/) | [数据流的中位数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindMedianFromDataStream.java) | 困难 |
 | 297 | [二叉树的序列化与反序列化](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SerializeAndDeserializeBinaryTree.java) | 困难 |
 | 300 | [最长上升子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestIncreasingSubsequence.java) | 中等 |
+| [301](https://leetcode-cn.com/problems/remove-invalid-parentheses/) | [删除无效的括号](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveInvalidParentheses.java) | 困难 |
 | 303 | [区域和检索 - 数组不可变](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RangeSumQueryImmutable.java) | 简单 |
 | 309 | [最佳买卖股票时机含冷冻期](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BestTimeToBuyAndSellStockWithCooldown.java) | 中等 |
 | 313 | [超级丑数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SuperUglyNumber.java) | 中等 |
