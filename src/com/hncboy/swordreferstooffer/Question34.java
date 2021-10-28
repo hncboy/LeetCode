@@ -28,7 +28,7 @@ import java.util.List;
  * 树中节点总数在范围 [0, 5000] 内
  * -1000 <= Node.val <= 1000
  * -1000 <= targetSum <= 1000
- * 注意：本题与主站 113 题相同：https://leetcode-cn.com/problems/path-sum-ii/
+ * 注意：本题与主站 113 题 {@link com.hncboy.PathSumII} 相同：https://leetcode-cn.com/problems/path-sum-ii/
  *
  * 来源：力扣（LeetCode）
  * 链接：https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof
