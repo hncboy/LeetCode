@@ -320,6 +320,7 @@
 | 852 | [山脉数组的峰顶索引](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PeakIndexInAMountainArray.java) | 简单 |
 | 861 | [翻转矩阵后的得分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ScoreAfterFlippingMatrix.java) | 中等 |
 | 867 | [转置矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TransposeMatrix.java) | 简单 |
+| [869](https://leetcode-cn.com/problems/reordered-power-of-2/) | [重新排序得到 2 的幂](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReorderedPowerOf2.java) | 中等 |
 | 870 | [优势洗牌](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AdvantageShuffle.java) | 中等 |
 | 873 | [最长的斐波那契子序列的长度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LengthOfLongestFibonacciSubsequence.java) | 中等 |
 | 876 | [链表的中间结点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MiddleOfTheLinkedList.java) | 简单 |
