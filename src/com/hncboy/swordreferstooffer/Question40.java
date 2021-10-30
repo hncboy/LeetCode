@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @author hncboy
  * @date 2020/3/20 15:33
- * @description 面试题 40.最小的k个数
+ * @description 剑指 Offer 40.最小的k个数
  *
  * 输入整数数组 arr ，找出其中最小的 k 个数。
  * 例如，输入4、5、1、6、2、7、3、8这8个数字，则最小的4个数字是1、2、3、4。
@@ -24,22 +24,12 @@ import java.util.*;
  */
 public class Question40 {
 
-    public static void main(String[] args) {
-        Question40 q = new Question40();
-        int[] arr = {6, 3, 1, 4, 5, 9, 2};
-        System.out.println(Arrays.toString(q.getLeastNumbers1(arr, 2)));
-    }
-
     /**
      * 方法一
      * 采用快排的思想讯寻找以 k 为下标的切分点
      * 时间复杂度：O(n)
-     *
-     * @param arr
-     * @param k
-     * @return
      */
-    private int[] getLeastNumbers1(int[] arr, int k) {
+    public int[] getLeastNumbers1(int[] arr, int k) {
         if (k == 0 || arr.length == 0) {
             return new int[0];
         }
@@ -99,12 +89,8 @@ public class Question40 {
      * 方法二
      * 大根堆
      * 时间复杂度：O(nlogK)
-     *
-     * @param arr
-     * @param k
-     * @return
      */
-    private int[] getLeastNumbers2(int[] arr, int k) {
+    public int[] getLeastNumbers2(int[] arr, int k) {
         if (k == 0 || arr.length == 0) {
             return new int[0];
         }
@@ -132,12 +118,8 @@ public class Question40 {
      * 方法三
      * 二叉搜索树
      * 时间复杂度：O(nlogK)
-     *
-     * @param arr
-     * @param k
-     * @return
      */
-    private int[] getLeastNumbers3(int[] arr, int k) {
+    public int[] getLeastNumbers3(int[] arr, int k) {
         if (k == 0 || arr.length == 0) {
             return new int[0];
         }
@@ -184,12 +166,8 @@ public class Question40 {
      * 方法四
      * 范围区间内直接计数排序
      * 时间复杂度：O(n)
-     *
-     * @param arr
-     * @param k
-     * @return
      */
-    private int[] getLeastNumbers4(int[] arr, int k) {
+    public int[] getLeastNumbers4(int[] arr, int k) {
         if (k == 0 || arr.length == 0) {
             return new int[0];
         }

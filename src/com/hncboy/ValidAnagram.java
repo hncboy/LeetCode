@@ -1,7 +1,5 @@
 package com.hncboy;
 
-import java.util.Arrays;
-
 /**
  * @author hncboy
  * @date 2019/10/18 8:26
@@ -9,7 +7,7 @@ import java.util.Arrays;
  *
  * 给定两个字符串 s 和 t ，编写一个函数来判断 t 是否是 s 的字母异位词。
  *
- * 示例 1:
+ * 示例 1:
  * 输入: s = "anagram", t = "nagaram"
  * 输出: true
  *
@@ -25,59 +23,25 @@ public class ValidAnagram {
 
     public static void main(String[] args) {
         ValidAnagram v = new ValidAnagram();
-        System.out.println(v.isAnagram2("anagram", "nagaram"));
-        System.out.println(v.isAnagram2("rat", "car"));
-        System.out.println(v.isAnagram2("aa", "bb"));
+        System.out.println(v.isAnagram("anagram", "nagaram"));
     }
 
-    /**
-     * 排序
-     *
-     * @param s
-     * @param t
-     * @return
-     */
-    private boolean isAnagram1(String s, String t) {
-        int length1 = s.length();
-        int length2 = t.length();
-
-        if (length1 != length2) {
+    public boolean isAnagram(String s, String t) {
+        if (s.length() != t.length() || s.equals(t)) {
             return false;
         }
 
-        char[] chars1 = s.toCharArray();
-        char[] chars2 = t.toCharArray();
-
-        Arrays.sort(chars1);
-        Arrays.sort(chars2);
-
-        return Arrays.equals(chars1, chars2);
-    }
-
-    /**
-     * 哈希
-     *
-     * @param s
-     * @param t
-     * @return
-     */
-    private boolean isAnagram2(String s, String t) {
-        int length1 = s.length();
-        int length2 = t.length();
-        if (length1 != length2) {
-            return false;
+        int[] hash = new int [26];
+        for (char ch : s.toCharArray()) {
+            hash[ch - 'a']++;
         }
 
-        int[] word = new int[26];
-        for (int i = 0; i < length1; i++) {
-            word[s.charAt(i) - 'a']++;
-        }
-
-        for (int i = 0; i < length2; i++) {
-            if (--word[t.charAt(i) - 'a'] < 0) {
+        for (char ch : t.toCharArray()) {
+            if (--hash[ch - 'a'] < 0) {
                 return false;
             }
         }
+
         return true;
     }
 }
