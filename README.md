@@ -291,6 +291,7 @@
 | 667 | [优美的排列 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BeautifulArrangementII.java) | 中等 |
 | 670 | [最大交换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumSwap.java) | 中等 |
 | 674 | [最长连续递增序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestContinuousIncreasingSubsequence.java) | 简单 |
+| [680](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [验证回文字符串 Ⅱ](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidPalindromeII.java) | 简单 |
 | 693 | [交替位二进制数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryNumberWithAlternatingBits.java) | 简单 |
 | 695 | [岛屿的最大面积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxAreaOfIsland.java) | 中等 |
 | 697 | [数组的度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DegreeOfAnArray.java) | 简单 |
