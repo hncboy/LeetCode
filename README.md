@@ -556,6 +556,7 @@
 | [剑指 Offer II 003](https://leetcode-cn.com/problems/w3tCBm/) | [前 n 个数字二进制中 1 的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question003.java) | 简单 |
 | [剑指 Offer II 004](https://leetcode-cn.com/problems/WGki4K/) | [只出现一次的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question004.java) | 中等 |
 | [剑指 Offer II 007](https://leetcode-cn.com/problems/1fGaJU/) | [数组中和为 0 的三个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question007.java) | 中等 |
+| [剑指 Offer II 019](https://leetcode-cn.com/problems/RQku0D/) | [最多删除一个字符得到回文](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question019.java) | 简单 |
 | [剑指 Offer II 020](https://leetcode-cn.com/problems/a7VOhD/) | [回文子字符串的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question020.java) | 简单 |
 | [剑指 Offer II 023](https://leetcode-cn.com/problems/3u1WK4/) | [两个链表的第一个重合节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question023.java) | 简单 |
 | [剑指 Offer II 034](https://leetcode-cn.com/problems/lwyVBB/) | [外星语言是否排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question034.java) | 简单 |
