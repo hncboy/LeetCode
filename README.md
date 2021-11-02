@@ -560,4 +560,5 @@
 | [剑指 Offer II 020](https://leetcode-cn.com/problems/a7VOhD/) | [回文子字符串的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question020.java) | 简单 |
 | [剑指 Offer II 023](https://leetcode-cn.com/problems/3u1WK4/) | [两个链表的第一个重合节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question023.java) | 简单 |
 | [剑指 Offer II 034](https://leetcode-cn.com/problems/lwyVBB/) | [外星语言是否排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question034.java) | 简单 |
+| [剑指 Offer II 041](https://leetcode-cn.com/problems/qIsx9U/) |                                                              |      |
 | [剑指 Offer II 069](https://leetcode-cn.com/problems/B1IidL/) | [山峰数组的顶部](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question069.java) | 简单 |
