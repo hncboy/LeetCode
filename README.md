@@ -562,4 +562,5 @@
 | [剑指 Offer II 023](https://leetcode-cn.com/problems/3u1WK4/) | [两个链表的第一个重合节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question023.java) | 简单 |
 | [剑指 Offer II 034](https://leetcode-cn.com/problems/lwyVBB/) | [外星语言是否排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question034.java) | 简单 |
 | [剑指 Offer II 041](https://leetcode-cn.com/problems/qIsx9U/) | [滑动窗口的平均值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question041.java) | 简单 |
+| [剑指 Offer II 042](https://leetcode-cn.com/problems/H8086Q/) | [最近请求次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question042.java) | 简单 |
 | [剑指 Offer II 069](https://leetcode-cn.com/problems/B1IidL/) | [山峰数组的顶部](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question069.java) | 简单 |
