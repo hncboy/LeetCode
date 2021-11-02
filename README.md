@@ -341,6 +341,7 @@
 | 918 | [环形子数组的最大和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumSumCircularSubarray.java) | 中等 |
 | 922 | [按奇偶排序数组 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SortArrayByParityII.java) | 简单 |
 | 926 | [将字符串翻转到单调递增](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FlipStringToMonotoneIncreasing.java) | 中等 |
+| [933](https://leetcode-cn.com/problems/number-of-recent-calls/) | [最近的请求次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfRecentCalls.java) | 简单 |
 | 941 | [有效的山脉数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidMountainArray.java) | 简单 |
 | 945 | [使数组唯一的最小增量](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumIncrementToMakeArrayUnique.java) | 中等 |
 | [946](https://leetcode-cn.com/problems/validate-stack-sequences/) | [验证栈序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidateStackSequences.java) | 中等 |
@@ -560,5 +561,5 @@
 | [剑指 Offer II 020](https://leetcode-cn.com/problems/a7VOhD/) | [回文子字符串的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question020.java) | 简单 |
 | [剑指 Offer II 023](https://leetcode-cn.com/problems/3u1WK4/) | [两个链表的第一个重合节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question023.java) | 简单 |
 | [剑指 Offer II 034](https://leetcode-cn.com/problems/lwyVBB/) | [外星语言是否排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question034.java) | 简单 |
-| [剑指 Offer II 041](https://leetcode-cn.com/problems/qIsx9U/) |                                                              |      |
+| [剑指 Offer II 041](https://leetcode-cn.com/problems/qIsx9U/) | [滑动窗口的平均值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question041.java) | 简单 |
 | [剑指 Offer II 069](https://leetcode-cn.com/problems/B1IidL/) | [山峰数组的顶部](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question069.java) | 简单 |
