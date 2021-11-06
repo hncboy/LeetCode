@@ -4,7 +4,7 @@ package com.hncboy.swordreferstooffer;
  * @author hncboy
  * @date 2021/10/1 13:53
  * @description 剑指 Offer 16.值的整数次方
- * {@link com.hncboy.PowxN}
+ *
  * 实现pow(x,n)，即计算 x 的 n 次幂函数（即，xn）。不得使用库函数，同时不需要考虑大数问题。
  *
  * 示例 1：
@@ -25,7 +25,8 @@ package com.hncboy.swordreferstooffer;
  * -231<= n <=231-1
  * -104<= xn<= 104
  *
- * 注意：本题与主站 50 题相同：https://leetcode-cn.com/problems/powx-n/
+ * 注意：本题与主站 50 题 {@link com.hncboy.PowxN} 相同：https://leetcode-cn.com/problems/powx-n/
+ * 
  * 来源：力扣（LeetCode）
  * 链接：https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
