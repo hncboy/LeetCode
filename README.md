@@ -219,6 +219,7 @@
 | 309 | [最佳买卖股票时机含冷冻期](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BestTimeToBuyAndSellStockWithCooldown.java) | 中等 |
 | 313 | [超级丑数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SuperUglyNumber.java) | 中等 |
 | 316 | [去除重复字母](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveDuplicateLetters.java) | 困难 |
+| [318](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/) | [最大单词长度乘积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumProductOfWordLengths.java) | 中等 |
 | 322 | [零钱兑换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CoinChange.java) | 中等 |
 | 326 | [3的幂](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PowerOfThree.java) | 简单 |
 | 328 | [奇偶链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/OddEvenLinkedList.java) | 中等 |
