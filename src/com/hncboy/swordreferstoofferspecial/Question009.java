@@ -1,17 +1,16 @@
-package com.hncboy;
+package com.hncboy.swordreferstoofferspecial;
 
 /**
  * @author hncboy
- * @date 2019/11/29 10:43
- * @description 713.乘积小于K的子数组
- *
- * 给定一个正整数数组 nums和整数 k 。
- * 请找出该数组内乘积小于 k 的连续的子数组的个数。
+ * @date 2021/11/7 13:06
+ * @description 剑指 Offer II 009.乘积小于 K 的子数组
+ * 
+ * 给定一个正整数数组 nums和整数 k ，请找出该数组内乘积小于 k 的连续的子数组的个数。
  *
  * 示例 1:
  * 输入: nums = [10,5,2,6], k = 100
  * 输出: 8
- * 解释: 8个乘积小于100的子数组分别为: [10], [5], [2], [6], [10,5], [5,2], [2,6], [5,2,6]。
+ * 解释: 8 个乘积小于 100 的子数组分别为: [10], [5], [2], [6], [10,5], [5,2], [2,6], [5,2,6]。
  * 需要注意的是 [10,5,2] 并不是乘积小于100的子数组。
  *
  * 示例 2:
@@ -23,17 +22,14 @@ package com.hncboy;
  * 1 <= nums[i] <= 1000
  * 0 <= k <= 106
  *
+ * 注意：本题与主站 713 题 {@link com.hncboy.SubarrayProductLessThanK}
+ * 相同：https://leetcode-cn.com/problems/subarray-product-less-than-k/
+ *
  * 来源：力扣（LeetCode）
- * 链接：https://leetcode-cn.com/problems/subarray-product-less-than-k
+ * 链接：https://leetcode-cn.com/problems/ZVAVXX
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class SubarrayProductLessThanK {
-
-    public static void main(String[] args) {
-        SubarrayProductLessThanK s = new SubarrayProductLessThanK();
-        System.out.println(s.numSubarrayProductLessThanK(new int[]{10, 5, 2, 6}, 100));
-        System.out.println(s.numSubarrayProductLessThanK(new int[]{1, 1, 1}, 1));
-    }
+public class Question009 {
 
     public int numSubarrayProductLessThanK(int[] nums, int k) {
         if (k <= 1) {
