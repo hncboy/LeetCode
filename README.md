@@ -562,6 +562,7 @@
 | [剑指 Offer II 005](https://leetcode-cn.com/problems/aseY1I/) | [单词长度的最大乘积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question005.java) | 中等 |
 | [剑指 Offer II 006](https://leetcode-cn.com/problems/kLl5u1/) | [排序数组中两个数字之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question006.java) | 简单 |
 | [剑指 Offer II 007](https://leetcode-cn.com/problems/1fGaJU/) | [数组中和为 0 的三个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question007.java) | 中等 |
+| [剑指 Offer II 008](https://leetcode-cn.com/problems/2VG8Kg/) | [和大于等于 target 的最短子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question008.java) | 中等 |
 | [剑指 Offer II 019](https://leetcode-cn.com/problems/RQku0D/) | [最多删除一个字符得到回文](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question019.java) | 简单 |
 | [剑指 Offer II 020](https://leetcode-cn.com/problems/a7VOhD/) | [回文子字符串的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question020.java) | 简单 |
 | [剑指 Offer II 023](https://leetcode-cn.com/problems/3u1WK4/) | [两个链表的第一个重合节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question023.java) | 简单 |
