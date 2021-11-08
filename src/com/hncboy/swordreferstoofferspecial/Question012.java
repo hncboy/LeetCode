@@ -39,7 +39,8 @@ import java.util.Arrays;
  * 1 <= nums.length <= 104
  * -1000 <= nums[i] <= 1000
  *
- * 注意：本题与主站 724 题相同： https://leetcode-cn.com/problems/find-pivot-index/
+ * 注意：本题与主站 724 题 {@link com.hncboy.FindPivotIndex}
+ * 相同： https://leetcode-cn.com/problems/find-pivot-index/
  *
  * 来源：力扣（LeetCode）
  * 链接：https://leetcode-cn.com/problems/tvdfij
