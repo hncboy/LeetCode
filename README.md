@@ -213,6 +213,7 @@
 | 292 | [Nim 游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NimGame.java) | 简单 |
 | [295](https://leetcode-cn.com/problems/find-median-from-data-stream/) | [数据流的中位数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindMedianFromDataStream.java) | 困难 |
 | 297 | [二叉树的序列化与反序列化](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SerializeAndDeserializeBinaryTree.java) | 困难 |
+| [299](https://leetcode-cn.com/problems/bulls-and-cows/) | [猜数字游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BullsAndCows.java) | 中等 |
 | 300 | [最长上升子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestIncreasingSubsequence.java) | 中等 |
 | [301](https://leetcode-cn.com/problems/remove-invalid-parentheses/) | [删除无效的括号](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveInvalidParentheses.java) | 困难 |
 | 303 | [区域和检索 - 数组不可变](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RangeSumQueryImmutable.java) | 简单 |
