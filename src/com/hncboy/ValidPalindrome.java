@@ -25,31 +25,20 @@ public class ValidPalindrome {
         System.out.println(v.isPalindrome("race a car"));
     }
 
-    private boolean isPalindrome(String s) {
-        int length = s.length();
+    public boolean isPalindrome(String s) {
         int left = 0;
-        int right = length - 1;
-        // 将所有大写字母转为小写
+        int right = s.length() - 1;
         s = s.toLowerCase();
-
         while (left <= right) {
-            if (!inArea(s.charAt(left))) {
+            if (!Character.isLetterOrDigit(s.charAt(left))) {
                 left++;
-                continue;
-            }
-
-            if (!inArea(s.charAt(right))) {
+            } else if (!Character.isLetterOrDigit(s.charAt(right))) {
                 right--;
-                continue;
+            } else {
+                if (s.charAt(left++) != s.charAt(right--)) {
+                    return false;
+                }
             }
-
-            if (s.charAt(left) == s.charAt(right)) {
-                left++;
-                right--;
-                continue;
-            }
-
-            return false;
         }
         return true;
     }
