@@ -273,6 +273,7 @@
 | 509 | [斐波那契数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FibonacciNumber.java) | 简单 |
 | 517 | [超级洗衣机](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SuperWashingMachines.java) | 困难 |
 | 520 | [检测大写字母](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DetectCapital.java) | 简单 |
+| [525](https://leetcode-cn.com/problems/contiguous-array/) | [连续数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ContiguousArray.java) | 中等 |
 | 526 | [优美的排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BeautifulArrangement.java) | 中等 |
 | 532 | [数组中的K-diff数对](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KDiffPairsInAnArray.java) | 简单 |
 | 543 | [二叉树的直径](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DiameterOfBinaryTree.java) | 简单 |
