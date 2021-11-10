@@ -568,6 +568,7 @@
 | [剑指 Offer II 008](https://leetcode-cn.com/problems/2VG8Kg/) | [和大于等于 target 的最短子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question008.java) | 中等 |
 | [剑指 Offer II 009](https://leetcode-cn.com/problems/ZVAVXX/) | [乘积小于 K 的子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question009.java) | 中等 |
 | [剑指 Offer II 010](https://leetcode-cn.com/problems/QTMn0o/) | [和为 k 的子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question010.java) | 中等 |
+| [剑指 Offer II 011](https://leetcode-cn.com/problems/A1NYOS/) | [0 和 1 个数相同的子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question011.java) | 中等 |
 | [剑指 Offer II 012](https://leetcode-cn.com/problems/tvdfij/) | [左右两边子数组的和相等](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question012.java) | 简单 |
 | [剑指 Offer II 016](https://leetcode-cn.com/problems/wtcaE1/) | [不含重复字符的最长子字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question016.java) | 简单 |
 | [剑指 Offer II 018](https://leetcode-cn.com/problems/XltzEq/) | [有效的回文](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question018.java) | 简单 |
