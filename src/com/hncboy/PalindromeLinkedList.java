@@ -31,7 +31,7 @@ public class PalindromeLinkedList {
         System.out.println(new PalindromeLinkedList().isPalindrome(node));
     }
 
-    private boolean isPalindrome(ListNode head) {
+    public boolean isPalindrome(ListNode head) {
         if (head == null) {
             return true;
         }

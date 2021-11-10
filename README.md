@@ -575,6 +575,7 @@
 | [剑指 Offer II 019](https://leetcode-cn.com/problems/RQku0D/) | [最多删除一个字符得到回文](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question019.java) | 简单 |
 | [剑指 Offer II 020](https://leetcode-cn.com/problems/a7VOhD/) | [回文子字符串的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question020.java) | 简单 |
 | [剑指 Offer II 023](https://leetcode-cn.com/problems/3u1WK4/) | [两个链表的第一个重合节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question023.java) | 简单 |
+| [剑指 Offer II 027](https://leetcode-cn.com/problems/aMhZSa/) | [回文链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question027.java) | 简单 |
 | [剑指 Offer II 034](https://leetcode-cn.com/problems/lwyVBB/) | [外星语言是否排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question034.java) | 简单 |
 | [剑指 Offer II 041](https://leetcode-cn.com/problems/qIsx9U/) | [滑动窗口的平均值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question041.java) | 简单 |
 | [剑指 Offer II 042](https://leetcode-cn.com/problems/H8086Q/) | [最近请求次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question042.java) | 简单 |
