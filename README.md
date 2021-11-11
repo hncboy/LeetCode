@@ -288,7 +288,8 @@
 | 605 | [种花问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CanPlaceFlowers.java) | 简单 |
 | 611 | [有效三角形的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTriangleNumber.java) | 中等 |
 | 628 | [三个数的最大乘积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumProductOfThreeNumbers.java) | 简单 |
-| [638](https://leetcode-cn.com/problems/shopping-offers/) | [大礼包s](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShoppingOffers.java) | 中等 |
+| [629](https://leetcode-cn.com/problems/k-inverse-pairs-array/) | [K个逆序对数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KInversePairsArray.java) | 困难 |
+| [638](https://leetcode-cn.com/problems/shopping-offers/) | [大礼包](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShoppingOffers.java) | 中等 |
 | 639 | [解码方法 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DecodeWaysIi.java) | 困难 |
 | 643 | [子数组最大平均数 I](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumAverageSubarrayI.java) | 简单 |
 | [647](https://leetcode-cn.com/problems/palindromic-substrings/) | [回文子串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PalindromicSubstrings.java) | 中等 |
