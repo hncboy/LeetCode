@@ -572,6 +572,7 @@
 | [剑指 Offer II 010](https://leetcode-cn.com/problems/QTMn0o/) | [和为 k 的子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question010.java) | 中等 |
 | [剑指 Offer II 011](https://leetcode-cn.com/problems/A1NYOS/) | [0 和 1 个数相同的子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question011.java) | 中等 |
 | [剑指 Offer II 012](https://leetcode-cn.com/problems/tvdfij/) | [左右两边子数组的和相等](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question012.java) | 简单 |
+| [剑指 Offer II 013](https://leetcode-cn.com/problems/O4NDxx/) | [二维子矩阵的和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question013.java) | 中等 |
 | [剑指 Offer II 016](https://leetcode-cn.com/problems/wtcaE1/) | [不含重复字符的最长子字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question016.java) | 简单 |
 | [剑指 Offer II 018](https://leetcode-cn.com/problems/XltzEq/) | [有效的回文](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question018.java) | 简单 |
 | [剑指 Offer II 019](https://leetcode-cn.com/problems/RQku0D/) | [最多删除一个字符得到回文](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question019.java) | 简单 |
