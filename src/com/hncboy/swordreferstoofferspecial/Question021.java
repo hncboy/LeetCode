@@ -1,13 +1,11 @@
-package com.hncboy;
-
-import com.hncboy.swordreferstoofferspecial.Question021;
+package com.hncboy.swordreferstoofferspecial;
 
 /**
  * @author hncboy
- * @date 2019/9/19 7:32
- * @description 19.删除链表的倒数第N个节点
- *
- * 给你一个链表，删除链表的倒数第 n 个结点，并且返回链表的头结点。
+ * @date 2021/11/13 14:28
+ * @description 剑指 Offer II 021.删除链表的倒数第 n 个结点
+ * 
+ * 给定一个链表，删除链表的倒数第 n 个结点，并且返回链表的头结点。
  *
  * 示例 1：
  * 输入：head = [1,2,3,4,5], n = 2
@@ -20,31 +18,24 @@ import com.hncboy.swordreferstoofferspecial.Question021;
  * 示例 3：
  * 输入：head = [1,2], n = 1
  * 输出：[1]
- *
+ *  
  * 提示：
  * 链表中结点的数目为 sz
  * 1 <= sz <= 30
  * 0 <= Node.val <= 100
  * 1 <= n <= sz
  *
- * 进阶：你能尝试使用一趟扫描实现吗？
+ * 进阶：能尝试使用一趟扫描实现吗？
+ *
+ * 注意：本题与主站 19 题相同： https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/
  *
  * 来源：力扣（LeetCode）
- * 链接：https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list
+ * 链接：https://leetcode-cn.com/problems/SLwz0R
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class RemoveNthNodeFromEndOfList {
+public class Question021 {
 
-    public static void main(String[] args) {
-        ListNode node = new ListNode(1);
-        node.next = new ListNode(2);
-        node.next.next = new ListNode(3);
-        node.next.next.next = new ListNode(4);
-        node.next.next.next.next = new ListNode(5);
-        System.out.println(new RemoveNthNodeFromEndOfList().removeNthFromEnd(node, 5));
-    }
-
-    private ListNode removeNthFromEnd(ListNode head, int n) {
+    public ListNode removeNthFromEnd(ListNode head, int n) {
         ListNode dummy = new ListNode(0, head);
         ListNode fast = head;
         ListNode slow = dummy;
