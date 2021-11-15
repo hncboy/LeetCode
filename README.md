@@ -589,6 +589,7 @@
 | [剑指 Offer II 023](https://leetcode-cn.com/problems/3u1WK4/) | [两个链表的第一个重合节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question023.java) | 简单 |
 | [剑指 Offer II 024](https://leetcode-cn.com/problems/UHnkqh/) | [反转链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question024.java) | 简单 |
 | [剑指 Offer II 025](https://leetcode-cn.com/problems/lMSNwu/) | [链表中的两数相加](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question025.java) | 中等 |
+| [剑指 Offer II 026](https://leetcode-cn.com/problems/LGjMqU/) | [重排链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question026.java) | 中等 |
 | [剑指 Offer II 027](https://leetcode-cn.com/problems/aMhZSa/) | [回文链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question027.java) | 简单 |
 | [剑指 Offer II 034](https://leetcode-cn.com/problems/lwyVBB/) | [外星语言是否排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question034.java) | 简单 |
 | [剑指 Offer II 041](https://leetcode-cn.com/problems/qIsx9U/) | [滑动窗口的平均值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question041.java) | 简单 |

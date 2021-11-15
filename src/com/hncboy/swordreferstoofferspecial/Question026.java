@@ -1,9 +1,9 @@
-package com.hncboy;
+package com.hncboy.swordreferstoofferspecial;
 
 /**
  * @author hncboy
- * @date 2019/11/2 14:36
- * @description 143.重排链表
+ * @date 2021/11/15 9:18
+ * @description 剑指 Offer II 026.重排链表
  *
  * 给定一个单链表 L 的头节点 head ，单链表 L 表示为：
  * L0 → L1 → … → Ln-1 → Ln
@@ -23,20 +23,13 @@ package com.hncboy;
  * 链表的长度范围为 [1, 5 * 104]
  * 1 <= node.val <= 1000
  *
+ * 注意：本题与主站 143 题 {@link com.hncboy.ReorderList} 相同：https://leetcode-cn.com/problems/reorder-list/
+ *
  * 来源：力扣（LeetCode）
- * 链接：https://leetcode-cn.com/problems/reorder-list
+ * 链接：https://leetcode-cn.com/problems/LGjMqU
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class ReorderList {
-
-    public static void main(String[] args) {
-        ListNode node = new ListNode(1);
-        node.next = new ListNode(2);
-        node.next.next = new ListNode(3);
-        node.next.next.next = new ListNode(4);
-        node.next.next.next.next = new ListNode(5);
-        new ReorderList().reorderList(node);
-    }
+public class Question026 {
 
     public void reorderList(ListNode head) {
         if (head == null) {
@@ -108,8 +101,16 @@ public class ReorderList {
         int val;
         ListNode next;
 
-        ListNode(int x) {
-            val = x;
+        ListNode() {
+        }
+
+        ListNode(int val) {
+            this.val = val;
+        }
+
+        ListNode(int val, ListNode next) {
+            this.val = val;
+            this.next = next;
         }
     }
 }
