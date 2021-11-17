@@ -62,30 +62,44 @@ public class FlattenAMultilevelDoublyLinkedList {
         System.out.println(f.flatten(node1));
     }
 
-    private Node flatten(Node head) {
-        Node prev = new Node();
-        flatten(head, prev);
-        return prev.next;
-    }
+    public Node flatten(Node head) {
+        // 定义哑节点
+        Node dummy = new Node();
+        dummy.next = head;
 
-    private void flatten(Node head, Node prev) {
-        if (head == null) {
-            return;
+        // 从头开始遍历链表
+        for (; head != null; head = head.next) {
+            // 不存在子节点则继续遍历
+            if (head.child == null) {
+                continue;
+            }
+
+            // 定义原来 head 的 next 节点
+            Node oldNext = head.next;
+
+            // 获取到子节点
+            Node child = head.child;
+            // 将子节点指向 head 的 next 节点
+            head.next = child;
+            // 将子节点的 prev 节点指向 head 节点
+            child.prev = head;
+            // 将 head 节点的 child 节点置为 null
+            head.child = null;
+
+            // 找到刚拼接好的 child 链表的末尾
+            Node newNext = head;
+            while (newNext.next != null) {
+                newNext = newNext.next;
+            }
+
+            // 将此时 head 新的 next 指针指向原来 next 节点
+            newNext.next = oldNext;
+            // 如果此时没有到达最后一个节点，则将 oldNext 节点指向 last 节点
+            if (oldNext != null) {
+                oldNext.prev = newNext;
+            }
         }
-        flatten(head.next, prev);
-        flatten(head.child, prev);
-        // 组成单级链表，将每个节点的 child 都置为 null
-        head.child = null;
-        // 获取 prev 的下一个节点
-        Node next = prev.next;
-        // 头插法，将 head 插入到 prev 的下一个节点
-        prev.next = head;
-        // 新的 head 的下一个节点连接原来的 next
-        head.next = next;
-        if (next != null) {
-            // 如果 next 不为空，将 next 的上一个节点指向 head
-            next.prev = head;
-        }
+        return dummy.next;
     }
 
     private static class Node {
