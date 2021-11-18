@@ -281,6 +281,7 @@
 | [525](https://leetcode-cn.com/problems/contiguous-array/) | [连续数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ContiguousArray.java) | 中等 |
 | 526 | [优美的排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BeautifulArrangement.java) | 中等 |
 | 532 | [数组中的K-diff数对](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KDiffPairsInAnArray.java) | 简单 |
+| [539](https://leetcode-cn.com/problems/minimum-time-difference/) | [最小时间差](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumTimeDifference.java) | 中等 |
 | 543 | [二叉树的直径](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DiameterOfBinaryTree.java) | 简单 |
 | 560 | [和为K的子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SubarraySumEqualsK.java) | 中等 |
 | 561 | [数组拆分 I](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ArrayPartitionI.java) | 简单 |
