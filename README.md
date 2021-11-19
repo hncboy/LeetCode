@@ -605,3 +605,4 @@
 | [剑指 Offer II 042](https://leetcode-cn.com/problems/H8086Q/) | [最近请求次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question042.java) | 简单 |
 | [剑指 Offer II 052](https://leetcode-cn.com/problems/NYBBNL/) | [展平二叉搜索树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question052.java) | 简单 |
 | [剑指 Offer II 069](https://leetcode-cn.com/problems/B1IidL/) | [山峰数组的顶部](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question069.java) | 简单 |
+| [剑指 Offer II 088](https://leetcode-cn.com/problems/GzCJIP/) | [爬楼梯的最少成本](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question088.java) | 简单 |
