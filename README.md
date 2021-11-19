@@ -248,6 +248,7 @@
 | 387 | [字符串中的第一个唯一字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FirstUniqueCharacterInAString.java) | 简单 |
 | [391](https://leetcode-cn.com/problems/perfect-rectangle/) | [完美矩形](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PerfectRectangle.java) | 困难 |
 | 392 | [判断子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IsSubsequence.java) | 简单 |
+| [397](https://leetcode-cn.com/problems/integer-replacement/) | [整数替换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntegerReplacement.java) | 中等 |
 | 399 | [除法求值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/EvaluateDivision.java) | 中等 |
 | [400](https://leetcode-cn.com/problems/nth-digit/) | [第 N 位数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NthDigit.java) | 中等 |
 | [405](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/) | [数字转换为十六进制数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConvertANumberToHexadecimal.java) | 简单 |
