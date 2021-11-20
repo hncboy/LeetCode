@@ -1,14 +1,14 @@
-package com.hncboy;
+package com.hncboy.swordreferstoofferspecial;
 
 import java.util.*;
 
 /**
  * @author hncboy
- * @date 2019/9/29 8:32
- * @description 49.字母异位词分组
- *
- * 给你一个字符串数组，请你将 字母异位词 组合在一起。可以按任意顺序返回结果列表。
- * 字母异位词 是由重新排列源单词的字母得到的一个新单词，所有源单词中的字母都恰好只用一次。
+ * @date 2021/11/20 17:13
+ * @description 剑指 Offer II 033.变位词组
+ * 
+ * 给定一个字符串数组 strs ，将 变位词 组合在一起。 可以按任意顺序返回结果列表。
+ * 注意：若两个字符串中每个字符出现的次数都相同，则称它们互为变位词。
  *
  *
  * 示例 1:
@@ -27,19 +27,16 @@ import java.util.*;
  * 1 <= strs.length <= 104
  * 0 <= strs[i].length <= 100
  * strs[i] 仅包含小写字母
+ *  
+ * 注意：本题与主站 49 题 {@link com.hncboy.GroupAnagrams} 相同： https://leetcode-cn.com/problems/group-anagrams/
  *
  * 来源：力扣（LeetCode）
- * 链接：https://leetcode-cn.com/problems/group-anagrams
+ * 链接：https://leetcode-cn.com/problems/sfvd7V
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class GroupAnagrams {
+public class Question033 {
 
-    public static void main(String[] args) {
-        String[] strs = new String[]{"eat", "tea", "tan", "ate", "nat", "bat"};
-        System.out.println(new GroupAnagrams().groupAnagrams(strs));
-    }
-
-    private List<List<String>> groupAnagrams(String[] strs) {
+    public List<List<String>> groupAnagrams(String[] strs) {
         Map<String, List<String>> map = new HashMap<>();
         // 遍历所有字符串
         for (String str : strs) {

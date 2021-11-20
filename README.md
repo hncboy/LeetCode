@@ -601,6 +601,8 @@
 | [剑指 Offer II 029](https://leetcode-cn.com/problems/4ueAj6/) | [排序的循环链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question029.java) | 中等 |
 | [剑指 Offer II 030](https://leetcode-cn.com/problems/FortPu/) | [插入、删除和随机访问都是 O(1) 的容器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question030.java) | 中等 |
 | [剑指 Offer II 031](https://leetcode-cn.com/problems/OrIXps/) | [最近最少使用缓存](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question031.java) | 中等 |
+| [剑指 Offer II 032](https://leetcode-cn.com/problems/dKk3P7/) | [有效的变位词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question032.java) | 简单 |
+| [剑指 Offer II 033](https://leetcode-cn.com/problems/sfvd7V/) | [变位词组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question033.java) | 中等 |
 | [剑指 Offer II 034](https://leetcode-cn.com/problems/lwyVBB/) | [外星语言是否排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question034.java) | 简单 |
 | [剑指 Offer II 035](https://leetcode-cn.com/problems/569nqc/) | [最小时间差](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question035.java) | 中等 |
 | [剑指 Offer II 036](https://leetcode-cn.com/problems/8Zf90G/) | [后缀表达式](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question036.java) | 中等 |
