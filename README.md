@@ -345,6 +345,7 @@
 | 840 | [矩阵中的幻方](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MagicSquaresInGrid.java) | 简单 |
 | 849 | [到最近的人的最大距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximizeDistanceToClosestPerson.java) | 简单 |
 | 852 | [山脉数组的峰顶索引](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PeakIndexInAMountainArray.java) | 简单 |
+| [859](https://leetcode-cn.com/problems/buddy-strings/) | [亲密字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BuddyStrings.java) | 简单 |
 | 861 | [翻转矩阵后的得分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ScoreAfterFlippingMatrix.java) | 中等 |
 | 867 | [转置矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TransposeMatrix.java) | 简单 |
 | [869](https://leetcode-cn.com/problems/reordered-power-of-2/) | [重新排序得到 2 的幂](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReorderedPowerOf2.java) | 中等 |
