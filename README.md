@@ -125,6 +125,7 @@
 | 126 | [单词接龙 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WordLadderII.java) | 困难 |
 | 127 | [单词接龙](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WordLadder.java) | 中等 |
 | 128 | [最长连续序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestConsecutiveSequence.java) | 困难 |
+| [129](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [求根节点到叶节点数字之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumRootToLeafNumbers.java) | 中等 |
 | 130 | [被围绕的区域](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SurroundedRegions.java) | 中等 |
 | 131 | [分割回文串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PalindromePartitioning.java) | 中等 |
 | 133 | [克隆图](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CloneGraph.java) | 中等 |
