@@ -622,6 +622,7 @@
 | [剑指 Offer II 038](https://leetcode-cn.com/problems/iIQa4I/) | [每日温度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question038.java) | 中等 |
 | [剑指 Offer II 041](https://leetcode-cn.com/problems/qIsx9U/) | [滑动窗口的平均值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question041.java) | 简单 |
 | [剑指 Offer II 042](https://leetcode-cn.com/problems/H8086Q/) | [最近请求次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question042.java) | 简单 |
+| [剑指 Offer II 044](https://leetcode-cn.com/problems/hPov7L/) | [二叉树每层的最大值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question044.java) | 中等 |
 | [剑指 Offer II 045](https://leetcode-cn.com/problems/LwUNpT/) | [二叉树最底层最左边的值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question045.java) | 中等 |
 | [剑指 Offer II 046](https://leetcode-cn.com/problems/WNC0Lk/) | [二叉树的右侧视图](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question046.java) | 中等 |
 | [剑指 Offer II 049](https://leetcode-cn.com/problems/3Etpl5/) | [从根节点到叶节点的路径数字之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question049.java) | 中等 |
