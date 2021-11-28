@@ -370,6 +370,7 @@
 | 914 | [卡牌分组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/XOfAKindInADeckOfCards.java) | 简单 |
 | 915 | [分割数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PartitionArrayIntoDisjointIntervals.java) | 中等 |
 | 918 | [环形子数组的最大和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumSumCircularSubarray.java) | 中等 |
+| [919](https://leetcode-cn.com/problems/complete-binary-tree-inserter/) | [完全二叉树插入器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CompleteBinaryTreeInserter.java) | 中等 |
 | 922 | [按奇偶排序数组 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SortArrayByParityII.java) | 简单 |
 | 926 | [将字符串翻转到单调递增](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FlipStringToMonotoneIncreasing.java) | 中等 |
 | [933](https://leetcode-cn.com/problems/number-of-recent-calls/) | [最近的请求次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfRecentCalls.java) | 简单 |
