@@ -631,6 +631,7 @@
 | [剑指 Offer II 046](https://leetcode-cn.com/problems/WNC0Lk/) | [二叉树的右侧视图](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question046.java) | 中等 |
 | [剑指 Offer II 047](https://leetcode-cn.com/problems/pOCWxh/) | [二叉树剪枝](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question047.java) | 中等 |
 | [剑指 Offer II 049](https://leetcode-cn.com/problems/3Etpl5/) | [从根节点到叶节点的路径数字之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question049.java) | 中等 |
+| [剑指 Offer II 050](https://leetcode-cn.com/problems/6eUYwP/) | [向下的路径节点之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question050.java) | 中等 |
 | [剑指 Offer II 052](https://leetcode-cn.com/problems/NYBBNL/) | [展平二叉搜索树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question052.java) | 简单 |
 | [剑指 Offer II 069](https://leetcode-cn.com/problems/B1IidL/) | [山峰数组的顶部](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question069.java) | 简单 |
 | [剑指 Offer II 088](https://leetcode-cn.com/problems/GzCJIP/) | [爬楼梯的最少成本](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question088.java) | 简单 |
