@@ -631,6 +631,7 @@
 | [剑指 Offer II 045](https://leetcode-cn.com/problems/LwUNpT/) | [二叉树最底层最左边的值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question045.java) | 中等 |
 | [剑指 Offer II 046](https://leetcode-cn.com/problems/WNC0Lk/) | [二叉树的右侧视图](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question046.java) | 中等 |
 | [剑指 Offer II 047](https://leetcode-cn.com/problems/pOCWxh/) | [二叉树剪枝](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question047.java) | 中等 |
+| [剑指 Offer II 048](https://leetcode-cn.com/problems/h54YBf/) | [序列化与反序列化二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question048.java) | 困难 |
 | [剑指 Offer II 049](https://leetcode-cn.com/problems/3Etpl5/) | [从根节点到叶节点的路径数字之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question049.java) | 中等 |
 | [剑指 Offer II 050](https://leetcode-cn.com/problems/6eUYwP/) | [向下的路径节点之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question050.java) | 中等 |
 | [剑指 Offer II 052](https://leetcode-cn.com/problems/NYBBNL/) | [展平二叉搜索树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question052.java) | 简单 |
