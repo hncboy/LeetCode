@@ -478,6 +478,7 @@
 | 1361 | [验证二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidateBinaryTreeNodes.java) | 中等 |
 | 1362 | [最接近的因数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ClosestDivisors.java) | 中等 |
 | [1436](https://leetcode-cn.com/problems/destination-city/) | [旅行终点站](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DestinationCity.java) | 简单 |
+| [1446](https://leetcode-cn.com/problems/consecutive-characters/) | [连续字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConsecutiveCharacters.java) | 简单 |
 | 1588 | [所有奇数长度子数组的和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfAllOddLengthSubarrays.java) | 简单 |
 | [2027](https://leetcode-cn.com/problems/minimum-moves-to-convert-string/) | [转换字符串的最少操作次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumMovesToConvertString.java) | 简单 |
 | [2028](https://leetcode-cn.com/problems/find-missing-observations/) | [找出缺失的观测数据](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindMissingObservations.java) | 中等 |
