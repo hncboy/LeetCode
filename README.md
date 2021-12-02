@@ -280,6 +280,7 @@
 | 495 | [提莫攻击](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TeemoAttacking.java) | 中等 |
 | [496](https://leetcode-cn.com/problems/next-greater-element-i/) | [下一个更大元素 I](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NextGreaterElementI.java) | 简单 |
 | [500](https://leetcode-cn.com/problems/keyboard-row/) | [键盘行](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KeyboardRow.java) | 简单 |
+| [506](https://leetcode-cn.com/problems/relative-ranks/) | [相对名次](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RelativeRanks.java) | 简单 |
 | 509 | [斐波那契数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FibonacciNumber.java) | 简单 |
 | [513](https://leetcode-cn.com/problems/find-bottom-left-tree-value/) | [找树左下角的值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindBottomLeftTreeValue.java) | 中等 |
 | [515](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/) | [在每个树行中找最大值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindLargestValueInEachTreeRow.java) | 中等 |
