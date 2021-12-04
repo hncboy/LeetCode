@@ -412,6 +412,7 @@
 | 1019 | [链表中的下一个更大节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NextGreaterNodeInLinkedList.java) | 中等 |
 | 1025 | [除数博弈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DivisorGame.java) | 简单 |
 | 1035 | [不相交的线](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UncrossedLines.java) | 中等 |
+| [1038](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree/) | [把二叉搜索树转换为累加树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinarySearchTreeToGreaterSumTree.java) | 中等 |
 | 1051 | [高度检查器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/HeightChecker.java) | 简单 |
 | 1052 | [爱生气的书店老板](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GrumpyBookstoreOwner.java) | 中等 |
 | 1053 | [交换一次的先前排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PreviousPermutationWithOneSwap.java) | 中等 |
