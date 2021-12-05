@@ -240,6 +240,7 @@
 | 365 | [水壶问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WaterAndJugProblem.java) | 中等 |
 | 367 | [有效的完全平方数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidPerfectSquare.java) | 简单 |
 | 371 | [两整数之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfTwoIntegers.java) | 简单 |
+| [372](https://leetcode-cn.com/problems/super-pow/) | [超级次方](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SuperPow.java) | 中等 |
 | 374 | [猜数字大小](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GuessNumberHigherOrLower.java) | 简单 |
 | [375](https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/) | [猜数字大小 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GuessNumberHigherOrLowerII.java) | 中等 |
 | 380 | [常数时间插入、删除和获取随机元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/InsertDeleteGetrandomO1.java) | 中等 |
