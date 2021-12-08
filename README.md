@@ -323,6 +323,7 @@
 | 674 | [最长连续递增序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestContinuousIncreasingSubsequence.java) | 简单 |
 | [677](https://leetcode-cn.com/problems/map-sum-pairs/) | [键值映射](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MapSumPairs.java) | 中等 |
 | [680](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [验证回文字符串 Ⅱ](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidPalindromeII.java) | 简单 |
+| [689](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [三个无重叠子数组的最大和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumSumOf3NonOverlappingSubarrays.java) | 困难 |
 | 693 | [交替位二进制数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryNumberWithAlternatingBits.java) | 简单 |
 | 695 | [岛屿的最大面积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxAreaOfIsland.java) | 中等 |
 | 697 | [数组的度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DegreeOfAnArray.java) | 简单 |
