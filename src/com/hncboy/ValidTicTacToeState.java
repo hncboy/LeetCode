@@ -5,9 +5,9 @@ package com.hncboy;
  * @date 2019/11/7 10:10
  * @description 794.有效的井字游戏
  *
- * 用字符串数组作为井字游戏的游戏板 board。当
+ * 用字符串数组作为井字游戏的游戏板 board。当
  * 且仅当在井字游戏过程中，玩家有可能将字符放置成游戏板所显示的状态时，才返回 true。
- * 该游戏板是一个 3 x 3 数组，由字符 " "，"X" 和 "O" 组成。字符 " " 代表一个空位。
+ * 该游戏板是一个 3 x 3 数组，由字符 " "，"X" 和 "O" 组成。字符 " " 代表一个空位。
  *
  * 以下是井字游戏的规则：
  * 玩家轮流将字符放入空位（" "）中。
@@ -18,7 +18,7 @@ package com.hncboy;
  * 如果游戏结束，玩家不允许再放置字符。
  *
  * 示例 1:
- * 输入: board = ["O  ", "   ", "   "]
+ * 输入: board = ["O  ", "   ", "   "]
  * 输出: false
  * 解释: 第一个玩家总是放置“X”。
  *
@@ -36,8 +36,9 @@ package com.hncboy;
  * 输出: true
  *
  * 说明:
- * 游戏板 board 是长度为 3 的字符串数组，其中每个字符串 board[i] 的长度为 3。
- *  board[i][j] 是集合 {" ", "X", "O"} 中的一个字符。
+ * 游戏板 board 是长度为 3 的字符串数组，其中每个字符串 board[i] 的长度为 3。
+ *  board[i][j] 是集合 {" ", "X", "O"} 中的一个字符。
+ *  通过次数 9,462 提交次数 26,298
  */
 public class ValidTicTacToeState {
 
@@ -53,66 +54,51 @@ public class ValidTicTacToeState {
         System.out.println(v.validTicTacToe(board4));
     }
 
-    private boolean validTicTacToe(String[] board) {
-        boolean[] xCount = new boolean[10];
-        boolean[] oCount = new boolean[10];
-        int xNum = 0;
-        int oNum = 0;
-        int index = 0;
-
-        for (String s : board) {
-            for (char c : s.toCharArray()) {
-                index++;
-                if (c == 'X') {
-                    xCount[index] = true;
-                    xNum++;
-                } else if (c == 'O') {
-                    oCount[index] = true;
-                    oNum++;
-                }
+    public boolean validTicTacToe(String[] board) {
+        int xCount = 0;
+        int oCount = 0;
+        // 遍历统计 O 和 X 的数量
+        for (String row : board) {
+            for (char ch : row.toCharArray()) {
+                xCount = (ch == 'X') ? (xCount + 1) : xCount;
+                oCount = (ch == 'O') ? (oCount + 1) : oCount;
             }
         }
 
-        /*
-         true 的情况：
-         1.当X和O的数量相等且X没有赢时
-         2.当X比O的数量多一个且O没有赢时
-         false 的情况：
-         1.O先走
-         2.O>X
-         3.X>O+1
-         4.等等
-         */
-        return xNum == oNum && !isSuccess(xCount) || xNum == oNum + 1 && !isSuccess(oCount);
+        // X 和 O 的条件必须满足：X==O || O=X-1
+        if (oCount != xCount && oCount != xCount - 1) {
+            return false;
+        }
+
+        // 如果 X 赢的话，X=O-1
+        if (win(board, 'X') && oCount != xCount - 1) {
+            return false;
+        }
+
+        // 如果 O 赢的话，X=O
+        if (win(board, 'O') && oCount != xCount) {
+            return false;
+        }
+        return true;
     }
 
-    /**
-     * 计算 X 或 O 是否胜利
-     *
-     * @param count
-     * @return
-     */
-    private boolean isSuccess(boolean[] count) {
-        /*
-         胜利的 8 中情况：
-         行：3种
-         列：3种
-         斜：2种
-         */
-        int[][] successes = {
-                {1, 2, 3},
-                {1, 4, 7},
-                {1, 5, 9},
-                {2, 5, 8},
-                {3, 6, 9},
-                {3, 5, 7},
-                {4, 5, 6},
-                {7, 8, 9}};
-
-        for (int[] success : successes) {
-            if (count[success[0]] && count[success[1]] && count[success[2]]) {
+    private boolean win(String[] board, char ch) {
+        // 遍历每一行和每一列，只要有一行或一列有 3 个一样的字符，则代表胜利
+        for (int i = 0; i < 3; ++i) {
+            if (ch == board[0].charAt(i) && ch == board[1].charAt(i) && ch == board[2].charAt(i)) {
                 return true;
             }
+            if (ch == board[i].charAt(0) && ch == board[i].charAt(1) && ch == board[i].charAt(2)) {
+                return true;
+            }
+        }
+
+        // 两条对角线胜利的情况
+        if (ch == board[0].charAt(0) && ch == board[1].charAt(1) && ch == board[2].charAt(2)) {
+            return true;
+        }
+        if (ch == board[0].charAt(2) && ch == board[1].charAt(1) && ch == board[2].charAt(0)) {
+            return true;
         }
         return false;
     }
