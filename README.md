@@ -235,6 +235,7 @@
 | [338](https://leetcode-cn.com/problems/counting-bits/) | [比特位计数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountingBits.java) | 简单 |
 | 343 | [整数拆分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntegerBreak.java) | 中等 |
 | 344 | [反转字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseString.java) | 简单 |
+| [347](https://leetcode-cn.com/problems/top-k-frequent-elements/) | [前 K 个高频元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TopKFrequentElements.java) | 中等 |
 | 349 | [两个数组的交集](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntersectionOfTwoArrays.java) | 简单 |
 | 350 | [两个数组的交集 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntersectionOfTwoArraysII.java) | 简单 |
 | [352](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/) | [将数据流变为多个不相交区间](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DataStreamAsDisjointIntervals.java) | 困难 |
