@@ -650,6 +650,7 @@
 | [剑指 Offer II 053](https://leetcode-cn.com/problems/P5rCT8/) | [二叉搜索树中的中序后继](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question053.java) | 中等 |
 | [剑指 Offer II 054](https://leetcode-cn.com/problems/w6cpku/) | [所有大于等于节点的值之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question054.java) | 中等 |
 | [剑指 Offer II 055](https://leetcode-cn.com/problems/kTOapQ/) | [二叉搜索树迭代器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question055.java) | 中等 |
+| [剑指 Offer II 056](https://leetcode-cn.com/problems/opLdQZ/) | [二叉搜索树中两个节点之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question055.java) | 简单 |
 | [剑指 Offer II 058](https://leetcode-cn.com/problems/fi9suh/) | [日程表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question058.java) | 中等 |
 | [剑指 Offer II 069](https://leetcode-cn.com/problems/B1IidL/) | [山峰数组的顶部](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question069.java) | 简单 |
 | [剑指 Offer II 088](https://leetcode-cn.com/problems/GzCJIP/) | [爬楼梯的最少成本](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question088.java) | 简单 |
