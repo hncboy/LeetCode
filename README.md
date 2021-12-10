@@ -343,6 +343,7 @@
 | 744 | [寻找比目标字母大的最小字母](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindSmallestLetterGreaterThanTarget.java) | 简单 |
 | 746 | [使用最小花费爬楼梯](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinCostClimbingStairs.java) | 简单 |
 | 747 | [至少是其他数字两倍的最大数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LargestNumberAtLeastTwiceOfOthers.java) | 简单 |
+| [748](https://leetcode-cn.com/problems/shortest-completing-word/) | [最短补全词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShortestCompletingWord.java) | 简单 |
 | 766 | [托普利茨矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ToeplitzMatrix.java) | 简单 |
 | 769 | [最多能完成排序的块](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxChunksToMakeSorted.java) | 中等 |
 | 771 | [宝石与石头](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/JewelsAndStones.java) | 简单 |
