@@ -357,6 +357,7 @@
 | 792 | [匹配子序列的单词数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfMatchingSubsequences.java) | 中等 |
 | 794 | [有效的井字游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTicTacToeState.java) | 中等 |
 | 795 | [区间子数组个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfSubarraysWithBoundedMaximum.java) | 中等 |
+| [807](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/) | [保持城市天际线](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxIncreaseToKeepCitySkyline.java) | 中等 |
 | [814](https://leetcode-cn.com/problems/binary-tree-pruning/) | [二叉树剪枝](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreePruning.java) | 中等 |
 | 820 | [单词的压缩编码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShortEncodingOfWords.java) | 中等 |
 | 825 | [适龄的朋友](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FriendsOfAppropriateAges.java) | 中等 |
