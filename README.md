@@ -95,6 +95,7 @@
 | 90 | [子集 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SubsetsII.java) | 中等 |
 | 91 | [解码方法](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DecodeWays.java) | 中等 |
 | 92 | [反转链表 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseLinkedListII.java) | 中等 |
+| [93](https://leetcode-cn.com/problems/restore-ip-addresses/) | [复原 IP 地址](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RestoreIpAddresses.java) | 中等 |
 | 94 | [二叉树的中序遍历](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreeInorderTraversal.java) | 中等 |
 | 95 | [不同的二叉搜索树 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UniqueBinarySearchTreesII.java) | 中等 |
 | 96 | [不同的二叉搜索树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UniqueBinarySearchTrees.java) | 中等 |
