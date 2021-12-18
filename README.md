@@ -652,6 +652,7 @@
 | [剑指 Offer II 037](https://leetcode-cn.com/problems/XagZNi/) | [小行星碰撞](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question037.java) | 中等 |
 | [剑指 Offer II 038](https://leetcode-cn.com/problems/iIQa4I/) | [每日温度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question038.java) | 中等 |
 | [剑指 Offer II 039](https://leetcode-cn.com/problems/0ynMMM/) | [直方图最大矩形面积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question039.java) | 困难 |
+| [剑指 Offer II 040](https://leetcode-cn.com/problems/PLYXKQ/) | [矩阵中最大的矩形](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question040.java) | 困难 |
 | [剑指 Offer II 041](https://leetcode-cn.com/problems/qIsx9U/) | [滑动窗口的平均值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question041.java) | 简单 |
 | [剑指 Offer II 042](https://leetcode-cn.com/problems/H8086Q/) | [最近请求次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question042.java) | 简单 |
 | [剑指 Offer II 043](https://leetcode-cn.com/problems/NaqhDT/) | [往完全二叉树添加节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question043.java) | 中等 |
