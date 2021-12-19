@@ -669,6 +669,7 @@
 | [剑指 Offer II 054](https://leetcode-cn.com/problems/w6cpku/) | [所有大于等于节点的值之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question054.java) | 中等 |
 | [剑指 Offer II 055](https://leetcode-cn.com/problems/kTOapQ/) | [二叉搜索树迭代器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question055.java) | 中等 |
 | [剑指 Offer II 056](https://leetcode-cn.com/problems/opLdQZ/) | [二叉搜索树中两个节点之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question055.java) | 简单 |
+| [剑指 Offer II 057](https://leetcode-cn.com/problems/7WqeDu/) | [值和下标之差都在给定的范围内](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question057.java) | 中等 |
 | [剑指 Offer II 058](https://leetcode-cn.com/problems/fi9suh/) | [日程表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question058.java) | 中等 |
 | [剑指 Offer II 060](https://leetcode-cn.com/problems/g5c51o/) | [出现频率最高的 k 个数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question060.java) | 中等 |
 | [剑指 Offer II 061](https://leetcode-cn.com/problems/qn8gGX/) | [和最小的 k 个数对](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question061.java) | 中等 |
