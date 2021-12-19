@@ -674,6 +674,7 @@
 | [剑指 Offer II 058](https://leetcode-cn.com/problems/fi9suh/) | [日程表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question058.java) | 中等 |
 | [剑指 Offer II 060](https://leetcode-cn.com/problems/g5c51o/) | [出现频率最高的 k 个数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question060.java) | 中等 |
 | [剑指 Offer II 061](https://leetcode-cn.com/problems/qn8gGX/) | [和最小的 k 个数对](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question061.java) | 中等 |
+| [剑指 Offer II 062](https://leetcode-cn.com/problems/QC3q1f/) | [实现前缀树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question062.java) | 简单 |
 | [剑指 Offer II 063](https://leetcode-cn.com/problems/UhWRSj/) | [替换单词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question063.java) | 中等 |
 | [剑指 Offer II 064](https://leetcode-cn.com/problems/US1pGT/) | [神奇的字典](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question064.java) | 中等 |
 | [剑指 Offer II 069](https://leetcode-cn.com/problems/B1IidL/) | [山峰数组的顶部](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question069.java) | 简单 |
