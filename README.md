@@ -372,6 +372,7 @@
 | 836 | [矩形重叠](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RectangleOverlap.java) | 简单 |
 | 840 | [矩阵中的幻方](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MagicSquaresInGrid.java) | 简单 |
 | 849 | [到最近的人的最大距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximizeDistanceToClosestPerson.java) | 简单 |
+| [851](https://leetcode-cn.com/problems/loud-and-rich/) | [喧闹和富有](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LoudAndRich.java) | 中等 |
 | 852 | [山脉数组的峰顶索引](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PeakIndexInAMountainArray.java) | 简单 |
 | [859](https://leetcode-cn.com/problems/buddy-strings/) | [亲密字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BuddyStrings.java) | 简单 |
 | 861 | [翻转矩阵后的得分](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ScoreAfterFlippingMatrix.java) | 中等 |
