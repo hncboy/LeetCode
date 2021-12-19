@@ -183,6 +183,7 @@
 | 216 | [组合总和 III](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CombinationSumIII.java) | 中等 |
 | 217 | [存在重复元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ContainsDuplicate.java) | 简单 |
 | 219 | [存在重复元素 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ContainsDuplicateII.java) | 简单 |
+| [220](https://leetcode-cn.com/problems/contains-duplicate-iii/) | [存在重复元素 III](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ContainsDuplicateIii.java) | 中等 |
 | 221 | [最大正方形](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximalSquare.java) | 中等 |
 | 223 | [矩形面积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RectangleArea.java) | 中等 |
 | 225 | [用队列实现栈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ImplementStackUsingQueues.java) | 简单 |
