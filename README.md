@@ -684,3 +684,4 @@
 | [剑指 Offer II 073](https://leetcode-cn.com/problems/nZZqjQ/) | [狒狒吃香蕉](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question073.java) | 中等 |
 | [剑指 Offer II 087](https://leetcode-cn.com/problems/0on3uN/) | [复原 IP](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question087.java) | 中等 |
 | [剑指 Offer II 088](https://leetcode-cn.com/problems/GzCJIP/) | [爬楼梯的最少成本](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question088.java) | 简单 |
+| [剑指 Offer II 089](https://leetcode-cn.com/problems/Gu0c2T/) | [房屋偷盗](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question089.java) | 中等 |
