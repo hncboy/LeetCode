@@ -446,6 +446,7 @@
 | 1128 | [等价多米诺骨牌对的数量](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfEquivalentDominoPairs.java) | 简单 |
 | 1143 | [最长公共子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestCommonSubsequence.java) | 中等 |
 | 1144 | [递减元素使数组呈锯齿状](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DecreaseElementsToMakeArrayZigzag.java) | 中等 |
+| [1154](https://leetcode-cn.com/problems/day-of-the-year/) | [一年中的第几天](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DayOfTheYear.java) | 简单 |
 | 1160 | [拼写单词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindWordsThatCanBeFormedByCharacters.java) | 简单 |
 | 1162 | [地图分析](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AsFarFromLandAsPossible.java) | 中等 |
 | 1171 | [从链表中删去总和值为零的连续节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveZeroSumConsecutiveNodesFromLinkedList.java) | 中等 |
