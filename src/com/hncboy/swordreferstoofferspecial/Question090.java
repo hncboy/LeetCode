@@ -1,15 +1,15 @@
-package com.hncboy;
+package com.hncboy.swordreferstoofferspecial;
 
 import java.util.Arrays;
 
 /**
  * @author hncboy
- * @date 2019/10/23 10:17
- * @description 213.打家劫舍 II
- *
- * 你是一个专业的小偷，计划偷窃沿街的房屋，每间房内都藏有一定的现金。这个地方所有的房屋都 围成一圈 ，这意味着第一个房屋和最后一个房屋是紧挨着的。
- * 同时，相邻的房屋装有相互连通的防盗系统，如果两间相邻的房屋在同一晚上被小偷闯入，系统会自动报警 。
- * 给定一个代表每个房屋存放金额的非负整数数组，计算你 在不触动警报装置的情况下 ，今晚能够偷窃到的最高金额。
+ * @date 2021/12/21 8:54
+ * @description 剑指 Offer II 090.环形房屋偷盗
+ * 
+ * 一个专业的小偷，计划偷窃一个环形街道上沿街的房屋，每间房内都藏有一定的现金。这个地方所有的房屋都 围成一圈 ，
+ * 这意味着第一个房屋和最后一个房屋是紧挨着的。同时，相邻的房屋装有相互连通的防盗系统，如果两间相邻的房屋在同一晚上被小偷闯入，系统会自动报警 。
+ * 给定一个代表每个房屋存放金额的非负整数数组 nums ，请计算 在不触动警报装置的情况下 ，今晚能够偷窃到的最高金额。
  *
  * 示例 1：
  * 输入：nums = [2,3,2]
@@ -29,21 +29,15 @@ import java.util.Arrays;
  * 提示：
  * 1 <= nums.length <= 100
  * 0 <= nums[i] <= 1000
- * 通过次数 188,541 提交次数 434,231
+ *
+ * 注意：本题与主站 213 题 {@link com.hncboy.HouseRobberII} 相同： https://leetcode-cn.com/problems/house-robber-ii/
+ * 通过次数 2,856 提交次数 5,729
  *
  * 来源：力扣（LeetCode）
- * 链接：https://leetcode-cn.com/problems/house-robber-ii
+ * 链接：https://leetcode-cn.com/problems/PzWKhm
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class HouseRobberII {
-
-    public static void main(String[] args) {
-        HouseRobberII h = new HouseRobberII();
-        int[] nums1 = new int[]{2, 3, 2};
-        int[] nums2 = new int[]{1, 2, 3, 1};
-        System.out.println(h.rob(nums1));
-        System.out.println(h.rob(nums2));
-    }
+public class Question090 {
 
     public int rob(int[] nums) {
         if (nums.length == 0) {
