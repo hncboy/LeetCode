@@ -686,6 +686,7 @@
 | [剑指 Offer II 063](https://leetcode-cn.com/problems/UhWRSj/) | [替换单词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question063.java) | 中等 |
 | [剑指 Offer II 064](https://leetcode-cn.com/problems/US1pGT/) | [神奇的字典](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question064.java) | 中等 |
 | [剑指 Offer II 069](https://leetcode-cn.com/problems/B1IidL/) | [山峰数组的顶部](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question069.java) | 简单 |
+| [剑指 Offer II 071](https://leetcode-cn.com/problems/cuyjEf/) | [按权重生成随机数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question069.java) | 中等 |
 | [剑指 Offer II 073](https://leetcode-cn.com/problems/nZZqjQ/) | [狒狒吃香蕉](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question073.java) | 中等 |
 | [剑指 Offer II 087](https://leetcode-cn.com/problems/0on3uN/) | [复原 IP](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question087.java) | 中等 |
 | [剑指 Offer II 088](https://leetcode-cn.com/problems/GzCJIP/) | [爬楼梯的最少成本](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question088.java) | 简单 |
