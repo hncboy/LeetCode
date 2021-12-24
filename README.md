@@ -298,6 +298,7 @@
 | 520 | [检测大写字母](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DetectCapital.java) | 简单 |
 | [525](https://leetcode-cn.com/problems/contiguous-array/) | [连续数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ContiguousArray.java) | 中等 |
 | 526 | [优美的排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BeautifulArrangement.java) | 中等 |
+| [528](https://leetcode-cn.com/problems/random-pick-with-weight/) | [按权重随机选择](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RandomPickWithWeight.java) | 中等 |
 | 532 | [数组中的K-diff数对](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KDiffPairsInAnArray.java) | 简单 |
 | [538](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/) | [把二叉搜索树转换为累加树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConvertBstToGreaterTree.java) | 中等 |
 | [539](https://leetcode-cn.com/problems/minimum-time-difference/) | [最小时间差](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumTimeDifference.java) | 中等 |
