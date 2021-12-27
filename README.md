@@ -370,7 +370,7 @@
 | 795 | [区间子数组个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfSubarraysWithBoundedMaximum.java) | 中等 |
 | [807](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/) | [保持城市天际线](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxIncreaseToKeepCitySkyline.java) | 中等 |
 | [814](https://leetcode-cn.com/problems/binary-tree-pruning/) | [二叉树剪枝](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreePruning.java) | 中等 |
-| 820 | [单词的压缩编码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShortEncodingOfWords.java) | 中等 |
+| [820](https://leetcode-cn.com/problems/short-encoding-of-words/) | [单词的压缩编码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShortEncodingOfWords.java) | 中等 |
 | [825](https://leetcode-cn.com/problems/friends-of-appropriate-ages/) | [适龄的朋友](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FriendsOfAppropriateAges.java) | 中等 |
 | 830 | [较大分组的位置](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PositionsOfLargeGroups.java) | 简单 |
 | 832 | [翻转图像](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FlippingAnImage.java) | 简单 |
@@ -689,6 +689,7 @@
 | [剑指 Offer II 062](https://leetcode-cn.com/problems/QC3q1f/) | [实现前缀树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question062.java) | 简单 |
 | [剑指 Offer II 063](https://leetcode-cn.com/problems/UhWRSj/) | [替换单词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question063.java) | 中等 |
 | [剑指 Offer II 064](https://leetcode-cn.com/problems/US1pGT/) | [神奇的字典](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question064.java) | 中等 |
+| [剑指 Offer II 065](https://leetcode-cn.com/problems/iSwD2y/) | [最短的单词编码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question065.java) | 中等 |
 | [剑指 Offer II 069](https://leetcode-cn.com/problems/B1IidL/) | [山峰数组的顶部](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question069.java) | 简单 |
 | [剑指 Offer II 071](https://leetcode-cn.com/problems/cuyjEf/) | [按权重生成随机数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question069.java) | 中等 |
 | [剑指 Offer II 073](https://leetcode-cn.com/problems/nZZqjQ/) | [狒狒吃香蕉](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question073.java) | 中等 |

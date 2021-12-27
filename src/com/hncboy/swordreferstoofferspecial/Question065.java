@@ -1,15 +1,15 @@
-package com.hncboy;
+package com.hncboy.swordreferstoofferspecial;
 
 /**
  * @author hncboy
- * @date 2020/3/28 22:26
- * 820.单词的压缩编码
+ * @date 2021/12/27 9:18
+ * 剑指 Offer II 065.最短的单词编码
  * 
  * 单词数组 words 的 有效编码 由任意助记字符串 s 和下标数组 indices 组成，且满足：
  * words.length == indices.length
  * 助记字符串 s 以 '#' 字符结尾
  * 对于每个下标 indices[i] ，s 的一个从 indices[i] 开始、到下一个 '#' 字符结束（但不包括 '#'）的 子字符串 恰好与 words[i] 相等
- * 给你一个单词数组 words ，返回成功对 words 进行编码的最小助记字符串 s 的长度 。
+ * 给定一个单词数组 words ，返回成功对 words 进行编码的最小助记字符串 s 的长度 。
  *
  * 示例 1：
  * 输入：words = ["time", "me", "bell"]
@@ -23,23 +23,20 @@ package com.hncboy;
  * 输入：words = ["t"]
  * 输出：2
  * 解释：一组有效编码为 s = "t#" 和 indices = [0] 。
- *  
+ *
  * 提示：
  * 1 <= words.length <= 2000
  * 1 <= words[i].length <= 7
  * words[i] 仅由小写字母组成
- * 通过次数 57,161 提交次数 112,179
+ *
+ * 注意：本题与主站 820 题 {@link com.hncboy.ShortEncodingOfWords} 相同： https://leetcode-cn.com/problems/short-encoding-of-words/
+ * 通过次数 2,260 提交次数 3,495
  *
  * 来源：力扣（LeetCode）
- * 链接：https://leetcode-cn.com/problems/short-encoding-of-words
+ * 链接：https://leetcode-cn.com/problems/iSwD2y
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class ShortEncodingOfWords {
-
-    public static void main(String[] args) {
-        ShortEncodingOfWords s = new ShortEncodingOfWords();
-        System.out.println(s.minimumLengthEncoding(new String[]{"time", "me", "bell", "ttime", "tttime"}));
-    }
+public class Question065 {
 
     public int minimumLengthEncoding(String[] words) {
         int count = 0;
