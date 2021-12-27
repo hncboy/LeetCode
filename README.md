@@ -371,7 +371,7 @@
 | [807](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/) | [保持城市天际线](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxIncreaseToKeepCitySkyline.java) | 中等 |
 | [814](https://leetcode-cn.com/problems/binary-tree-pruning/) | [二叉树剪枝](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreePruning.java) | 中等 |
 | 820 | [单词的压缩编码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShortEncodingOfWords.java) | 中等 |
-| 825 | [适龄的朋友](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FriendsOfAppropriateAges.java) | 中等 |
+| [825](https://leetcode-cn.com/problems/friends-of-appropriate-ages/) | [适龄的朋友](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FriendsOfAppropriateAges.java) | 中等 |
 | 830 | [较大分组的位置](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PositionsOfLargeGroups.java) | 简单 |
 | 832 | [翻转图像](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FlippingAnImage.java) | 简单 |
 | 835 | [图像重叠](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ImageOverlap.java) | 中等 |
