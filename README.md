@@ -378,6 +378,7 @@
 | 835 | [图像重叠](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ImageOverlap.java) | 中等 |
 | 836 | [矩形重叠](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RectangleOverlap.java) | 简单 |
 | 840 | [矩阵中的幻方](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MagicSquaresInGrid.java) | 简单 |
+| [846](https://leetcode-cn.com/problems/hand-of-straights/) | [一手顺子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/HandOfStraights.java) | 中等 |
 | 849 | [到最近的人的最大距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximizeDistanceToClosestPerson.java) | 简单 |
 | [851](https://leetcode-cn.com/problems/loud-and-rich/) | [喧闹和富有](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LoudAndRich.java) | 中等 |
 | 852 | [山脉数组的峰顶索引](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PeakIndexInAMountainArray.java) | 简单 |
@@ -482,7 +483,7 @@
 | 1290 | [二进制链表转整数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConvertBinaryNumberInALinkedListToInteger.java) | 简单 |
 | 1291 | [顺次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SequentialDigits.java) | 中等 |
 | 1295 | [统计位数为偶数的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindNumbersWithEvenNumberOfDigits.java) | 简单 |
-| 1296 | [划分数组为连续数字的集合](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DivideArrayInSetsOfKConsecutiveNumbers.java) | 中等 |
+| [1296](https://leetcode-cn.com/problems/divide-array-in-sets-of-k-consecutive-numbers/) | [划分数组为连续数字的集合](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DivideArrayInSetsOfKConsecutiveNumbers.java) | 中等 |
 | 1297 | [子串的最大出现次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNumberOfOccurrencesOfASubstring.java) | 中等 |
 | 1298 | [你能从盒子里获得的最大糖果数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumCandiesYouCanGetFromBoxes.java) | 困难 |
 | 1299 | [将每个元素替换为右侧最大元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReplaceElementsWithGreatestElementOnRightSide.java) | 简单 |
