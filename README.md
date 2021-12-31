@@ -696,6 +696,7 @@
 | [剑指 Offer II 064](https://leetcode-cn.com/problems/US1pGT/) | [神奇的字典](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question064.java) | 中等 |
 | [剑指 Offer II 065](https://leetcode-cn.com/problems/iSwD2y/) | [最短的单词编码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question065.java) | 中等 |
 | [剑指 Offer II 066](https://leetcode-cn.com/problems/z1R5dt/) | [单词之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question066.java) | 中等 |
+| [剑指 Offer II 067](https://leetcode-cn.com/problems/ms70jA/) | [最大的异或](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question066.java) | 中等 |
 | [剑指 Offer II 068](https://leetcode-cn.com/problems/N6YdxV/) | [查找插入位置](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question068.java) | 简单 |
 | [剑指 Offer II 069](https://leetcode-cn.com/problems/B1IidL/) | [山峰数组的顶部](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question069.java) | 简单 |
 | [剑指 Offer II 071](https://leetcode-cn.com/problems/cuyjEf/) | [按权重生成随机数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question069.java) | 中等 |
