@@ -269,6 +269,7 @@
 | 412 | [Fizz Buzz](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FizzBuzz.java) | 简单 |
 | 414 | [第三大的数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ThirdMaximumNumber.java) | 简单 |
 | [419](https://leetcode-cn.com/problems/battleships-in-a-board/) | [甲板上的战舰](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BattleshipsInABoard.java) | 中等 |
+| [421](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [数组中两个数的最大异或值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumXorOfTwoNumbersInAnArray.java) | 中等 |
 | [423](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/) | [从英文中重建数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReconstructOriginalDigitsFromEnglish.java) | 中等 |
 | 430 | [扁平化多级双向链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FlattenAMultilevelDoublyLinkedList.java) | 中等 |
 | [434](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | [字符串中的单词数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfSegmentsInAString.java) | 简单 |
@@ -293,6 +294,7 @@
 | [496](https://leetcode-cn.com/problems/next-greater-element-i/) | [下一个更大元素 I](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NextGreaterElementI.java) | 简单 |
 | [500](https://leetcode-cn.com/problems/keyboard-row/) | [键盘行](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KeyboardRow.java) | 简单 |
 | [506](https://leetcode-cn.com/problems/relative-ranks/) | [相对名次](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RelativeRanks.java) | 简单 |
+| [507](https://leetcode-cn.com/problems/perfect-number/) | [完美数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PerfectNumber.java) | 简单 |
 | 509 | [斐波那契数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FibonacciNumber.java) | 简单 |
 | [513](https://leetcode-cn.com/problems/find-bottom-left-tree-value/) | [找树左下角的值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindBottomLeftTreeValue.java) | 中等 |
 | [515](https://leetcode-cn.com/problems/find-largest-value-in-each-tree-row/) | [在每个树行中找最大值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindLargestValueInEachTreeRow.java) | 中等 |
