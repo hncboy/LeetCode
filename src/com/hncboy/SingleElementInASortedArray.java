@@ -1,13 +1,13 @@
-package com.hncboy.swordreferstoofferspecial;
-
-import com.hncboy.SingleElementInASortedArray;
+package com.hncboy;
 
 /**
  * @author hncboy
- * @date 2022/1/1 16:19
- * 剑指 Offer II 070.排序数组中只出现一次的数字
+ * @date 2022/1/1 16:22
+ * 540.有序数组中的单一元素
  *
- * 给定一个只包含整数的有序数组 nums ，每个元素都会出现两次，唯有一个数只会出现一次，请找出这个唯一的数字。
+ * 给你一个仅由整数组成的有序数组，其中每个元素都会出现两次，唯有一个数只会出现一次。
+ * 请你找出并返回只出现一次的那个数。
+ * 你设计的解决方案必须满足 O(log n) 时间复杂度和 O(1) 空间复杂度。
  *
  * 示例 1:
  * 输入: nums = [1,1,2,3,3,4,4,8,8]
@@ -20,15 +20,13 @@ import com.hncboy.SingleElementInASortedArray;
  * 提示:
  * 1 <= nums.length <= 105
  * 0 <= nums[i] <= 105
- *
- * 进阶: 采用的方案可以在 O(log n) 时间复杂度和 O(1) 空间复杂度中运行吗？
- * 注意：本题与主站 540 题 {@link SingleElementInASortedArray} 相同：https://leetcode-cn.com/problems/single-element-in-a-sorted-array/
+ * 通过次数 43,509 提交次数 74,516
  *
  * 来源：力扣（LeetCode）
- * 链接：https://leetcode-cn.com/problems/skFtm2
+ * 链接：https://leetcode-cn.com/problems/single-element-in-a-sorted-array
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class Question70 {
+public class SingleElementInASortedArray {
 
     public int singleNonDuplicate2(int[] nums) {
         int left = 0;
