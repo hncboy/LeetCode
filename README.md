@@ -523,6 +523,7 @@
 | [1705](https://leetcode-cn.com/problems/maximum-number-of-eaten-apples/) | [吃苹果的最大数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNumberOfEatenApples.java) | 中等 |
 | [1816](https://leetcode-cn.com/problems/truncate-sentence/) | [截断句子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TruncateSentence.java) | 简单 |
 | [1995](https://leetcode-cn.com/problems/count-special-quadruplets/) | [统计特殊四元组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountSpecialQuadruplets.java) | 简单 |
+| [2022](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/) | [将一维数组转变成二维数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Convert1dArrayInto2dArray.java) | 简单 |
 | [2027](https://leetcode-cn.com/problems/minimum-moves-to-convert-string/) | [转换字符串的最少操作次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumMovesToConvertString.java) | 简单 |
 | [2028](https://leetcode-cn.com/problems/find-missing-observations/) | [找出缺失的观测数据](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindMissingObservations.java) | 中等 |
 | [2032](https://leetcode-cn.com/problems/two-out-of-three/) | [至少在两个数组中出现的值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TwoOutOfThree.java) | 简单 |
