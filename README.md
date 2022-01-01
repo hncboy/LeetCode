@@ -700,6 +700,7 @@
 | [剑指 Offer II 067](https://leetcode-cn.com/problems/ms70jA/) | [最大的异或](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question066.java) | 中等 |
 | [剑指 Offer II 068](https://leetcode-cn.com/problems/N6YdxV/) | [查找插入位置](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question068.java) | 简单 |
 | [剑指 Offer II 069](https://leetcode-cn.com/problems/B1IidL/) | [山峰数组的顶部](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question069.java) | 简单 |
+| [剑指 Offer II 070](https://leetcode-cn.com/problems/skFtm2/) | [排序数组中只出现一次的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question070.java) | 中等 |
 | [剑指 Offer II 071](https://leetcode-cn.com/problems/cuyjEf/) | [按权重生成随机数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question069.java) | 中等 |
 | [剑指 Offer II 073](https://leetcode-cn.com/problems/nZZqjQ/) | [狒狒吃香蕉](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question073.java) | 中等 |
 | [剑指 Offer II 087](https://leetcode-cn.com/problems/0on3uN/) | [复原 IP](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question087.java) | 中等 |
