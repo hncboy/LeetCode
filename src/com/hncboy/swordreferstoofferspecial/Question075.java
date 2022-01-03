@@ -1,13 +1,11 @@
-package com.hncboy;
-
-import java.util.Arrays;
+package com.hncboy.swordreferstoofferspecial;
 
 /**
  * @author hncboy
- * @date 2019/12/24 2:43
- * 1122.数组的相对排序
- *
- * 给你两个数组，arr1 和 arr2，
+ * @date 2022/1/3 15:02
+ * 剑指 Offer II 075.数组相对排序
+ * 
+ * 给定两个数组，arr1 和 arr2，
  * arr2 中的元素各不相同
  * arr2 中的每个元素都出现在 arr1 中
  * 对 arr1 中的元素进行排序，使 arr1 中项的相对顺序和 arr2 中的相对顺序相同。未在 arr2 中出现过的元素需要按照升序放在 arr1 的末尾。
@@ -21,20 +19,15 @@ import java.util.Arrays;
  * 0 <= arr1[i], arr2[i] <= 1000
  * arr2 中的元素 arr2[i] 各不相同
  * arr2 中的每个元素 arr2[i] 都出现在 arr1 中
- * 通过次数 67,913 提交次数 96,066
+ *  
+ * 注意：本题与主站 1122 题 {@link com.hncboy.RelativeSortArray} 相同：https://leetcode-cn.com/problems/relative-sort-array/
+ * 通过次数 4,987 提交次数 6,958
  *
  * 来源：力扣（LeetCode）
- * 链接：https://leetcode-cn.com/problems/relative-sort-array
+ * 链接：https://leetcode-cn.com/problems/0H97ZC
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class RelativeSortArray {
-
-    public static void main(String[] args) {
-        RelativeSortArray r = new RelativeSortArray();
-        int[] arr1 = {2, 3, 1, 3, 2, 4, 6, 7, 9, 2, 19};
-        int[] arr2 = {2, 1, 4, 3, 9, 6};
-        System.out.println(Arrays.toString(r.relativeSortArray(arr1, arr2)));
-    }
+public class Question075 {
 
     public int[] relativeSortArray(int[] arr1, int[] arr2) {
         int[] count = new int[1001];
