@@ -462,6 +462,7 @@
 | 1162 | [地图分析](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AsFarFromLandAsPossible.java) | 中等 |
 | 1171 | [从链表中删去总和值为零的连续节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveZeroSumConsecutiveNodesFromLinkedList.java) | 中等 |
 | 1173 | [第 N 个泰波那契数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NThTribonacciNumber.java) | 简单 |
+| [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [一周中的第几天](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DayOfTheWeek.java) | 简单 |
 | 1200 | [最小绝对差](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumAbsoluteDifference.java) | 简单 |
 | 1217 | [玩筹码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PlayWithChips.java) | 简单 |
 | 1218 | [最长定差子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestArithmeticSubsequenceOfGivenDifference.java) | 中等 |
