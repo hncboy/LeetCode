@@ -1,4 +1,4 @@
-package com.hncboy;
+package com.hncboy.swordreferstoofferspecial;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -7,9 +7,9 @@ import java.util.List;
 
 /**
  * @author hncboy
- * @date 2019/10/6 10:13
- * 56.合并区间
- *
+ * @date 2022/1/3 14:31
+ * 剑指 Offer II 074.合并区间
+ * 
  * 以数组 intervals 表示若干个区间的集合，其中单个区间为 intervals[i] = [starti, endi] 。
  * 请你合并所有重叠的区间，并返回一个不重叠的区间数组，该数组需恰好覆盖输入中的所有区间。
  *
@@ -22,23 +22,20 @@ import java.util.List;
  * 输入：intervals = [[1,4],[4,5]]
  * 输出：[[1,5]]
  * 解释：区间 [1,4] 和 [4,5] 可被视为重叠区间。
- *
+ *  
  * 提示：
  * 1 <= intervals.length <= 104
  * intervals[i].length == 2
  * 0 <= starti <= endi <= 104
- * 通过次数 344,050 提交次数 724,795
+ *
+ * 注意：本题与主站 56 题 {@link com.hncboy.MergeIntervals} 相同： https://leetcode-cn.com/problems/merge-intervals/
+ * 通过次数 4,785 提交次数 8,366
  *
  * 来源：力扣（LeetCode）
- * 链接：https://leetcode-cn.com/problems/merge-intervals
+ * 链接：https://leetcode-cn.com/problems/SsGoHC
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class MergeIntervals {
-
-    public static void main(String[] args) {
-        int[][] intervals = new int[][]{{1, 3}, {2, 6}, {8, 10}, {15, 18}};
-        System.out.println(new MergeIntervals().merge(intervals));
-    }
+public class Question074 {
 
     public int[][] merge(int[][] intervals) {
         List<int[]> mergeList = new ArrayList<>();
