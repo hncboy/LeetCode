@@ -1,38 +1,36 @@
-package com.hncboy;
+package com.hncboy.swordreferstoofferspecial;
 
 /**
  * @author hncboy
- * @date 2019/9/19 12:23
- * 69.x 的平方根
+ * @date 2022/1/3 14:21
+ * 剑指 Offer II 072.求平方根
+ * 
+ * 给定一个非负整数 x ，计算并返回 x 的平方根，即实现 int sqrt(int x) 函数。
+ * 正数的平方根有两个，只输出其中的正数平方根。
+ * 如果平方根不是整数，输出只保留整数的部分，小数部分将被舍去。
  *
- * 给你一个非负整数 x ，计算并返回 x 的 算术平方根 。
- * 由于返回类型是整数，结果只保留 整数部分 ，小数部分将被 舍去 。
- * 注意：不允许使用任何内置指数函数和算符，例如 pow(x, 0.5) 或者 x ** 0.5 。
+ * 示例 1:
+ * 输入: x = 4
+ * 输出: 2
+ * 示例 2:
  *
- * 示例 1：
- * 输入：x = 4
- * 输出：2
- * 示例 2：
+ * 输入: x = 8
+ * 输出: 2
+ * 解释: 8 的平方根是 2.82842...，由于小数部分将被舍去，所以返回 2
  *
- * 输入：x = 8
- * 输出：2
- * 解释：8 的算术平方根是 2.82842..., 由于返回类型是整数，小数部分将被舍去。
- *
- * 提示：
+ * 提示:
  * 0 <= x <= 231 - 1
- * 通过次数 432,911 提交次数 1,108,145
+ *
+ * 注意：本题与主站 69 题 {@link com.hncboy.SqrtX} 相同： https://leetcode-cn.com/problems/sqrtx/
+ * 通过次数 7,127 提交次数 17,000
  *
  * 来源：力扣（LeetCode）
- * 链接：https://leetcode-cn.com/problems/sqrtx
+ * 链接：https://leetcode-cn.com/problems/jJ0w9p
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class SqrtX {
+public class Question072 {
 
     private int n;
-
-    public static void main(String[] args) {
-        System.out.println(new SqrtX().mySqrt2(20));
-    }
 
     /**
      * 二分查找法

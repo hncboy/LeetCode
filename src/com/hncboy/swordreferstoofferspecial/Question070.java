@@ -28,7 +28,7 @@ import com.hncboy.SingleElementInASortedArray;
  * 链接：https://leetcode-cn.com/problems/skFtm2
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class Question70 {
+public class Question070 {
 
     public int singleNonDuplicate2(int[] nums) {
         int left = 0;
