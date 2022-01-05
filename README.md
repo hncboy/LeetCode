@@ -712,6 +712,7 @@
 | [剑指 Offer II 074](https://leetcode-cn.com/problems/SsGoHC/) | [合并区间](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question074.java) | 中等 |
 | [剑指 Offer II 075](https://leetcode-cn.com/problems/0H97ZC/) | [数组相对排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question075.java) | 简单 |
 | [剑指 Offer II 081](https://leetcode-cn.com/problems/Ygoe9J/) | [允许重复选择元素的组合](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question081.java) | 中等 |
+| [剑指 Offer II 082](https://leetcode-cn.com/problems/4sjJUc/) | [含有重复元素集合的组合](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question082.java) | 中等 |
 | [剑指 Offer II 087](https://leetcode-cn.com/problems/0on3uN/) | [复原 IP](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question087.java) | 中等 |
 | [剑指 Offer II 088](https://leetcode-cn.com/problems/GzCJIP/) | [爬楼梯的最少成本](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question088.java) | 简单 |
 | [剑指 Offer II 089](https://leetcode-cn.com/problems/Gu0c2T/) | [房屋偷盗](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question089.java) | 中等 |
