@@ -521,6 +521,7 @@
 | [1436](https://leetcode-cn.com/problems/destination-city/) | [旅行终点站](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DestinationCity.java) | 简单 |
 | [1446](https://leetcode-cn.com/problems/consecutive-characters/) | [连续字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConsecutiveCharacters.java) | 简单 |
 | [1518](https://leetcode-cn.com/problems/water-bottles/) | [换酒问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WaterBottles.java) | 简单 |
+| [1576](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [替换所有的问号](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReplaceAllSToAvoidConsecutiveRepeatingCharacters.java) | 简单 |
 | 1588 | [所有奇数长度子数组的和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfAllOddLengthSubarrays.java) | 简单 |
 | [1609](https://leetcode-cn.com/problems/even-odd-tree/) | [奇偶树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/EvenOddTree.java) | 中等 |
 | [1610](https://leetcode-cn.com/problems/maximum-number-of-visible-points/) | [可见点的最大数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNumberOfVisiblePoints.java) | 困难 |
