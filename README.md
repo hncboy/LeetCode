@@ -719,5 +719,6 @@
 | [剑指 Offer II 089](https://leetcode-cn.com/problems/Gu0c2T/) | [房屋偷盗](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question089.java) | 中等 |
 | [剑指 Offer II 090](https://leetcode-cn.com/problems/PzWKhm/) | [环形房屋偷盗](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question090.java) | 中等 |
 | [剑指 Offer II 091](https://leetcode-cn.com/problems/JEj789/) | [粉刷房子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question091.java) | 中等 |
+| [剑指 Offer II 093](https://leetcode-cn.com/problems/Q91FMA/) | [最长斐波那契数列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question093.java) | 中等 |
 | [剑指 Offer II 096](https://leetcode-cn.com/problems/IY6buf/) | [字符串交织](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question096.java) | 中等 |
 | [剑指 Offer II 097](https://leetcode-cn.com/problems/21dk04/) | [子序列的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question097.java) | 困难 |
