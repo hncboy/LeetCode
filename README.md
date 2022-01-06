@@ -76,6 +76,7 @@
 | 67 | [二进制求和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AddBinary.java) | 简单 |
 | 69 | [x的平方根](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SqrtX.java) | 简单 |
 | 70 | [爬楼梯](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ClimbingStairs.java) | 简单 |
+| [71](https://leetcode-cn.com/problems/simplify-path/) | [简化路径](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SimplifyPath.java) | 中等 |
 | 72 | [编辑距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/EditDistance.java) | 困难 |
 | 73 | [矩阵置零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SetMatrixZeroes.java) | 中等 |
 | 74 | [搜索二维矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SearchA2dMatrix.java) | 中等 |
