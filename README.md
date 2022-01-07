@@ -526,6 +526,7 @@
 | 1588 | [所有奇数长度子数组的和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfAllOddLengthSubarrays.java) | 简单 |
 | [1609](https://leetcode-cn.com/problems/even-odd-tree/) | [奇偶树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/EvenOddTree.java) | 中等 |
 | [1610](https://leetcode-cn.com/problems/maximum-number-of-visible-points/) | [可见点的最大数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNumberOfVisiblePoints.java) | 困难 |
+| [1614](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/) | [括号的最大嵌套深度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNestingDepthOfTheParentheses.java) | 简单 |
 | [1705](https://leetcode-cn.com/problems/maximum-number-of-eaten-apples/) | [吃苹果的最大数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNumberOfEatenApples.java) | 中等 |
 | [1816](https://leetcode-cn.com/problems/truncate-sentence/) | [截断句子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TruncateSentence.java) | 简单 |
 | [1995](https://leetcode-cn.com/problems/count-special-quadruplets/) | [统计特殊四元组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountSpecialQuadruplets.java) | 简单 |
