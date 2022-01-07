@@ -53,7 +53,7 @@
 | 43 | [字符串相乘](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MultiplyStrings.java) | 中等 |
 | 44 | [通配符匹配](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WildcardMatching.java) | 困难 |
 | 45 | [跳跃游戏 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/JumpGameII.java) | 困难 |
-| 46 | [全排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Permutations.java) | 中等 |
+| [46](https://leetcode-cn.com/problems/permutations/) | [全排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Permutations.java) | 中等 |
 | 47 | [全排列 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PermutationsII.java) | 中等 |
 | 48 | [旋转图像](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RotateImage.java) | 中等 |
 | 49 | [字母异位词分组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GroupAnagrams.java) | 中等 |
@@ -715,6 +715,7 @@
 | [剑指 Offer II 075](https://leetcode-cn.com/problems/0H97ZC/) | [数组相对排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question075.java) | 简单 |
 | [剑指 Offer II 081](https://leetcode-cn.com/problems/Ygoe9J/) | [允许重复选择元素的组合](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question081.java) | 中等 |
 | [剑指 Offer II 082](https://leetcode-cn.com/problems/4sjJUc/) | [含有重复元素集合的组合](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question082.java) | 中等 |
+| [剑指 Offer II 083](https://leetcode-cn.com/problems/VvJkup/) | [没有重复元素集合的全排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question083.java) | 中等 |
 | [剑指 Offer II 087](https://leetcode-cn.com/problems/0on3uN/) | [复原 IP](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question087.java) | 中等 |
 | [剑指 Offer II 088](https://leetcode-cn.com/problems/GzCJIP/) | [爬楼梯的最少成本](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question088.java) | 简单 |
 | [剑指 Offer II 089](https://leetcode-cn.com/problems/Gu0c2T/) | [房屋偷盗](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question089.java) | 中等 |
