@@ -1,4 +1,4 @@
-package com.hncboy;
+package com.hncboy.swordreferstoofferspecial;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -6,10 +6,10 @@ import java.util.List;
 
 /**
  * @author hncboy
- * @date 2019/12/7 8:54
- * 47.全排列 II
- *
- * 给定一个可包含重复数字的序列 nums ，按任意顺序 返回所有不重复的全排列。
+ * @date 2022/1/7 9:31
+ * 剑指 Offer II 084.含有重复元素集合的全排列
+ * 
+ * 给定一个可包含重复数字的整数集合 nums ，按任意顺序 返回它所有不重复的全排列。
  *
  * 示例 1：
  * 输入：nums = [1,1,2]
@@ -25,20 +25,17 @@ import java.util.List;
  * 提示：
  * 1 <= nums.length <= 8
  * -10 <= nums[i] <= 10
- * 通过次数 247,488 提交次数 385,862
+ *
+ * 注意：本题与主站 47 题 {@link com.hncboy.PermutationsII} 相同：https://leetcode-cn.com/problems/permutations-ii/
+ * 通过次数5,118提交次数7,436
  *
  * 来源：力扣（LeetCode）
- * 链接：https://leetcode-cn.com/problems/permutations-ii
+ * 链接：https://leetcode-cn.com/problems/7p8L0Z
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class PermutationsII {
+public class Question084 {
 
-    public static void main(String[] args) {
-        PermutationsII p = new PermutationsII();
-        System.out.println(p.permuteUnique(new int[]{1, 1, 2}));
-    }
-
-    private List<List<Integer>> permuteUnique(int[] nums) {
+    public List<List<Integer>> permuteUnique(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
         // 排序方便剪枝
         Arrays.sort(nums);
@@ -46,17 +43,13 @@ public class PermutationsII {
         return result;
     }
 
+
     /**
      * 回溯
-     *
-     * @param nums
-     * @param result
-     * @param sub
-     * @param visited
      */
-    private void backTrack(int[] nums, List<List<Integer>> result, List<Integer> sub, boolean[] visited) {
-        if (sub.size() == nums.length) {
-            result.add(new ArrayList<>(sub));
+    private void backTrack(int[] nums, List<List<Integer>> result, List<Integer> subList, boolean[] visited) {
+        if (subList.size() == nums.length) {
+            result.add(new ArrayList<>(subList));
             return;
         }
 
@@ -67,9 +60,11 @@ public class PermutationsII {
                     continue;
                 }
                 visited[i] = true;
-                sub.add(nums[i]);
-                backTrack(nums, result, sub, visited);
-                sub.remove(sub.size() - 1);
+
+                subList.add(nums[i]);
+                backTrack(nums, result, subList, visited);
+                subList.remove(subList.size() - 1);
+
                 visited[i] = false;
             }
         }
