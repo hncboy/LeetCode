@@ -1,11 +1,11 @@
-package com.hncboy;
+package com.hncboy.swordreferstoofferspecial;
 
 /**
  * @author hncboy
- * @date 2019/9/27 8:53
- * 148.排序链表
+ * @date 2022/1/8 14:29
+ * 剑指 Offer II 077.链表排序
  *
- * 给你链表的头结点 head ，请将其按 升序 排列并返回 排序后的链表 。
+ * 给定链表的头结点 head ，请将其按 升序 排列并返回 排序后的链表 。
  *
  * 示例 1：
  * 输入：head = [4,2,1,3]
@@ -24,22 +24,15 @@ package com.hncboy;
  * -105 <= Node.val <= 105
  *
  * 进阶：你可以在 O(n log n) 时间复杂度和常数级空间复杂度下，对链表进行排序吗？
- * 通过次数 235,351 提交次数 353,235
+ *
+ * 注意：本题与主站 148 题 {@link com.hncboy.SortList} 相同：https://leetcode-cn.com/problems/sort-list/
+ * 通过次数 7,546 提交次数 12,837
  *
  * 来源：力扣（LeetCode）
- * 链接：https://leetcode-cn.com/problems/sort-list
+ * 链接：https://leetcode-cn.com/problems/7WHec2
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class SortList {
-
-    public static void main(String[] args) {
-        ListNode node = new ListNode(4);
-        node.next = new ListNode(2);
-        node.next.next = new ListNode(1);
-        node.next.next.next = new ListNode(3);
-        node.next.next.next.next = new ListNode(0);
-        System.out.println(new SortList().sortList(node));
-    }
+public class Question077 {
 
     public ListNode sortList(ListNode head) {
         // 1.递归结束条件
@@ -101,8 +94,16 @@ public class SortList {
         int val;
         ListNode next;
 
-        ListNode(int x) {
-            val = x;
+        ListNode() {
+        }
+
+        ListNode(int val) {
+            this.val = val;
+        }
+
+        ListNode(int val, ListNode next) {
+            this.val = val;
+            this.next = next;
         }
     }
 }
