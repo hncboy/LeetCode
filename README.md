@@ -93,6 +93,7 @@
 | 85 | [最大矩形](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximalRectangle.java) | 困难 |
 | 86 | [分隔链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PartitionList.java) | 中等 |
 | 88 | [合并两个有序数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MergeSortedArray.java) | 简单 |
+| [89](https://leetcode-cn.com/problems/gray-code/) | [格雷编码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GrayCode.java) | 中等 |
 | 90 | [子集 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SubsetsII.java) | 中等 |
 | 91 | [解码方法](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DecodeWays.java) | 中等 |
 | 92 | [反转链表 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseLinkedListII.java) | 中等 |
