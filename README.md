@@ -71,7 +71,7 @@
 | 61 | [旋转链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RotateList.java) | 中等 |
 | 62 | [不同路径](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UniquePaths.java) | 中等 |
 | 63 | [不同路径 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UniquePathsII.java) | 中等 |
-| 64 | [最小路径和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumPathSum.java) | 中等 |
+| [64](https://leetcode-cn.com/problems/minimum-path-sum/) | [最小路径和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumPathSum.java) | 中等 |
 | 66 | [加一](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PlusOne.java) | 简单 |
 | 67 | [二进制求和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AddBinary.java) | 简单 |
 | 69 | [x的平方根](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SqrtX.java) | 简单 |
@@ -732,4 +732,5 @@
 | [剑指 Offer II 093](https://leetcode-cn.com/problems/Q91FMA/) | [最长斐波那契数列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question093.java) | 中等 |
 | [剑指 Offer II 096](https://leetcode-cn.com/problems/IY6buf/) | [字符串交织](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question096.java) | 中等 |
 | [剑指 Offer II 097](https://leetcode-cn.com/problems/21dk04/) | [子序列的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question097.java) | 困难 |
+| [剑指 Offer II 099](https://leetcode-cn.com/problems/0i0mDW/) | [最小路径之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question099.java) | 中等 |
 | [剑指 Offer II 100](https://leetcode-cn.com/problems/IlPe0q/) | [三角形中最小路径之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question100.java) | 中等 |
