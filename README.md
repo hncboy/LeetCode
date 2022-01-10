@@ -228,6 +228,7 @@
 | [301](https://leetcode-cn.com/problems/remove-invalid-parentheses/) | [删除无效的括号](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveInvalidParentheses.java) | 困难 |
 | 303 | [区域和检索 - 数组不可变](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RangeSumQueryImmutable.java) | 简单 |
 | [304](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/) | [二维区域和检索-矩阵不可变](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RangeSumQuery2dImmutable.java) | 中等 |
+| [306](https://leetcode-cn.com/problems/additive-number/) | [累加数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AdditiveNumber.java) | 中等 |
 | 309 | [最佳买卖股票时机含冷冻期](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BestTimeToBuyAndSellStockWithCooldown.java) | 中等 |
 | 313 | [超级丑数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SuperUglyNumber.java) | 中等 |
 | 316 | [去除重复字母](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveDuplicateLetters.java) | 困难 |
