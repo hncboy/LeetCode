@@ -121,7 +121,7 @@
 | 116 | [填充每个节点的下一个右侧节点指针](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PopulatingNextRightPointersInEachNode.java) | 中等 |
 | 118 | [杨辉三角](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PascalsTriangle.java) | 简单 |
 | 119 | [杨辉三角 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PascalsTriangleII.java) | 简单 |
-| 120 | [三角形最小路径和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Triangle.java) | 中等 |
+| [120](https://leetcode-cn.com/problems/triangle/) | [三角形最小路径和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Triangle.java) | 中等 |
 | 121 | [买卖股票的最佳时机](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BestTimeToBuyAndSellStock.java) | 简单 |
 | 122 | [买卖股票的最佳时机 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BestTimeToBuyAndSellStockII.java) | 简单 |
 | 123 | [买卖股票的最佳时机 III](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BestTimeToBuyAndSellStockIII.java) | 困难 |
@@ -732,3 +732,4 @@
 | [剑指 Offer II 093](https://leetcode-cn.com/problems/Q91FMA/) | [最长斐波那契数列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question093.java) | 中等 |
 | [剑指 Offer II 096](https://leetcode-cn.com/problems/IY6buf/) | [字符串交织](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question096.java) | 中等 |
 | [剑指 Offer II 097](https://leetcode-cn.com/problems/21dk04/) | [子序列的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question097.java) | 困难 |
+| [剑指 Offer II 100](https://leetcode-cn.com/problems/IlPe0q/) | [三角形中最小路径之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question100.java) | 中等 |
