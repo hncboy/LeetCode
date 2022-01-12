@@ -1,14 +1,14 @@
-package com.hncboy;
+package com.hncboy.swordreferstoofferspecial;
 
 import java.util.ArrayList;
 import java.util.List;
 
 /**
  * @author hncboy
- * @date 2019/9/28 7:40
- * 22.括号生成
+ * @date 2022/1/12 9:25
+ * 剑指 Offer II 085.生成匹配的括号
  * 
- * 数字 n 代表生成括号的对数，请你设计一个函数，用于能够生成所有可能的并且 有效的 括号组合。
+ * 正整数 n 代表生成括号的对数，请设计一个函数，用于能够生成所有可能的并且 有效的 括号组合。
  *
  * 示例 1：
  * 输入：n = 3
@@ -20,18 +20,15 @@ import java.util.List;
  *
  * 提示：
  * 1 <= n <= 8
- * 通过次数 403,621 提交次数 522,136
+ *
+ * 注意：本题与主站 22 题 {@link com.hncboy.GenerateParentheses} 相同： https://leetcode-cn.com/problems/generate-parentheses/
+ * 通过次数 6,290 提交次数 7,406
  *
  * 来源：力扣（LeetCode）
- * 链接：https://leetcode-cn.com/problems/generate-parentheses
+ * 链接：https://leetcode-cn.com/problems/IDBivT
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class GenerateParentheses {
-
-    public static void main(String[] args) {
-        GenerateParentheses g = new GenerateParentheses();
-        System.out.println(g.generateParenthesis(3));
-    }
+public class Question085 {
 
     public List<String> generateParenthesis(int n) {
         List<String> result = new ArrayList<>();

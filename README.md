@@ -29,7 +29,7 @@
 | 19 | [删除链表的倒数第N个节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveNthNodeFromEndOfList.java) | 中等 |
 | 20 | [有效的括号](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidParentheses.java) | 简单 |
 | 21 | [合并两个有序链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MergeTwoSortedLists.java) | 简单 |
-| 22 | [括号生成](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GenerateParentheses.java) | 中等 |
+| [22](https://leetcode-cn.com/problems/generate-parentheses/) | [括号生成](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GenerateParentheses.java) | 中等 |
 | [23](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [合并K个排序链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MergeKSortedLists.java) | 困难 |
 | 24 | [两两交换链表中的节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SwapNodesInPairs.java) | 中等 |
 | 25 | [K 个一组翻转链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseNodesInKGroup.java) | 困难 |
@@ -727,6 +727,7 @@
 | [剑指 Offer II 082](https://leetcode-cn.com/problems/4sjJUc/) | [含有重复元素集合的组合](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question082.java) | 中等 |
 | [剑指 Offer II 083](https://leetcode-cn.com/problems/VvJkup/) | [没有重复元素集合的全排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question083.java) | 中等 |
 | [剑指 Offer II 084](https://leetcode-cn.com/problems/7p8L0Z/) | [含有重复元素集合的全排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question084.java) | 中等 |
+| [剑指 Offer II 085](https://leetcode-cn.com/problems/IDBivT/) | [生成匹配的括号](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question085.java) | 中等 |
 | [剑指 Offer II 087](https://leetcode-cn.com/problems/0on3uN/) | [复原 IP](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question087.java) | 中等 |
 | [剑指 Offer II 088](https://leetcode-cn.com/problems/GzCJIP/) | [爬楼梯的最少成本](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question088.java) | 简单 |
 | [剑指 Offer II 089](https://leetcode-cn.com/problems/Gu0c2T/) | [房屋偷盗](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question089.java) | 中等 |
