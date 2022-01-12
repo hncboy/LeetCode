@@ -30,7 +30,7 @@
 | 20 | [有效的括号](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidParentheses.java) | 简单 |
 | 21 | [合并两个有序链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MergeTwoSortedLists.java) | 简单 |
 | 22 | [括号生成](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GenerateParentheses.java) | 中等 |
-| 23 | [合并K个排序链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MergeKSortedLists.java) | 困难 |
+| [23](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [合并K个排序链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MergeKSortedLists.java) | 困难 |
 | 24 | [两两交换链表中的节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SwapNodesInPairs.java) | 中等 |
 | 25 | [K 个一组翻转链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseNodesInKGroup.java) | 困难 |
 | 26 | [删除排序数组中的重复项](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveDuplicatesFromSortedArray.java) | 简单 |
@@ -720,6 +720,7 @@
 | [剑指 Offer II 075](https://leetcode-cn.com/problems/0H97ZC/) | [数组相对排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question075.java) | 简单 |
 | [剑指 Offer II 076](https://leetcode-cn.com/problems/xx4gT2/) | [数组中的第 k 大的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question076.java) | 中等 |
 | [剑指 Offer II 077](https://leetcode-cn.com/problems/7WHec2/) | [链表排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question077.java) | 中等 |
+| [剑指 Offer II 078](https://leetcode-cn.com/problems/vvXgSW/) | [合并排序链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question078.java) | 中等 |
 | [剑指 Offer II 079](https://leetcode-cn.com/problems/TVdhkn/) | [所有子集](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question079.java) | 中等 |
 | [剑指 Offer II 080](https://leetcode-cn.com/problems/uUsW3B/) | [含有 k 个元素的组合](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question080.java) | 中等 |
 | [剑指 Offer II 081](https://leetcode-cn.com/problems/Ygoe9J/) | [允许重复选择元素的组合](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question081.java) | 中等 |

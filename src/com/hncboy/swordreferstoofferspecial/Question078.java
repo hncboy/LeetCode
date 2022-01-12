@@ -1,12 +1,12 @@
-package com.hncboy;
+package com.hncboy.swordreferstoofferspecial;
 
 /**
  * @author hncboy
- * @date 2019/10/10 17:24
- * 23.合并K个排序链表
+ * @date 2022/1/12 9:11
+ * 剑指 Offer II 078.合并排序链表
  *
- * 给你一个链表数组，每个链表都已经按升序排列。
- * 请你将所有链表合并到一个升序链表中，返回合并后的链表。
+ * 给定一个链表数组，每个链表都已经按升序排列。
+ * 请将所有链表合并到一个升序链表中，返回合并后的链表。
  *
  * 示例 1：
  * 输入：lists = [[1,4,5],[1,3,4],[2,6]]
@@ -36,34 +36,14 @@ package com.hncboy;
  * lists[i] 按 升序 排列
  * lists[i].length 的总和不超过 10^4
  *
- * 通过次数 371,715 提交次数 660,605
+ * 注意：本题与主站 23 题 {@link com.hncboy.MergeKSortedLists}相同： https://leetcode-cn.com/problems/merge-k-sorted-lists/
+ * 通过次数 5,865 提交次数 9,122
  *
  * 来源：力扣（LeetCode）
- * 链接：https://leetcode-cn.com/problems/merge-k-sorted-lists
+ * 链接：https://leetcode-cn.com/problems/vvXgSW
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
  */
-public class MergeKSortedLists {
-
-    public static void main(String[] args) {
-        ListNode node1 = new ListNode(1);
-        node1.next = new ListNode(4);
-        node1.next.next = new ListNode(5);
-
-        ListNode node2 = new ListNode(1);
-        node2.next = new ListNode(3);
-        node2.next.next = new ListNode(4);
-
-        ListNode node3 = new ListNode(2);
-        node3.next = new ListNode(6);
-
-        ListNode[] lists = new ListNode[3];
-        lists[0] = node1;
-        lists[1] = node2;
-        lists[2] = node3;
-
-        MergeKSortedLists m = new MergeKSortedLists();
-        System.out.println(m.mergeKLists(lists));
-    }
+public class Question078 {
 
     public ListNode mergeKLists(ListNode[] lists) {
         if (lists.length == 0) {
@@ -106,8 +86,16 @@ public class MergeKSortedLists {
         int val;
         ListNode next;
 
-        ListNode(int x) {
-            val = x;
+        ListNode() {
+        }
+
+        ListNode(int val) {
+            this.val = val;
+        }
+
+        ListNode(int val, ListNode next) {
+            this.val = val;
+            this.next = next;
         }
     }
 }
