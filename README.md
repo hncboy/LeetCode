@@ -132,7 +132,7 @@
 | 128 | [最长连续序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestConsecutiveSequence.java) | 困难 |
 | [129](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [求根节点到叶节点数字之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumRootToLeafNumbers.java) | 中等 |
 | 130 | [被围绕的区域](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SurroundedRegions.java) | 中等 |
-| 131 | [分割回文串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PalindromePartitioning.java) | 中等 |
+| [131](https://leetcode-cn.com/problems/palindrome-partitioning/) | [分割回文串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PalindromePartitioning.java) | 中等 |
 | 133 | [克隆图](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CloneGraph.java) | 中等 |
 | 134 | [加油站](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GasStation.java) | 中等 |
 | 135 | [分发糖果](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Candy.java) | 困难 |
@@ -728,6 +728,7 @@
 | [剑指 Offer II 083](https://leetcode-cn.com/problems/VvJkup/) | [没有重复元素集合的全排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question083.java) | 中等 |
 | [剑指 Offer II 084](https://leetcode-cn.com/problems/7p8L0Z/) | [含有重复元素集合的全排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question084.java) | 中等 |
 | [剑指 Offer II 085](https://leetcode-cn.com/problems/IDBivT/) | [生成匹配的括号](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question085.java) | 中等 |
+| [剑指 Offer II 086](https://leetcode-cn.com/problems/M99OJA/) | [分割回文子字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question086.java) | 中等 |
 | [剑指 Offer II 087](https://leetcode-cn.com/problems/0on3uN/) | [复原 IP](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question087.java) | 中等 |
 | [剑指 Offer II 088](https://leetcode-cn.com/problems/GzCJIP/) | [爬楼梯的最少成本](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question088.java) | 简单 |
 | [剑指 Offer II 089](https://leetcode-cn.com/problems/Gu0c2T/) | [房屋偷盗](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question089.java) | 中等 |
