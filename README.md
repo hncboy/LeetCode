@@ -462,7 +462,7 @@
 | 1111 | [有效括号的嵌套深度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNestingDepthOfTwoValidParenthesesStrings.java) | 中等 |
 | 1122 | [数组的相对排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RelativeSortArray.java) | 简单 |
 | 1128 | [等价多米诺骨牌对的数量](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfEquivalentDominoPairs.java) | 简单 |
-| 1143 | [最长公共子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestCommonSubsequence.java) | 中等 |
+| [1143](https://leetcode-cn.com/problems/longest-common-subsequence/) | [最长公共子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestCommonSubsequence.java) | 中等 |
 | 1144 | [递减元素使数组呈锯齿状](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DecreaseElementsToMakeArrayZigzag.java) | 中等 |
 | [1154](https://leetcode-cn.com/problems/day-of-the-year/) | [一年中的第几天](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DayOfTheYear.java) | 简单 |
 | 1160 | [拼写单词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindWordsThatCanBeFormedByCharacters.java) | 简单 |
@@ -737,6 +737,7 @@
 | [剑指 Offer II 091](https://leetcode-cn.com/problems/JEj789/) | [粉刷房子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question091.java) | 中等 |
 | [剑指 Offer II 092](https://leetcode-cn.com/problems/cyJERH/) | [翻转字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question092.java) | 中等 |
 | [剑指 Offer II 093](https://leetcode-cn.com/problems/Q91FMA/) | [最长斐波那契数列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question093.java) | 中等 |
+| [剑指 Offer II 095](https://leetcode-cn.com/problems/qJnOS7/) | [最长公共子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question095.java) | 中等 |
 | [剑指 Offer II 096](https://leetcode-cn.com/problems/IY6buf/) | [字符串交织](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question096.java) | 中等 |
 | [剑指 Offer II 097](https://leetcode-cn.com/problems/21dk04/) | [子序列的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question097.java) | 困难 |
 | [剑指 Offer II 099](https://leetcode-cn.com/problems/0i0mDW/) | [最小路径之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question099.java) | 中等 |
