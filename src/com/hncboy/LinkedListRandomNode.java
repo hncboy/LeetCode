@@ -1,49 +1,73 @@
 package com.hncboy;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Random;
 
 /**
  * @author hncboy
  * @date 2019/12/28 10:44
- * @description 382.链表随机节点
+ * 382.链表随机节点
  *
- * 给定一个单链表，随机选择链表的一个节点，并返回相应的节点值。保证每个节点被选的概率一样。
+ * 给你一个单链表，随机选择链表的一个节点，并返回相应的节点值。每个节点 被选中的概率一样 。
  *
- * 进阶:
- * 如果链表十分大且长度未知，如何解决这个问题？你能否使用常数级空间复杂度实现？
+ * 实现 Solution 类：
+ * Solution(ListNode head) 使用整数数组初始化对象。
+ * int getRandom() 从链表中随机选择一个节点并返回该节点的值。链表中所有节点被选中的概率相等。
  *
- * 示例:
- * // 初始化一个单链表 [1,2,3].
- * ListNode head = new ListNode(1);
- * head.next = new ListNode(2);
- * head.next.next = new ListNode(3);
- * Solution solution = new Solution(head);
+ * 示例：
+ * 输入
+ * ["Solution", "getRandom", "getRandom", "getRandom", "getRandom", "getRandom"]
+ * [[[1, 2, 3]], [], [], [], [], []]
+ * 输出
+ * [null, 1, 3, 2, 2, 3]
+ * 解释
+ * Solution solution = new Solution([1, 2, 3]);
+ * solution.getRandom(); // 返回 1
+ * solution.getRandom(); // 返回 3
+ * solution.getRandom(); // 返回 2
+ * solution.getRandom(); // 返回 2
+ * solution.getRandom(); // 返回 3
+ * // getRandom() 方法应随机返回 1、2、3中的一个，每个元素被返回的概率相等。
  *
- * // getRandom()方法应随机返回1,2,3中的一个，保证每个元素被返回的概率相等。
- * solution.getRandom();
+ * 提示：
+ * 链表中的节点数在范围 [1, 104] 内
+ * -104 <= Node.val <= 104
+ * 至多调用 getRandom 方法 104 次
+ *
+ * 进阶：
+ * 如果链表非常大且长度未知，该怎么处理？
+ * 你能否在不使用额外空间的情况下解决此问题？
+ * 通过次数 26,092 提交次数 38,282
  */
 public class LinkedListRandomNode {
-
-    private List<Integer> list;
 
     public static void main(String[] args) {
         ListNode head = new ListNode(1);
         head.next = new ListNode(2);
         head.next.next = new ListNode(3);
-        LinkedListRandomNode l = new LinkedListRandomNode(head);
-        System.out.println(l.getRandom());
+        Solution s = new Solution(head);
+        System.out.println(s.getRandom());
     }
 
-    private LinkedListRandomNode(ListNode head) {
-        list = new ArrayList<>();
-        while (head != null) {
-            list.add(head.val);
-            head = head.next;
+    private static class Solution {
+
+        private final ListNode head;
+        private final Random random;
+
+        public Solution(ListNode head) {
+            this.head = head;
+            random = new Random();
         }
-    }
 
-    private int getRandom() {
-        return list.get((int) (Math.random() * list.size()));
+        public int getRandom() {
+            int i = 1;
+            int result = 0;
+            for (ListNode node = head; node != null; node = node.next) {
+                if (random.nextInt(i) == 0) {
+                    result = node.val;
+                }
+                i++;
+            }
+            return result;
+        }
     }
 }
