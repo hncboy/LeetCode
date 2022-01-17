@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * @author hncboy
  * @date 2019/10/6 11:12
- * @description 1220.统计元音字母序列的数目
+ * 1220.统计元音字母序列的数目
  *
  * 给你一个整数 n，请你帮忙统计一下我们可以按下述规则形成多少个长度为 n 的字符串：
  *
@@ -16,7 +16,6 @@ import java.util.Arrays;
  * 每个元音 'o' 后面只能跟着 'i' 或者是 'u'
  * 每个元音 'u' 后面只能跟着 'a'
  * 由于答案可能会很大，所以请你返回 模 10^9 + 7 之后的结果。
- *
  *
  * 示例 1：
  * 输入：n = 1
@@ -37,7 +36,6 @@ import java.util.Arrays;
  */
 public class CountVowelsPermutation {
 
-
     public static void main(String[] args) {
         CountVowelsPermutation cvp = new CountVowelsPermutation();
         System.out.println(cvp.countVowelPermutation(1));
@@ -46,7 +44,7 @@ public class CountVowelsPermutation {
         System.out.println(cvp.countVowelPermutation(144));
     }
 
-    private int countVowelPermutation(int n) {
+    public int countVowelPermutation1(int n) {
         // 对应 a e i o u 结尾的数量
         double[] vowelCount = new double[]{1, 1, 1, 1, 1};
         double[] vowelTempCount = new double[5];
@@ -60,5 +58,62 @@ public class CountVowelsPermutation {
             System.arraycopy(vowelTempCount, 0, vowelCount, 0, 5);
         }
         return (int) ((Arrays.stream(vowelCount).sum()) % mod);
+    }
+
+    /**
+     * 矩阵快速幂 TODO 忘记了
+     */
+    public int countVowelPermutation(int n) {
+        long mod = 1_000_000_007;
+        long[][] factor =
+                {
+                        {0, 1, 0, 0, 0},
+                        {1, 0, 1, 0, 0},
+                        {1, 1, 0, 1, 1},
+                        {0, 0, 1, 0, 1},
+                        {1, 0, 0, 0, 0}
+                };
+
+        long[][] res = fastPow(factor, n - 1, mod);
+        long ans = 0;
+        for (int i = 0; i < 5; ++i) {
+            for (int j = 0; j < 5; ++j) {
+                ans = (ans + res[i][j]) % mod;
+            }
+        }
+        return (int)ans;
+    }
+
+    private long[][] fastPow(long[][] matrix, int n, long mod) {
+        int m = matrix.length;
+        long[][] res = new long[m][m];
+        long[][] curr = matrix;
+
+        for (int i = 0; i < m; ++i) {
+            res[i][i] = 1;
+        }
+        for (int i = n; i != 0; i >>= 1) {
+            if ((i % 2) == 1) {
+                res = multiply(curr, res, mod);
+            }
+            curr = multiply(curr, curr, mod);
+        }
+        return res;
+    }
+
+    private long[][] multiply(long[][] matrixA, long[][] matrixB, long mod) {
+        int m = matrixA.length;
+        int n = matrixB[0].length;
+        long[][] res = new long[m][n];
+
+        for (int i = 0; i < m; ++i) {
+            for (int j = 0; j < n; ++j) {
+                res[i][j] = 0;
+                for (int k = 0; k < matrixA[i].length; ++k) {
+                    res[i][j] = (res[i][j] + matrixA[i][k] * matrixB[k][j]) % mod;
+                }
+            }
+        }
+        return res;
     }
 }

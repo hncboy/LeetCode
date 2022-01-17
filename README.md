@@ -474,7 +474,7 @@
 | 1217 | [玩筹码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PlayWithChips.java) | 简单 |
 | 1218 | [最长定差子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestArithmeticSubsequenceOfGivenDifference.java) | 中等 |
 | 1219 | [黄金矿工](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PathWithMaximumGold.java) | 中等 |
-| 1220 | [统计元音字母序列的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountVowelsPermutation.java) | 困难 |
+| [1220](https://leetcode-cn.com/problems/count-vowels-permutation/) | [统计元音字母序列的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountVowelsPermutation.java) | 困难 |
 | 1221 | [分割平衡字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SplitAStringInBalancedStrings.java) | 简单 |
 | 1222 | [可以攻击国王的皇后](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/QueensThatCanAttackTheKing.java) | 中等 |
 | 1232 | [缀点成线](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfItIsAStraightLine.java) | 简单 |
