@@ -348,7 +348,7 @@
 | [686](https://leetcode-cn.com/problems/repeated-string-match/) | [重复叠加字符串匹配](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RepeatedStringMatch.java) | 中等 |
 | [689](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [三个无重叠子数组的最大和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumSumOf3NonOverlappingSubarrays.java) | 困难 |
 | 693 | [交替位二进制数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryNumberWithAlternatingBits.java) | 简单 |
-| 695 | [岛屿的最大面积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxAreaOfIsland.java) | 中等 |
+| [695](https://leetcode-cn.com/problems/max-area-of-island/) | [岛屿的最大面积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxAreaOfIsland.java) | 中等 |
 | 697 | [数组的度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DegreeOfAnArray.java) | 简单 |
 | [700](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) | [二叉搜索树中的搜索](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DegreeOfAnArray.java) | 简单 |
 | [703](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/) | [数据流中的第 K 大元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KthLargestElementInAStream.java) | 简单 |
@@ -742,3 +742,4 @@
 | [剑指 Offer II 097](https://leetcode-cn.com/problems/21dk04/) | [子序列的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question097.java) | 困难 |
 | [剑指 Offer II 099](https://leetcode-cn.com/problems/0i0mDW/) | [最小路径之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question099.java) | 中等 |
 | [剑指 Offer II 100](https://leetcode-cn.com/problems/IlPe0q/) | [三角形中最小路径之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question100.java) | 中等 |
+| [剑指 Offer II 105](https://leetcode-cn.com/problems/ZL6zAn/) | [岛屿的最大面积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question105.java) | 中等 |
