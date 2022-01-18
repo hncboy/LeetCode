@@ -1,12 +1,12 @@
-package com.hncboy;
+package com.hncboy.swordreferstoofferspecial;
 
 /**
  * @author hncboy
- * @date 2019/10/9 10:08
- * 322.零钱兑换
+ * @date 2022/1/18 9:03
+ * 剑指 Offer II 103.最少的硬币数目
  *
- * 给你一个整数数组 coins ，表示不同面额的硬币；以及一个整数 amount ，表示总金额。
- * 计算并返回可以凑成总金额所需的 最少的硬币个数 。如果没有任何一种硬币组合能组成总金额，返回 -1 。
+ * 给定不同面额的硬币 coins 和一个总金额 amount。编写一个函数来计算可以凑成总金额所需的最少的硬币个数。
+ * 如果没有任何一种硬币组合能组成总金额，返回 -1。
  * 你可以认为每种硬币的数量是无限的。
  *
  * 示例 1：
@@ -34,17 +34,11 @@ package com.hncboy;
  * 1 <= coins.length <= 12
  * 1 <= coins[i] <= 231 - 1
  * 0 <= amount <= 104
- * 通过次数 350,333 提交次数 780,345
+ *
+ * 注意：本题与主站 322 题 {@link com.hncboy.CoinChange} 相同： https://leetcode-cn.com/problems/coin-change/
+ * 通过次数 5,658 提交次数 11,315
  */
-public class CoinChange {
-
-    public static void main(String[] args) {
-        CoinChange cc = new CoinChange();
-        int[] coins1 = new int[]{1, 2, 5};
-        int[] coins2 = new int[]{2};
-        System.out.println(cc.coinChange(coins1, 11));
-        System.out.println(cc.coinChange(coins2, 3));
-    }
+public class Question103 {
 
     /**
      * 动态规划，自下向上

@@ -234,7 +234,7 @@
 | 316 | [去除重复字母](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveDuplicateLetters.java) | 困难 |
 | [318](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/) | [最大单词长度乘积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumProductOfWordLengths.java) | 中等 |
 | [319](https://leetcode-cn.com/problems/bulb-switcher/) | [灯泡开关](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BulbSwitcher.java) | 中等 |
-| 322 | [零钱兑换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CoinChange.java) | 中等 |
+| [322](https://leetcode-cn.com/problems/coin-change/) | [零钱兑换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CoinChange.java) | 中等 |
 | 326 | [3的幂](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PowerOfThree.java) | 简单 |
 | 328 | [奇偶链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/OddEvenLinkedList.java) | 中等 |
 | 330 | [按要求补齐数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PatchingArray.java) | 困难 |
@@ -742,4 +742,5 @@
 | [剑指 Offer II 097](https://leetcode-cn.com/problems/21dk04/) | [子序列的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question097.java) | 困难 |
 | [剑指 Offer II 099](https://leetcode-cn.com/problems/0i0mDW/) | [最小路径之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question099.java) | 中等 |
 | [剑指 Offer II 100](https://leetcode-cn.com/problems/IlPe0q/) | [三角形中最小路径之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question100.java) | 中等 |
+| [剑指 Offer II 103](https://leetcode-cn.com/problems/gaM7Ch/) | [最少的硬币数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question103.java) | 中等 |
 | [剑指 Offer II 105](https://leetcode-cn.com/problems/ZL6zAn/) | [岛屿的最大面积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question105.java) | 中等 |
