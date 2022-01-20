@@ -539,6 +539,7 @@
 | [2022](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/) | [将一维数组转变成二维数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Convert1dArrayInto2dArray.java) | 简单 |
 | [2027](https://leetcode-cn.com/problems/minimum-moves-to-convert-string/) | [转换字符串的最少操作次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumMovesToConvertString.java) | 简单 |
 | [2028](https://leetcode-cn.com/problems/find-missing-observations/) | [找出缺失的观测数据](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindMissingObservations.java) | 中等 |
+| [2029](https://leetcode-cn.com/problems/stone-game-ix/) | [石子游戏 IX](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/StoneGameIx.java) | 中等 |
 | [2032](https://leetcode-cn.com/problems/two-out-of-three/) | [至少在两个数组中出现的值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TwoOutOfThree.java) | 简单 |
 | [2033](https://leetcode-cn.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [获取单值网格的最小操作数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumOperationsToMakeAUniValueGrid.java) | 中等 |
 | [2034](https://leetcode-cn.com/problems/stock-price-fluctuation/) | [股票价格波动](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/StockPriceFluctuation.java) | 中等 |
