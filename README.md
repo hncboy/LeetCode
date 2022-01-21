@@ -516,6 +516,7 @@
 | 1342 | [将数字变成 0 的操作次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfStepsToReduceANumberToZero.java) | 简单 |
 | 1343 | [大小为 K 且平均值大于等于阈值的子数组数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfSubArraysOfSizeKAndAverageGreaterThanOrEqualToThreshold.java) | 中等 |
 | 1344 | [时钟指针的夹角](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AngleBetweenHandsOfAClock.java) | 中等 |
+| [1345](https://leetcode-cn.com/problems/jump-game-iv/) | [跳跃游戏 IV](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/JumpGameIv.java) | 困难 |
 | 1356 | [根据数字二进制下 1 的数目排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SortIntegersByTheNumberOf1Bits.java) | 简单 |
 | 1357 | [每隔 n 个顾客打折](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ApplyDiscountEveryNOrders.java) | 中等 |
 | 1358 | [包含所有三种字符的子字符串数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfSubstringsContainingAllThreeCharacters.java) | 中等 |
