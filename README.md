@@ -510,6 +510,7 @@
 | 1313 | [解压缩编码列表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DecompressRunLengthEncodedList.java) | 简单 |
 | 1314 | [矩阵区域和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConvertIntegerToTheSumOfTwoNoZeroIntegers.java) | 中等 |
 | 1315 | [祖父节点值为偶数的节点和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfNodesWithEvenValuedGrandparent.java) | 中等 |
+| [1332](https://leetcode-cn.com/problems/remove-palindromic-subsequences/) | [删除回文子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemovePalindromicSubsequences.java) | 简单 |
 | 1339 | [分裂二叉树的最大乘积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumProductOfSplittedBinaryTree.java) | 中等 |
 | 1341 | [方阵中战斗力最弱的 K 行](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TheKWeakestRowsInAMatrix.java) | 简单 |
 | 1342 | [数组大小减半](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReduceArraySizeToTheHalf.java) | 中等 |
