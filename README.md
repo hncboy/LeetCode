@@ -535,6 +535,7 @@
 | [1610](https://leetcode-cn.com/problems/maximum-number-of-visible-points/) | [可见点的最大数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNumberOfVisiblePoints.java) | 困难 |
 | [1614](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/) | [括号的最大嵌套深度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNestingDepthOfTheParentheses.java) | 简单 |
 | [1629](https://leetcode-cn.com/problems/slowest-key/) | [按键持续时间最长的键](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SlowestKey.java) | 简单 |
+| [1688](https://leetcode-cn.com/problems/count-of-matches-in-tournament/) | [比赛中的配对次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountOfMatchesInTournament.java) | 简单 |
 | [1705](https://leetcode-cn.com/problems/maximum-number-of-eaten-apples/) | [吃苹果的最大数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNumberOfEatenApples.java) | 中等 |
 | [1716](https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank/) | [计算力扣银行的钱](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CalculateMoneyInLeetcodeBank.java) | 简单 |
 | [1816](https://leetcode-cn.com/problems/truncate-sentence/) | [截断句子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TruncateSentence.java) | 简单 |
