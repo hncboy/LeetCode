@@ -540,6 +540,7 @@
 | [1716](https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank/) | [计算力扣银行的钱](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CalculateMoneyInLeetcodeBank.java) | 简单 |
 | [1816](https://leetcode-cn.com/problems/truncate-sentence/) | [截断句子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TruncateSentence.java) | 简单 |
 | [1995](https://leetcode-cn.com/problems/count-special-quadruplets/) | [统计特殊四元组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountSpecialQuadruplets.java) | 简单 |
+| [1996](https://leetcode-cn.com/problems/the-number-of-weak-characters-in-the-game/) | [游戏中弱角色的数量](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TheNumberOfWeakCharactersInTheGame.java) | 中等 |
 | [2013](https://leetcode-cn.com/problems/detect-squares/) | [检测正方形](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DetectSquares.java) | 中等 |
 | [2022](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/) | [将一维数组转变成二维数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Convert1dArrayInto2dArray.java) | 简单 |
 | [2027](https://leetcode-cn.com/problems/minimum-moves-to-convert-string/) | [转换字符串的最少操作次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumMovesToConvertString.java) | 简单 |
