@@ -322,6 +322,7 @@
 | 565 | [数组嵌套](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ArrayNesting.java) | 中等 |
 | 566 | [重塑矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReshapeTheMatrix.java) | 简单 |
 | [567](https://leetcode-cn.com/problems/permutation-in-string/) | [字符串的排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PermutationInString.java) | 中等 |
+| [572](https://leetcode-cn.com/problems/subtree-of-another-tree/) | [另一棵树的子树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SubtreeOfAnotherTree.java) | 简单 |
 | 575 | [分糖果](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DistributeCandies.java) | 简单 |
 | 581 | [最短无序连续子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShortestUnsortedOntinuousSubarray.java) | 简单 |
 | 583 | [两个字符串的删除操作](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DeleteOperationForTwoStrings.java) | 中等 |
