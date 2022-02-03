@@ -528,6 +528,7 @@
 | 1360 | [日期之间隔几天](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfDaysBetweenTwoDates.java) | 简单 |
 | 1361 | [验证二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidateBinaryTreeNodes.java) | 中等 |
 | 1362 | [最接近的因数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ClosestDivisors.java) | 中等 |
+| [1414](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [和为 K 的最少斐波那契数字数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java) | 中等 |
 | [1436](https://leetcode-cn.com/problems/destination-city/) | [旅行终点站](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DestinationCity.java) | 简单 |
 | [1446](https://leetcode-cn.com/problems/consecutive-characters/) | [连续字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConsecutiveCharacters.java) | 简单 |
 | [1518](https://leetcode-cn.com/problems/water-bottles/) | [换酒问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WaterBottles.java) | 简单 |
