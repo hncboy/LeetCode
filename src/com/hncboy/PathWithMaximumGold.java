@@ -3,19 +3,17 @@ package com.hncboy;
 /**
  * @author hncboy
  * @date 2019/10/6 14:38
- * @description 1219.黄金矿工
+ * 1219.黄金矿工
  *
  * 你要开发一座金矿，地质勘测学家已经探明了这座金矿中的资源分布，并用大小为 m * n 的网格 grid 进行了标注。
  * 每个单元格中的整数就表示这一单元格中的黄金数量；如果该单元格是空的，那么就是 0。
  *
  * 为了使收益最大化，矿工需要按以下规则来开采黄金：
- *
  * 每当矿工进入一个单元，就会收集该单元格中的所有黄金。
  * 矿工每次可以从当前位置向上下左右四个方向走。
  * 每个单元格只能被开采（进入）一次。
  * 不得开采（进入）黄金数目为 0 的单元格。
  * 矿工可以从网格中 任意一个 有黄金的单元格出发或者是停止。
- *
  *
  * 示例 1：
  * 输入：grid = [[0,6,0],[5,8,7],[0,9,0]]
@@ -41,6 +39,7 @@ package com.hncboy;
  * 1 <= grid.length, grid[i].length <= 15
  * 0 <= grid[i][j] <= 100
  * 最多 25 个单元格中有黄金。
+ * 通过次数 19,938 提交次数 29,924
  */
 public class PathWithMaximumGold {
 
@@ -69,7 +68,7 @@ public class PathWithMaximumGold {
         System.out.println(pwmg.getMaximumGold(grid4));
     }
 
-    private int getMaximumGold(int[][] grid) {
+    public int getMaximumGold(int[][] grid) {
         // 遍历所有黄金数目不为 0 的格子
         for (int i = 0; i < grid.length; i++) {
             for (int j = 0; j < grid[0].length; j++) {

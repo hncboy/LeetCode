@@ -267,6 +267,7 @@
 | [397](https://leetcode-cn.com/problems/integer-replacement/) | [整数替换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/IntegerReplacement.java) | 中等 |
 | 399 | [除法求值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/EvaluateDivision.java) | 中等 |
 | [400](https://leetcode-cn.com/problems/nth-digit/) | [第 N 位数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NthDigit.java) | 中等 |
+| [401](https://leetcode-cn.com/problems/binary-watch/) | [二进制手表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryWatch.java) | 简单 |
 | [405](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/) | [数字转换为十六进制数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConvertANumberToHexadecimal.java) | 简单 |
 | 406 | [根据身高重建队列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/QueueReconstructionByHeight.java) | 中等 |
 | [407](https://leetcode-cn.com/problems/trapping-rain-water-ii/) | [接雨水 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TrappingRainWaterII.java) | 困难 |
@@ -476,7 +477,7 @@
 | 1200 | [最小绝对差](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumAbsoluteDifference.java) | 简单 |
 | 1217 | [玩筹码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PlayWithChips.java) | 简单 |
 | 1218 | [最长定差子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestArithmeticSubsequenceOfGivenDifference.java) | 中等 |
-| 1219 | [黄金矿工](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PathWithMaximumGold.java) | 中等 |
+| [1219](https://leetcode-cn.com/problems/path-with-maximum-gold/) | [黄金矿工](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PathWithMaximumGold.java) | 中等 |
 | [1220](https://leetcode-cn.com/problems/count-vowels-permutation/) | [统计元音字母序列的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountVowelsPermutation.java) | 困难 |
 | 1221 | [分割平衡字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SplitAStringInBalancedStrings.java) | 简单 |
 | 1222 | [可以攻击国王的皇后](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/QueensThatCanAttackTheKing.java) | 中等 |
