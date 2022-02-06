@@ -543,6 +543,7 @@
 | [1705](https://leetcode-cn.com/problems/maximum-number-of-eaten-apples/) | [吃苹果的最大数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNumberOfEatenApples.java) | 中等 |
 | [1716](https://leetcode-cn.com/problems/calculate-money-in-leetcode-bank/) | [计算力扣银行的钱](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CalculateMoneyInLeetcodeBank.java) | 简单 |
 | [1725](https://leetcode-cn.com/problems/number-of-rectangles-that-can-form-the-largest-square/) | [可以形成最大正方形的矩形数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfRectanglesThatCanFormTheLargestSquare.java) | 简单 |
+| [1748](https://leetcode-cn.com/problems/sum-of-unique-elements/) | [唯一元素的和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfUniqueElements.java) | 简单 |
 | [1763](https://leetcode-cn.com/problems/longest-nice-substring/) | [最长的美好子字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestNiceSubstring.java) | 简单 |
 | [1765](https://leetcode-cn.com/problems/map-of-highest-peak/) | [地图中的最高点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MapOfHighestPeak.java) | 中等 |
 | [1816](https://leetcode-cn.com/problems/truncate-sentence/) | [截断句子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TruncateSentence.java) | 简单 |
