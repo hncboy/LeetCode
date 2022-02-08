@@ -438,6 +438,7 @@
 | 994 | [腐烂的橘子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RottingOranges.java) | 简单 |
 | 997 | [找到小镇的法官](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheTownJudge.java) | 简单 |
 | 999 | [车的可用捕获量](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AvailableCapturesForRook.java) | 简单 |
+| [1001](https://leetcode-cn.com/problems/grid-illumination/) | [网格照明](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GridIllumination.java) | 困难 |
 | 1002 | [查找常用字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindCommonCharacters.java) | 简单 |
 | 1003 | [检查替换后的词是否有效](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfWordIsValidAfterSubstitutions.java) | 中等 |
 | [1005](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/) | [K 次取反后最大化的数组和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximizeSumOfArrayAfterKNegations.java) | 简单 |
