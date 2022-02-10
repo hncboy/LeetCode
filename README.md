@@ -534,6 +534,7 @@
 | [1414](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [和为 K 的最少斐波那契数字数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java) | 中等 |
 | [1436](https://leetcode-cn.com/problems/destination-city/) | [旅行终点站](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DestinationCity.java) | 简单 |
 | [1446](https://leetcode-cn.com/problems/consecutive-characters/) | [连续字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConsecutiveCharacters.java) | 简单 |
+| [1447](https://leetcode-cn.com/problems/simplified-fractions/) | [最简分数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SimplifiedFractions.java) | 中等 |
 | [1518](https://leetcode-cn.com/problems/water-bottles/) | [换酒问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WaterBottles.java) | 简单 |
 | [1576](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [替换所有的问号](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReplaceAllSToAvoidConsecutiveRepeatingCharacters.java) | 简单 |
 | 1588 | [所有奇数长度子数组的和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfAllOddLengthSubarrays.java) | 简单 |
