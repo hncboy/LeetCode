@@ -550,6 +550,7 @@
 | [1763](https://leetcode-cn.com/problems/longest-nice-substring/) | [最长的美好子字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestNiceSubstring.java) | 简单 |
 | [1765](https://leetcode-cn.com/problems/map-of-highest-peak/) | [地图中的最高点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MapOfHighestPeak.java) | 中等 |
 | [1816](https://leetcode-cn.com/problems/truncate-sentence/) | [截断句子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TruncateSentence.java) | 简单 |
+| [1984](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [学生分数的最小差值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDifferenceBetweenHighestAndLowestOfKScores.java) | 简单 |
 | [1995](https://leetcode-cn.com/problems/count-special-quadruplets/) | [统计特殊四元组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountSpecialQuadruplets.java) | 简单 |
 | [1996](https://leetcode-cn.com/problems/the-number-of-weak-characters-in-the-game/) | [游戏中弱角色的数量](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TheNumberOfWeakCharactersInTheGame.java) | 中等 |
 | [2000](https://leetcode-cn.com/problems/reverse-prefix-of-word/) | [反转单词前缀](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReversePrefixOfWord.java) | 简单 |
