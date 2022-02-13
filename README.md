@@ -450,6 +450,7 @@
 | 1014 | [最佳观光组合](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BestSightseeingPair.java) | 中等 |
 | 1018 | [可被 5 整除的二进制前缀](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryPrefixDivisibleBy5.java) | 简单 |
 | 1019 | [链表中的下一个更大节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NextGreaterNodeInLinkedList.java) | 中等 |
+| [1020](https://leetcode-cn.com/problems/number-of-enclaves/) | [飞地的数量](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfEnclaves.java) | 中等 |
 | 1025 | [除数博弈](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DivisorGame.java) | 简单 |
 | [1034](https://leetcode-cn.com/problems/coloring-a-border/) | [边界着色](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ColoringABorder.java) | 中等 |
 | 1035 | [不相交的线](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UncrossedLines.java) | 中等 |
@@ -475,6 +476,7 @@
 | 1171 | [从链表中删去总和值为零的连续节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveZeroSumConsecutiveNodesFromLinkedList.java) | 中等 |
 | 1173 | [第 N 个泰波那契数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NThTribonacciNumber.java) | 简单 |
 | [1185](https://leetcode-cn.com/problems/day-of-the-week/) | [一周中的第几天](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DayOfTheWeek.java) | 简单 |
+| [1189](https://leetcode-cn.com/problems/maximum-number-of-balloons/) | [“气球” 的最大数量](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNumberOfBalloons.java) | 简单 |
 | 1200 | [最小绝对差](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumAbsoluteDifference.java) | 简单 |
 | 1217 | [玩筹码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PlayWithChips.java) | 简单 |
 | 1218 | [最长定差子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestArithmeticSubsequenceOfGivenDifference.java) | 中等 |
