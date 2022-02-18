@@ -554,6 +554,7 @@
 | [1748](https://leetcode-cn.com/problems/sum-of-unique-elements/) | [唯一元素的和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfUniqueElements.java) | 简单 |
 | [1763](https://leetcode-cn.com/problems/longest-nice-substring/) | [最长的美好子字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestNiceSubstring.java) | 简单 |
 | [1765](https://leetcode-cn.com/problems/map-of-highest-peak/) | [地图中的最高点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MapOfHighestPeak.java) | 中等 |
+| [1791](https://leetcode-cn.com/problems/find-center-of-star-graph/) | [找出星型图的中心节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindCenterOfStarGraph.java) | 简单 |
 | [1816](https://leetcode-cn.com/problems/truncate-sentence/) | [截断句子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TruncateSentence.java) | 简单 |
 | [1984](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [学生分数的最小差值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDifferenceBetweenHighestAndLowestOfKScores.java) | 简单 |
 | [1995](https://leetcode-cn.com/problems/count-special-quadruplets/) | [统计特殊四元组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountSpecialQuadruplets.java) | 简单 |
