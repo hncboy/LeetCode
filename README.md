@@ -430,7 +430,7 @@
 | 961 | [重复 N 次的元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NRepeatedElementInSize2nArray.java) | 简单 |
 | 962 | [最大宽度坡](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumWidthRamp.java) | 中等 |
 | 967 | [连续差相同的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumbersWithSameConsecutiveDifferences.java) | 中等 |
-| 969 | [煎饼排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PancakeSorting.java) | 中等 |
+| [969](https://leetcode-cn.com/problems/pancake-sorting/) | [煎饼排序](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PancakeSorting.java) | 中等 |
 | 974 | [和可被 K 整除的子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SubarraySumsDivisibleByK.java) | 中等 |
 | 977 | [有序数组的平方](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SquaresOfASortedArray.java) | 简单 |
 | 978 | [最长湍流子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestTurbulentSubarray.java) | 中等 |
