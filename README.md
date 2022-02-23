@@ -416,6 +416,7 @@
 | [913](https://leetcode-cn.com/problems/cat-and-mouse/) | [猫和老鼠](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CatAndMouse.java) | 困难 |
 | 914 | [卡牌分组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/XOfAKindInADeckOfCards.java) | 简单 |
 | 915 | [分割数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PartitionArrayIntoDisjointIntervals.java) | 中等 |
+| [916](https://leetcode-cn.com/problems/reverse-only-letters/) | [仅仅反转字母](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseOnlyLetters.java) | 简单 |
 | 918 | [环形子数组的最大和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumSumCircularSubarray.java) | 中等 |
 | [919](https://leetcode-cn.com/problems/complete-binary-tree-inserter/) | [完全二叉树插入器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CompleteBinaryTreeInserter.java) | 中等 |
 | 922 | [按奇偶排序数组 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SortArrayByParityII.java) | 简单 |
@@ -558,6 +559,7 @@
 | [1791](https://leetcode-cn.com/problems/find-center-of-star-graph/) | [找出星型图的中心节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindCenterOfStarGraph.java) | 简单 |
 | [1816](https://leetcode-cn.com/problems/truncate-sentence/) | [截断句子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TruncateSentence.java) | 简单 |
 | [1984](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [学生分数的最小差值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDifferenceBetweenHighestAndLowestOfKScores.java) | 简单 |
+| [1994](https://leetcode-cn.com/problems/the-number-of-good-subsets/) | [好子集的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TheNumberOfGoodSubsets.java) | 困难 |
 | [1995](https://leetcode-cn.com/problems/count-special-quadruplets/) | [统计特殊四元组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountSpecialQuadruplets.java) | 简单 |
 | [1996](https://leetcode-cn.com/problems/the-number-of-weak-characters-in-the-game/) | [游戏中弱角色的数量](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TheNumberOfWeakCharactersInTheGame.java) | 中等 |
 | [2000](https://leetcode-cn.com/problems/reverse-prefix-of-word/) | [反转单词前缀](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReversePrefixOfWord.java) | 简单 |
