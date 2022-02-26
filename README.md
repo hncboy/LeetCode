@@ -567,6 +567,7 @@
 | [2000](https://leetcode-cn.com/problems/reverse-prefix-of-word/) | [反转单词前缀](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReversePrefixOfWord.java) | 简单 |
 | [2006](https://leetcode-cn.com/problems/count-number-of-pairs-with-absolute-difference-k/) | [差的绝对值为 K 的数对数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountNumberOfPairsWithAbsoluteDifferenceK.java) | 简单 |
 | [2013](https://leetcode-cn.com/problems/detect-squares/) | [检测正方形](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DetectSquares.java) | 中等 |
+| [2016](https://leetcode-cn.com/problems/maximum-difference-between-increasing-elements/) | [增量元素之间的最大差值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumDifferenceBetweenIncreasingElements.java) | 简单 |
 | [2022](https://leetcode-cn.com/problems/convert-1d-array-into-2d-array/) | [将一维数组转变成二维数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Convert1dArrayInto2dArray.java) | 简单 |
 | [2027](https://leetcode-cn.com/problems/minimum-moves-to-convert-string/) | [转换字符串的最少操作次数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumMovesToConvertString.java) | 简单 |
 | [2028](https://leetcode-cn.com/problems/find-missing-observations/) | [找出缺失的观测数据](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindMissingObservations.java) | 中等 |
