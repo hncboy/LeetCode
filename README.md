@@ -317,6 +317,7 @@
 | [539](https://leetcode-cn.com/problems/minimum-time-difference/) | [最小时间差](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumTimeDifference.java) | 中等 |
 | [540](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/) | [有序数组中的单一元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SingleElementInASortedArray.java) | 中等 |
 | 543 | [二叉树的直径](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DiameterOfBinaryTree.java) | 简单 |
+| [553](https://leetcode-cn.com/problems/optimal-division/) | [最优除法](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/OptimalDivision.java) | 中等 |
 | [559](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/) | [N叉树的最大深度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumDepthOfNAryTree.java) | 简单 |
 | 560 | [和为K的子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SubarraySumEqualsK.java) | 中等 |
 | 561 | [数组拆分 I](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ArrayPartitionI.java) | 简单 |
