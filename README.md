@@ -537,7 +537,7 @@
 | 1360 | [日期之间隔几天](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfDaysBetweenTwoDates.java) | 简单 |
 | 1361 | [验证二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidateBinaryTreeNodes.java) | 中等 |
 | 1362 | [最接近的因数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ClosestDivisors.java) | 中等 |
-| [1380](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/) | [矩阵中的幸运数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LuckyNumbersInAMatrix.java) |  |
+| [1380](https://leetcode-cn.com/problems/lucky-numbers-in-a-matrix/) | [矩阵中的幸运数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LuckyNumbersInAMatrix.java) | 简单 |
 | [1405](https://leetcode-cn.com/problems/longest-happy-string/) | [最长快乐字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestHappyString.java) | 中等 |
 | [1414](https://leetcode-cn.com/problems/find-the-minimum-number-of-fibonacci-numbers-whose-sum-is-k/) | [和为 K 的最少斐波那契数字数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheMinimumNumberOfFibonacciNumbersWhoseSumIsK.java) | 中等 |
 | [1436](https://leetcode-cn.com/problems/destination-city/) | [旅行终点站](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DestinationCity.java) | 简单 |
@@ -546,6 +546,7 @@
 | [1518](https://leetcode-cn.com/problems/water-bottles/) | [换酒问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WaterBottles.java) | 简单 |
 | [1576](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [替换所有的问号](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReplaceAllSToAvoidConsecutiveRepeatingCharacters.java) | 简单 |
 | 1588 | [所有奇数长度子数组的和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfAllOddLengthSubarrays.java) | 简单 |
+| [1601](https://leetcode-cn.com/problems/maximum-number-of-achievable-transfer-requests/) | [最多可达成的换楼请求数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNumberOfAchievableTransferRequests.java) | 困难 |
 | [1609](https://leetcode-cn.com/problems/even-odd-tree/) | [奇偶树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/EvenOddTree.java) | 中等 |
 | [1610](https://leetcode-cn.com/problems/maximum-number-of-visible-points/) | [可见点的最大数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNumberOfVisiblePoints.java) | 困难 |
 | [1614](https://leetcode-cn.com/problems/maximum-nesting-depth-of-the-parentheses/) | [括号的最大嵌套深度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNestingDepthOfTheParentheses.java) | 简单 |
