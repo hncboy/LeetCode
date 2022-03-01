@@ -780,5 +780,6 @@
 | [剑指 Offer II 099](https://leetcode-cn.com/problems/0i0mDW/) | [最小路径之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question099.java) | 中等 |
 | [剑指 Offer II 100](https://leetcode-cn.com/problems/IlPe0q/) | [三角形中最小路径之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question100.java) | 中等 |
 | [剑指 Offer II 103](https://leetcode-cn.com/problems/gaM7Ch/) | [最少的硬币数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question103.java) | 中等 |
+| [剑指 Offer II 104](https://leetcode-cn.com/problems/D0F0SV/) | [排列的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question104.java) | 中等 |
 | [剑指 Offer II 105](https://leetcode-cn.com/problems/ZL6zAn/) | [岛屿的最大面积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question105.java) | 中等 |
 | [剑指 Offer II 119](https://leetcode-cn.com/problems/WhsWhI/) | [最长连续序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/swordreferstoofferspecial/Question119.java) | 中等 |
