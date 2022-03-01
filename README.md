@@ -13,7 +13,7 @@
 | 3 | [无重复字符的最长子串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestSubstringWithoutRepeatingCharacters.java) | 中等 |
 | 4 | [寻找两个有序数组的中位数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MedianOfTwoSortedArrays.java) | 困难 |
 | 5 | [最长回文子串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestPalindromicSubstring.java) | 中等 |
-| 6 | [Z 字形变换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ZigZagConversion.java) | 中等 |
+| [6](https://leetcode-cn.com/problems/zigzag-conversion/) | [Z 字形变换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ZigZagConversion.java) | 中等 |
 | 7 | [整数反转](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReverseInteger.java) | 简单 |
 | 8 | [字符串转换整数(atoi)](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/StringToIntegerAtoi.java) | 中等 |
 | 9 | [回文数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PalindromeNumber.java) | 简单 |
@@ -129,7 +129,7 @@
 | 125 | [验证回文串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidPalindrome.java) | 简单 |
 | 126 | [单词接龙 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WordLadderII.java) | 困难 |
 | 127 | [单词接龙](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WordLadder.java) | 中等 |
-| 128 | [最长连续序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestConsecutiveSequence.java) | 困难 |
+| [128](https://leetcode-cn.com/problems/longest-consecutive-sequence/) | [最长连续序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestConsecutiveSequence.java) | 困难 |
 | [129](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/) | [求根节点到叶节点数字之和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumRootToLeafNumbers.java) | 中等 |
 | 130 | [被围绕的区域](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SurroundedRegions.java) | 中等 |
 | [131](https://leetcode-cn.com/problems/palindrome-partitioning/) | [分割回文串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PalindromePartitioning.java) | 中等 |
