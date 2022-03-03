@@ -205,7 +205,7 @@
 | 239 | [滑动窗口最大值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SlidingWindowMaximum.java) | 困难 |
 | 240 | [搜索二维矩阵 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SearchA2dMatrixII.java) | 中等 |
 | 242 | [有效的字母异位词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidAnagram.java) | 简单 |
-| 258 | [各位相加](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AddDigits.java) | 简单 |
+| [258](https://leetcode-cn.com/problems/add-digits/) | [各位相加](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AddDigits.java) | 简单 |
 | 263 | [丑数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UglyNumber.java) | 简单 |
 | [260](https://leetcode-cn.com/problems/single-number-iii/) | [只出现一次的数字 III](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SingleNumberIII.java) | 中等 |
 | 264 | [丑数 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UglyNumberII.java) | 中等 |
