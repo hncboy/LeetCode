@@ -580,6 +580,7 @@
 | [2033](https://leetcode-cn.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [获取单值网格的最小操作数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumOperationsToMakeAUniValueGrid.java) | 中等 |
 | [2034](https://leetcode-cn.com/problems/stock-price-fluctuation/) | [股票价格波动](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/StockPriceFluctuation.java) | 中等 |
 | [2045](https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination/) | [到达目的地的第二短时间](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SecondMinimumTimeToReachDestination.java) | 困难 |
+| [2104](https://leetcode-cn.com/problems/sum-of-subarray-ranges/) | [子数组范围和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfSubarrayRanges.java) | 中等 |
 
 ## :currency_exchange:多线程
 
