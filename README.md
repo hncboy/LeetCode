@@ -309,6 +309,7 @@
 | 517 | [超级洗衣机](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SuperWashingMachines.java) | 困难 |
 | [519](https://leetcode-cn.com/problems/random-flip-matrix/) | [随机翻转矩阵](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RandomFlipMatrix.java) | 中等 |
 | 520 | [检测大写字母](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DetectCapital.java) | 简单 |
+| [521](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/) | [最长特殊序列Ⅰ](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestUncommonSubsequenceI.java) | 简单 |
 | [525](https://leetcode-cn.com/problems/contiguous-array/) | [连续数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ContiguousArray.java) | 中等 |
 | 526 | [优美的排列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BeautifulArrangement.java) | 中等 |
 | [528](https://leetcode-cn.com/problems/random-pick-with-weight/) | [按权重随机选择](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RandomPickWithWeight.java) | 中等 |
