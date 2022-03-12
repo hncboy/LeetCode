@@ -334,6 +334,7 @@
 | 581 | [最短无序连续子数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShortestUnsortedOntinuousSubarray.java) | 简单 |
 | 583 | [两个字符串的删除操作](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DeleteOperationForTwoStrings.java) | 中等 |
 | [589](https://leetcode-cn.com/problems/n-ary-tree-preorder-traversal/) | [N 叉树的前序遍历](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NAryTreePreorderTraversal.java) | 简单 |
+| [590](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) | [N 叉树的后序遍历](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NAryTreePostorderTraversal.java) | 简单 |
 | [594](https://leetcode-cn.com/problems/longest-harmonious-subsequence/) | [最长和谐子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestHarmoniousSubsequence.java) | 简单 |
 | [598](https://leetcode-cn.com/problems/range-addition-ii/) | [范围求和 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RangeAdditionII.java) | 简单 |
 | 605 | [种花问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CanPlaceFlowers.java) | 简单 |
