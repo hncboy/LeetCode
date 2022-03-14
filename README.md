@@ -338,6 +338,7 @@
 | [590](https://leetcode-cn.com/problems/n-ary-tree-postorder-traversal/) | [N 叉树的后序遍历](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NAryTreePostorderTraversal.java) | 简单 |
 | [594](https://leetcode-cn.com/problems/longest-harmonious-subsequence/) | [最长和谐子序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestHarmoniousSubsequence.java) | 简单 |
 | [598](https://leetcode-cn.com/problems/range-addition-ii/) | [范围求和 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RangeAdditionII.java) | 简单 |
+| [599](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/) | [两个列表的最小索引总和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumIndexSumOfTwoLists.java) | 简单 |
 | 605 | [种花问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CanPlaceFlowers.java) | 简单 |
 | 611 | [有效三角形的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTriangleNumber.java) | 中等 |
 | 628 | [三个数的最大乘积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumProductOfThreeNumbers.java) | 简单 |
