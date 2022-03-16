@@ -280,6 +280,7 @@
 | [421](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [数组中两个数的最大异或值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumXorOfTwoNumbersInAnArray.java) | 中等 |
 | [423](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/) | [从英文中重建数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReconstructOriginalDigitsFromEnglish.java) | 中等 |
 | 430 | [扁平化多级双向链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FlattenAMultilevelDoublyLinkedList.java) | 中等 |
+| [432](https://leetcode-cn.com/problems/all-oone-data-structure/) | [全 O(1) 的数据结构](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AllOoneDataStructure.java) | 困难 |
 | [434](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | [字符串中的单词数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfSegmentsInAString.java) | 简单 |
 | 437 | [路径总和 III](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PathSumIII.java) | 中等 |
 | [438](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/) | [找到字符串中所有字母异位词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindAllAnagramsInAString.java) | 中等 |
