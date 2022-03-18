@@ -588,6 +588,7 @@
 | [2032](https://leetcode-cn.com/problems/two-out-of-three/) | [至少在两个数组中出现的值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TwoOutOfThree.java) | 简单 |
 | [2033](https://leetcode-cn.com/problems/minimum-operations-to-make-a-uni-value-grid/) | [获取单值网格的最小操作数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumOperationsToMakeAUniValueGrid.java) | 中等 |
 | [2034](https://leetcode-cn.com/problems/stock-price-fluctuation/) | [股票价格波动](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/StockPriceFluctuation.java) | 中等 |
+| [2043](https://leetcode-cn.com/problems/simple-bank-system/) | [简易银行系统](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SimpleBankSystem.java) | 中等 |
 | [2044](https://leetcode-cn.com/problems/count-number-of-maximum-bitwise-or-subsets/) | [统计按位或能得到最大值的子集数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountNumberOfMaximumBitwiseOrSubsets.java) | 中等 |
 | [2045](https://leetcode-cn.com/problems/second-minimum-time-to-reach-destination/) | [到达目的地的第二短时间](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SecondMinimumTimeToReachDestination.java) | 困难 |
 | [2049](https://leetcode-cn.com/problems/count-nodes-with-the-highest-score/) | [统计最高分的节点数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountNodesWithTheHighestScore.java) | 中等 |
