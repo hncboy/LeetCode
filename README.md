@@ -341,6 +341,7 @@
 | [598](https://leetcode-cn.com/problems/range-addition-ii/) | [范围求和 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RangeAdditionII.java) | 简单 |
 | [599](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/) | [两个列表的最小索引总和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumIndexSumOfTwoLists.java) | 简单 |
 | 605 | [种花问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CanPlaceFlowers.java) | 简单 |
+| [606](https://leetcode-cn.com/problems/construct-string-from-binary-tree/) | [根据二叉树创建字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConstructStringFromBinaryTree.java) | 简单 |
 | 611 | [有效三角形的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidTriangleNumber.java) | 中等 |
 | 628 | [三个数的最大乘积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumProductOfThreeNumbers.java) | 简单 |
 | [629](https://leetcode-cn.com/problems/k-inverse-pairs-array/) | [K个逆序对数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KInversePairsArray.java) | 困难 |
