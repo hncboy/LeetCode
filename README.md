@@ -103,6 +103,7 @@
 | 96 | [不同的二叉搜索树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UniqueBinarySearchTrees.java) | 中等 |
 | [97](https://leetcode-cn.com/problems/interleaving-string/) | [交错字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/InterleavingString.java) | 中等 |
 | 98 | [验证二叉搜索树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidateBinarySearchTree.java) | 中等 |
+| [99](https://leetcode-cn.com/problems/recover-binary-search-tree/) | [恢复二叉搜索树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RecoverBinarySearchTree.java) | 中等 |
 | 100 | [相同的树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SameTree.java) | 简单 |
 | 101 | [对称二叉树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SymmetricTree.java) | 简单 |
 | 102 | [二叉树的层次遍历](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreeLevelOrderTraversal.java) | 中等 |
