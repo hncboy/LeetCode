@@ -277,6 +277,7 @@
 | 409 | [最长回文串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestPalindrome.java) | 简单 |
 | 412 | [Fizz Buzz](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FizzBuzz.java) | 简单 |
 | 414 | [第三大的数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ThirdMaximumNumber.java) | 简单 |
+| [415](https://leetcode-cn.com/problems/add-strings/) | [字符串相加](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AddStrings.java) | 简单 |
 | [419](https://leetcode-cn.com/problems/battleships-in-a-board/) | [甲板上的战舰](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BattleshipsInABoard.java) | 中等 |
 | [421](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [数组中两个数的最大异或值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumXorOfTwoNumbersInAnArray.java) | 中等 |
 | [423](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/) | [从英文中重建数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReconstructOriginalDigitsFromEnglish.java) | 中等 |
@@ -354,7 +355,7 @@
 | [647](https://leetcode-cn.com/problems/palindromic-substrings/) | [回文子串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PalindromicSubstrings.java) | 中等 |
 | [648](https://leetcode-cn.com/problems/replace-words/) | [单词替换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReplaceWords.java) | 中等 |
 | [653](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) | [两数之和 IV-输入 BST](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TwoSumIvInputIsABst.java) | 简单 |
-| 661 | [图片平滑器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ImageSmoother.java) | 简单 |
+| [661](https://leetcode-cn.com/problems/image-smoother/) | [图片平滑器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ImageSmoother.java) | 简单 |
 | 665 | [非递减数列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NonDecreasingArray.java) | 简单 |
 | 667 | [优美的排列 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BeautifulArrangementII.java) | 中等 |
 | 670 | [最大交换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumSwap.java) | 中等 |
