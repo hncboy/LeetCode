@@ -164,7 +164,7 @@
 | 168 | [Excel表列名称](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ExcelSheetColumnTitle.java) | 简单 |
 | 169 | [求众数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/majorityElement1.java) | 简单 |
 | 171 | [Excel表列序号](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ExcelSheetColumnNumber.java) | 简单 |
-| 172 | [阶乘后的零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FactorialTrailingZeroes.java) | 简单 |
+| [172](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) | [阶乘后的零](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FactorialTrailingZeroes.java) | 简单 |
 | [173](https://leetcode-cn.com/problems/binary-search-tree-iterator/) | [二叉搜索树迭代器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinarySearchTreeIterator.java) | 中等 |
 | 179 | [最大数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LargestNumber.java) | 中等 |
 | [187](https://leetcode-cn.com/problems/repeated-dna-sequences/) | [重复的DNA序列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RepeatedDnaSequences.java) | 中等 |
