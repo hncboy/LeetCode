@@ -363,6 +363,7 @@
 | [676](https://leetcode-cn.com/problems/implement-magic-dictionary/) | [实现一个魔法字典](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ImplementMagicDictionary.java) | 中等 |
 | [677](https://leetcode-cn.com/problems/map-sum-pairs/) | [键值映射](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MapSumPairs.java) | 中等 |
 | [680](https://leetcode-cn.com/problems/valid-palindrome-ii/) | [验证回文字符串 Ⅱ](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ValidPalindromeII.java) | 简单 |
+| [682](https://leetcode-cn.com/problems/baseball-game/) | [棒球比赛](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BaseballGame.java) | 简单 |
 | [686](https://leetcode-cn.com/problems/repeated-string-match/) | [重复叠加字符串匹配](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RepeatedStringMatch.java) | 中等 |
 | [688](https://leetcode-cn.com/problems/knight-probability-in-chessboard/) | [骑士在棋盘上的概率](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KnightProbabilityInChessboard.java) | 中等 |
 | [689](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [三个无重叠子数组的最大和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumSumOf3NonOverlappingSubarrays.java) | 困难 |
