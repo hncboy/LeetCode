@@ -367,7 +367,7 @@
 | [686](https://leetcode-cn.com/problems/repeated-string-match/) | [重复叠加字符串匹配](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RepeatedStringMatch.java) | 中等 |
 | [688](https://leetcode-cn.com/problems/knight-probability-in-chessboard/) | [骑士在棋盘上的概率](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KnightProbabilityInChessboard.java) | 中等 |
 | [689](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/) | [三个无重叠子数组的最大和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumSumOf3NonOverlappingSubarrays.java) | 困难 |
-| 693 | [交替位二进制数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryNumberWithAlternatingBits.java) | 简单 |
+| [693](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/) | [交替位二进制数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryNumberWithAlternatingBits.java) | 简单 |
 | [695](https://leetcode-cn.com/problems/max-area-of-island/) | [岛屿的最大面积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxAreaOfIsland.java) | 中等 |
 | 697 | [数组的度](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DegreeOfAnArray.java) | 简单 |
 | [700](https://leetcode-cn.com/problems/search-in-a-binary-search-tree/) | [二叉搜索树中的搜索](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DegreeOfAnArray.java) | 简单 |
@@ -562,6 +562,7 @@
 | [1518](https://leetcode-cn.com/problems/water-bottles/) | [换酒问题](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/WaterBottles.java) | 简单 |
 | [1576](https://leetcode-cn.com/problems/replace-all-s-to-avoid-consecutive-repeating-characters/) | [替换所有的问号](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReplaceAllSToAvoidConsecutiveRepeatingCharacters.java) | 简单 |
 | 1588 | [所有奇数长度子数组的和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfAllOddLengthSubarrays.java) | 简单 |
+| [1598](https://leetcode-cn.com/problems/crawler-log-folder/) | [文件夹操作日志搜集器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CrawlerLogFolder.java) | 简单 |
 | [1601](https://leetcode-cn.com/problems/maximum-number-of-achievable-transfer-requests/) | [最多可达成的换楼请求数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNumberOfAchievableTransferRequests.java) | 困难 |
 | [1609](https://leetcode-cn.com/problems/even-odd-tree/) | [奇偶树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/EvenOddTree.java) | 中等 |
 | [1610](https://leetcode-cn.com/problems/maximum-number-of-visible-points/) | [可见点的最大数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumNumberOfVisiblePoints.java) | 困难 |
