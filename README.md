@@ -462,6 +462,7 @@
 | [1001](https://leetcode-cn.com/problems/grid-illumination/) | [网格照明](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GridIllumination.java) | 困难 |
 | 1002 | [查找常用字符](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindCommonCharacters.java) | 简单 |
 | 1003 | [检查替换后的词是否有效](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CheckIfWordIsValidAfterSubstitutions.java) | 中等 |
+| [1004](https://leetcode-cn.com/problems/max-consecutive-ones-iii/) | [最大连续1的个数 III](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxConsecutiveOnesIii.java) | 中等 |
 | [1005](https://leetcode-cn.com/problems/maximize-sum-of-array-after-k-negations/) | [K 次取反后最大化的数组和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximizeSumOfArrayAfterKNegations.java) | 简单 |
 | 1007 | [行相等的最少多米诺旋转](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDominoRotationsForEqualRow.java) | 中等 |
 | [1009](https://leetcode-cn.com/problems/complement-of-base-10-integer/) | [十进制整数的反码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ComplementOfBase10Integer.java) | 简单 |
