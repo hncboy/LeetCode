@@ -447,7 +447,7 @@
 | 947 | [移除最多的同行或同列石头](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MostStonesRemovedWithSameRowOrColumn.java) | 中等 |
 | 950 | [按递增顺序显示卡牌](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RevealCardsInIncreasingOrder.java) | 中等 |
 | [953](https://leetcode-cn.com/problems/verifying-an-alien-dictionary/) | [验证外星语词典](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/VerifyingAnAlienDictionary.java) | 简单 |
-| 954 | [二倍数对数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ArrayOfDoubledPairs.java) | 中等 |
+| [954](https://leetcode-cn.com/problems/array-of-doubled-pairs/) | [二倍数对数组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ArrayOfDoubledPairs.java) | 中等 |
 | 961 | [重复 N 次的元素](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NRepeatedElementInSize2nArray.java) | 简单 |
 | 962 | [最大宽度坡](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumWidthRamp.java) | 中等 |
 | 967 | [连续差相同的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumbersWithSameConsecutiveDifferences.java) | 中等 |
