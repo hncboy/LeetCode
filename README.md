@@ -279,6 +279,7 @@
 | 414 | [第三大的数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ThirdMaximumNumber.java) | 简单 |
 | [415](https://leetcode-cn.com/problems/add-strings/) | [字符串相加](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AddStrings.java) | 简单 |
 | [419](https://leetcode-cn.com/problems/battleships-in-a-board/) | [甲板上的战舰](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BattleshipsInABoard.java) | 中等 |
+| [420](https://leetcode-cn.com/problems/strong-password-checker/) | [强密码检验器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/StrongPasswordChecker.java) | 困难 |
 | [421](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [数组中两个数的最大异或值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumXorOfTwoNumbersInAnArray.java) | 中等 |
 | [423](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/) | [从英文中重建数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReconstructOriginalDigitsFromEnglish.java) | 中等 |
 | 430 | [扁平化多级双向链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FlattenAMultilevelDoublyLinkedList.java) | 中等 |
