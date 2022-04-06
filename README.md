@@ -232,6 +232,7 @@
 | [306](https://leetcode-cn.com/problems/additive-number/) | [累加数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AdditiveNumber.java) | 中等 |
 | [307](https://leetcode-cn.com/problems/range-sum-query-mutable/) | [区域和检索 - 数组可修改](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RangeSumQueryMutable.java) | 中等 |
 | 309 | [最佳买卖股票时机含冷冻期](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BestTimeToBuyAndSellStockWithCooldown.java) | 中等 |
+| [310](https://leetcode-cn.com/problems/minimum-height-trees/) | [最小高度树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumHeightTrees.java) | 中等 |
 | 313 | [超级丑数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SuperUglyNumber.java) | 中等 |
 | 316 | [去除重复字母](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RemoveDuplicateLetters.java) | 困难 |
 | [318](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/) | [最大单词长度乘积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumProductOfWordLengths.java) | 中等 |
