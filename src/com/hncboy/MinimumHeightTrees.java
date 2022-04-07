@@ -1,5 +1,7 @@
 package com.hncboy;
 
+import java.util.*;
+
 /**
  * @author hncboy
  * @date 2022/4/6 12:25
@@ -45,7 +47,7 @@ public class MinimumHeightTrees {
 
     public int findLongestNode(int u, int[] parent, List<Integer>[] adj) {
         int n = adj.length;
-        Queue<Integer> queue = new ArrayDeque<Integer>();
+        Queue<Integer> queue = new ArrayDeque<>();
         boolean[] visit = new boolean[n];
         queue.offer(u);
         visit[u] = true;
