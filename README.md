@@ -397,6 +397,7 @@
 | 769 | [最多能完成排序的块](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxChunksToMakeSorted.java) | 中等 |
 | 771 | [宝石与石头](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/JewelsAndStones.java) | 简单 |
 | 775 | [全局倒置与局部倒置](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/GlobalAndLocalInversions.java) | 中等 |
+| [780](https://leetcode-cn.com/problems/reaching-points/) | [到达终点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReachingPoints.java) | 困难 |
 | 783 | [二叉搜索树结点最小距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDistanceBetweenBstNodes.java) | 简单 |
 | [786](https://leetcode-cn.com/problems/k-th-smallest-prime-fraction/) | [第 K 个最小的素数分数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KThSmallestPrimeFraction.java) | 困难 |
 | 792 | [匹配子序列的单词数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfMatchingSubsequences.java) | 中等 |
