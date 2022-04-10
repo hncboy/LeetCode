@@ -405,6 +405,7 @@
 | 795 | [区间子数组个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfSubarraysWithBoundedMaximum.java) | 中等 |
 | [796](https://leetcode-cn.com/problems/rotate-string/) | [旋转字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/RotateString.java) | 简单 |
 | [798](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/) | [得分最高的最小轮调](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SmallestRotationWithHighestScore.java) | 困难 |
+| [804](https://leetcode-cn.com/problems/unique-morse-code-words/) | [唯一摩尔斯密码词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/UniqueMorseCodeWords.java) | 简单 |
 | [807](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/) | [保持城市天际线](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxIncreaseToKeepCitySkyline.java) | 中等 |
 | [814](https://leetcode-cn.com/problems/binary-tree-pruning/) | [二叉树剪枝](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreePruning.java) | 中等 |
 | [820](https://leetcode-cn.com/problems/short-encoding-of-words/) | [单词的压缩编码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShortEncodingOfWords.java) | 中等 |
