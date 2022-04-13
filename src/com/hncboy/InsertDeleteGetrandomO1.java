@@ -5,7 +5,7 @@ import java.util.*;
 /**
  * @author hncboy
  * @date 2019/10/17 8:41
- * @description 380.O(1) 时间插入、删除和获取随机元素
+ * 380.O(1) 时间插入、删除和获取随机元素
  *
  * 实现RandomizedSet 类：
  * RandomizedSet() 初始化 RandomizedSet 对象
@@ -29,12 +29,12 @@ import java.util.*;
  * randomizedSet.remove(1); // 从集合中移除 1 ，返回 true 。集合现在包含 [2] 。
  * randomizedSet.insert(2); // 2 已在集合中，所以返回 false 。
  * randomizedSet.getRandom(); // 由于 2 是集合中唯一的数字，getRandom 总是返回 2 。
- *  
  *
  * 提示：
  * -231 <= val <= 231 - 1
  * 最多调用 insert、remove 和 getRandom 函数 2 * 105 次
  * 在调用 getRandom 方法时，数据结构中 至少存在一个 元素。
+ * 通过次数 60,666 提交次数 116,500
  *
  * 来源：力扣（LeetCode）
  * 链接：https://leetcode-cn.com/problems/insert-delete-getrandom-o1
