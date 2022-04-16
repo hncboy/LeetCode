@@ -304,6 +304,7 @@
 | [472](https://leetcode-cn.com/problems/concatenated-words/) | [连接词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ConcatenatedWords.java) | 困难 |
 | [475](https://leetcode-cn.com/problems/heaters/) | [供暖器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/Heaters.java) | 中等 |
 | [476](https://leetcode-cn.com/problems/number-complement/) | [数字的补数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberComplement.java) | 简单 |
+| [479](https://leetcode-cn.com/problems/largest-palindrome-product/) | [最大回文数乘积](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LargestPalindromeProduct.java) | 困难 |
 | [482](https://leetcode-cn.com/problems/license-key-formatting/) | [密钥格式化](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LicenseKeyFormatting.java) | 简单 |
 | 485 | [最大连续1的个数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxConsecutiveOnes.java) | 简单 |
 | [488](https://leetcode-cn.com/problems/zuma-game/) | [祖玛游戏](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ZumaGame.java) | 困难 |
