@@ -412,6 +412,7 @@
 | [806](https://leetcode-cn.com/problems/number-of-lines-to-write-string/) | [写字符串需要的行数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfLinesToWriteString.java) | 简单 |
 | [807](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/) | [保持城市天际线](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaxIncreaseToKeepCitySkyline.java) | 中等 |
 | [814](https://leetcode-cn.com/problems/binary-tree-pruning/) | [二叉树剪枝](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreePruning.java) | 中等 |
+| [819](https://leetcode-cn.com/problems/most-common-word/) | [最常见的单词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MostCommonWord.java) | 简单 |
 | [820](https://leetcode-cn.com/problems/short-encoding-of-words/) | [单词的压缩编码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShortEncodingOfWords.java) | 中等 |
 | [825](https://leetcode-cn.com/problems/friends-of-appropriate-ages/) | [适龄的朋友](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FriendsOfAppropriateAges.java) | 中等 |
 | 830 | [较大分组的位置](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PositionsOfLargeGroups.java) | 简单 |
