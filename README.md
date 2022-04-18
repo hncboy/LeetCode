@@ -415,6 +415,7 @@
 | [814](https://leetcode-cn.com/problems/binary-tree-pruning/) | [二叉树剪枝](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/BinaryTreePruning.java) | 中等 |
 | [819](https://leetcode-cn.com/problems/most-common-word/) | [最常见的单词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MostCommonWord.java) | 简单 |
 | [820](https://leetcode-cn.com/problems/short-encoding-of-words/) | [单词的压缩编码](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShortEncodingOfWords.java) | 中等 |
+| [821](https://leetcode-cn.com/problems/shortest-distance-to-a-character/) | [字符的最短距离](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ShortestDistanceToACharacter.java) | 简单 |
 | [825](https://leetcode-cn.com/problems/friends-of-appropriate-ages/) | [适龄的朋友](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FriendsOfAppropriateAges.java) | 中等 |
 | 830 | [较大分组的位置](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PositionsOfLargeGroups.java) | 简单 |
 | 832 | [翻转图像](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FlippingAnImage.java) | 简单 |
