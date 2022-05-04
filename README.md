@@ -598,6 +598,7 @@
 | [1765](https://leetcode-cn.com/problems/map-of-highest-peak/) | [地图中的最高点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MapOfHighestPeak.java) | 中等 |
 | [1791](https://leetcode-cn.com/problems/find-center-of-star-graph/) | [找出星型图的中心节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindCenterOfStarGraph.java) | 简单 |
 | [1816](https://leetcode-cn.com/problems/truncate-sentence/) | [截断句子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TruncateSentence.java) | 简单 |
+| [1823](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/) | [找出游戏的获胜者](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheWinnerOfTheCircularGame.java) | 中等 |
 | [1984](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [学生分数的最小差值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDifferenceBetweenHighestAndLowestOfKScores.java) | 简单 |
 | [1994](https://leetcode-cn.com/problems/the-number-of-good-subsets/) | [好子集的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TheNumberOfGoodSubsets.java) | 困难 |
 | [1995](https://leetcode-cn.com/problems/count-special-quadruplets/) | [统计特殊四元组](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/CountSpecialQuadruplets.java) | 简单 |
