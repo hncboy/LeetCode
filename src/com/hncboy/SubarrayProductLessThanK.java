@@ -3,7 +3,7 @@ package com.hncboy;
 /**
  * @author hncboy
  * @date 2019/11/29 10:43
- * @description 713.乘积小于K的子数组
+ * 713.乘积小于K的子数组
  *
  * 给定一个正整数数组 nums和整数 k 。
  * 请找出该数组内乘积小于 k 的连续的子数组的个数。
