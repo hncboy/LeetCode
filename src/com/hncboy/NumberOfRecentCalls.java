@@ -6,7 +6,7 @@ import java.util.Queue;
 /**
  * @author hncboy
  * @date 2021/11/2 9:12
- * @description 933.最近的请求次数
+ * 933.最近的请求次数
  * 
  * 写一个 RecentCounter 类来计算特定时间范围内最近的请求。
  *

@@ -290,12 +290,13 @@
 | [423](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/) | [从英文中重建数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReconstructOriginalDigitsFromEnglish.java) | 中等 |
 | 430 | [扁平化多级双向链表](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FlattenAMultilevelDoublyLinkedList.java) | 中等 |
 | [432](https://leetcode-cn.com/problems/all-oone-data-structure/) | [全 O(1) 的数据结构](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AllOoneDataStructure.java) | 困难 |
+| [433](https://leetcode-cn.com/problems/minimum-genetic-mutation/) | [最小基因变化](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumGeneticMutation.java) | 中等 |
 | [434](https://leetcode-cn.com/problems/number-of-segments-in-a-string/) | [字符串中的单词数](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfSegmentsInAString.java) | 简单 |
 | 437 | [路径总和 III](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PathSumIII.java) | 中等 |
 | [438](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/) | [找到字符串中所有字母异位词](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindAllAnagramsInAString.java) | 中等 |
 | [440](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/) | [字典序的第K小数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/KThSmallestInLexicographicalOrder.java) | 困难 |
 | 441 | [排列硬币](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ArrangingCoins.java) | 简单 |
-| 442 | [数组中重复的数据](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindAllDuplicatesInAnArray.java) | 中等 |
+| [442](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/) | [数组中重复的数据](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindAllDuplicatesInAnArray.java) | 中等 |
 | 445 | [两数相加 II](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/AddTwoNumbersII.java) | 中等 |
 | 448 | [找到所有数组中消失的数字](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindAllNumbersDisappearedInAnArray.java) | 简单 |
 | [453](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/) | [最小操作次数使数组元素相等](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumMovesToEqualArrayElements.java) | 简单 |
