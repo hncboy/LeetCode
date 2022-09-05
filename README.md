@@ -364,6 +364,7 @@
 | 643 | [子数组最大平均数 I](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MaximumAverageSubarrayI.java) | 简单 |
 | [647](https://leetcode-cn.com/problems/palindromic-substrings/) | [回文子串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/PalindromicSubstrings.java) | 中等 |
 | [648](https://leetcode-cn.com/problems/replace-words/) | [单词替换](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ReplaceWords.java) | 中等 |
+| [652](https://leetcode.cn/problems/find-duplicate-subtrees/) | [寻找重复的子树](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindDuplicateSubtrees.java) | 中等 |
 | [653](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/) | [两数之和 IV-输入 BST](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TwoSumIvInputIsABst.java) | 简单 |
 | [661](https://leetcode-cn.com/problems/image-smoother/) | [图片平滑器](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/ImageSmoother.java) | 简单 |
 | 665 | [非递减数列](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NonDecreasingArray.java) | 简单 |
