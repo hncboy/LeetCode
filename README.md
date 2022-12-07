@@ -598,6 +598,7 @@
 | [1748](https://leetcode-cn.com/problems/sum-of-unique-elements/) | [唯一元素的和](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/SumOfUniqueElements.java) | 简单 |
 | [1763](https://leetcode-cn.com/problems/longest-nice-substring/) | [最长的美好子字符串](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/LongestNiceSubstring.java) | 简单 |
 | [1765](https://leetcode-cn.com/problems/map-of-highest-peak/) | [地图中的最高点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MapOfHighestPeak.java) | 中等 |
+| [1775](https://leetcode.cn/problems/equal-sum-arrays-with-minimum-number-of-operations/) | [通过最少操作次数使数组的和相等](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/EqualSumArraysWithMinimumNumberOfOperations.java) | 中等 |
 | [1791](https://leetcode-cn.com/problems/find-center-of-star-graph/) | [找出星型图的中心节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindCenterOfStarGraph.java) | 简单 |
 | [1805](https://leetcode.cn/problems/number-of-different-integers-in-a-string/) | [字符串中不同整数的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfDifferentIntegersInAString.java) | 简单 |
 | [1816](https://leetcode-cn.com/problems/truncate-sentence/) | [截断句子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TruncateSentence.java) | 简单 |
