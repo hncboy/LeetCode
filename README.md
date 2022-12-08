@@ -601,6 +601,7 @@
 | [1775](https://leetcode.cn/problems/equal-sum-arrays-with-minimum-number-of-operations/) | [通过最少操作次数使数组的和相等](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/EqualSumArraysWithMinimumNumberOfOperations.java) | 中等 |
 | [1791](https://leetcode-cn.com/problems/find-center-of-star-graph/) | [找出星型图的中心节点](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindCenterOfStarGraph.java) | 简单 |
 | [1805](https://leetcode.cn/problems/number-of-different-integers-in-a-string/) | [字符串中不同整数的数目](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/NumberOfDifferentIntegersInAString.java) | 简单 |
+| [1812](https://leetcode.cn/problems/determine-color-of-a-chessboard-square/) | [判断国际象棋棋盘中一个格子的颜色](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/DetermineColorOfAChessboardSquare.java) | 简单 |
 | [1816](https://leetcode-cn.com/problems/truncate-sentence/) | [截断句子](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/TruncateSentence.java) | 简单 |
 | [1823](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game/) | [找出游戏的获胜者](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/FindTheWinnerOfTheCircularGame.java) | 中等 |
 | [1984](https://leetcode-cn.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | [学生分数的最小差值](https://github.com/hncboy/LeetCode/blob/master/src/com/hncboy/MinimumDifferenceBetweenHighestAndLowestOfKScores.java) | 简单 |
